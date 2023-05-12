@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>THE BIGGEST AND BEST MOVIES OF THE LAST 25 YEARS
+WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO THE BIGGEST BOX OFFICE EARNER, AND MORE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230512T161326Z" creationid="elisamariamoratonmateo" creationdate="20230512T161326Z">
+        <seg>HE BIGGEST AND BEST MOVIES OF THE LAST 25 YEARS
+WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO THE BIGGEST BOX OFFICE EARNER, AND MORE.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
