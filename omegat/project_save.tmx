@@ -6,6 +6,16 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-GB">
+        <seg>TAGGED AS: BOX OFFICE, MOVIES, RT25, STREAMING MOVIES
+The last two and a half decades have brought a lot of change in the film industry, from the mass popularization of 3D, D-Box, ScreenX and other theatrical experiences to the advent of streaming services and, more recently, the disruptive effect of the COVID-19 pandemic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230512T164036Z" creationid="elisamariamoratonmateo" creationdate="20230512T164036Z">
+        <seg>TAGGED AS: BOX OFFICE, MOVIES, RT25, streaming MOVIES
+The last two and a half decades have brought a lot of change in the film industry, from the mass popularization of 3D, D-Box, ScreenX and other theatrical experiences to the advent of streaming services and, more recently, the disruptive effect of the COVID-19 pandemic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>THE BIGGEST AND BEST MOVIES OF THE LAST 25 YEARS
 WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO THE BIGGEST BOX OFFICE EARNER, AND MORE.</seg>
       </tuv>
