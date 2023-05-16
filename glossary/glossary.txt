@@ -6,3 +6,11 @@ spirit	espíritu
 film	película
 movie	película
 Movies	películas
+series	serie
+programs	programas
+season	temporada
+critics	críticas
+tomatometer	tomatómetro
+viewers	audiencia
+show	serie
+broadcast	emisión
