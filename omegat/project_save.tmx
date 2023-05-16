@@ -102,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Binge Guide</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153830Z" creationid="Julia_Hurtado" creationdate="20230516T153830Z">
+        <seg>Guía de atracones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Box Office</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145415Z" creationid="Julia_Hurtado" creationdate="20230516T145415Z">
         <seg>Taquillazo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Box Office Guru</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153843Z" creationid="Julia_Hurtado" creationdate="20230516T153843Z">
+        <seg>Guru de taquillazos</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Critics Consensus</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153900Z" creationid="Julia_Hurtado" creationdate="20230516T153900Z">
+        <seg>Consenso de críticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Early stars Andrew Lincoln, Sarah Wayne Callies, Steve Yeun, and Jon Bernthal eventually made way for new actors like Lauren Cohan, Danai Gurira, Ross Marquand, Khary Payton, Christian Serratos, and others to take the lead, while Melissa McBride and Norman Reedus saw their Carol-and-Daryl dynamic through from the very first episode to the very last.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T163033Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
@@ -242,6 +266,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144047Z" creationid="Julia_Hurtado" creationdate="20230516T144047Z">
         <seg>Descubre qué series tienen más críticas, los Rotten Tomatoes empezaron a cubrir la televisión, los programas más premiados en los Emmy y más datos curiosos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Five Favorite Films</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153911Z" creationid="Julia_Hurtado" creationdate="20230516T153911Z">
+        <seg>Cinco películas favoritas</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Now Streaming</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153922Z" creationid="Julia_Hurtado" creationdate="20230516T153922Z">
+        <seg>Ahora en streaming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>On DVD &amp; Streaming</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152743Z" creationid="Julia_Hurtado" creationdate="20230516T152743Z">
@@ -470,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Parental Guidance</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153937Z" creationid="Julia_Hurtado" creationdate="20230516T153937Z">
+        <seg>Guía parental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Queen Charlotte: A Bridgerton Story: Season 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153324Z" creationid="Julia_Hurtado" creationdate="20230516T153324Z">
@@ -478,10 +526,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>RT on DVD</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T154008Z" creationid="Julia_Hurtado" creationdate="20230516T154008Z">
+        <seg>RT en DVD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rabbit Hole: Season 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153628Z" creationid="Julia_Hurtado" creationdate="20230516T153628Z">
         <seg>Rabbit Hole: Temporada 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red Carpet Roundup</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T154003Z" creationid="Julia_Hurtado" creationdate="20230516T154003Z">
+        <seg>Alfombra roja</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +678,14 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153310Z" creationid="Julia_Hurtado" creationdate="20230516T153310Z">
         <seg>The Other Two: Temporada 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Simpsons Decade</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T154020Z" creationid="Julia_Hurtado" creationdate="20230516T154020Z">
+        <seg>La década de los Simpson</seg>
       </tuv>
     </tu>
     <tu>
