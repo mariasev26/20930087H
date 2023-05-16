@@ -1,2 +1,7 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 STREAMING	streaming
+Terror	terror
+death	muerte
+spirit	espíritu
+film	película
+movie	película
