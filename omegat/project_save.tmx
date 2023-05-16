@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Amazon and Amazon Prime</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152016Z" creationid="Julia_Hurtado" creationdate="20230516T152016Z">
+        <seg>Amazon y Amazon Prime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>As we celebrate our 25th birthday this year, we’re looking back at some of the TV milestones reached in that time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213420Z" creationid="Julia_Hurtado" creationdate="20230509T213420Z">
@@ -78,10 +86,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Browse All</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152147Z" creationid="Julia_Hurtado" creationdate="20230516T152147Z">
+        <seg>Ver todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>By the end of the series’ run, the show more than tripled that number across season 8’s six episodes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084927Z" creationid="Julia_Hurtado" creationdate="20230516T084927Z">
         <seg>Al final de la serie, la cifra se triplicó con creces en los seis episodios de la octava temporada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Certified Fresh Movies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152001Z" creationid="Julia_Hurtado" creationdate="20230516T152001Z">
+        <seg>Películas nuevas certificadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Coming Soon to DVD</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152118Z" creationid="Julia_Hurtado" creationdate="20230516T152118Z">
+        <seg>Pronto en DVD</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +138,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144047Z" creationid="Julia_Hurtado" creationdate="20230516T144047Z">
         <seg>Descubre qué series tienen más críticas, los Rotten Tomatoes empezaron a cubrir la televisión, los programas más premiados en los Emmy y más datos curiosos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Forums</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152225Z" creationid="Julia_Hurtado" creationdate="20230516T152225Z">
+        <seg>Foros</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152127Z" creationid="Julia_Hurtado" creationdate="20230516T152127Z">
+        <seg>Más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Most Reviewed Season</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084609Z" creationid="Julia_Hurtado" creationdate="20230516T084609Z">
@@ -206,10 +254,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>New Releases</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152111Z" creationid="Julia_Hurtado" creationdate="20230516T152111Z">
+        <seg>Nuevos lanzamientos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>News</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145157Z" creationid="Julia_Hurtado" creationdate="20230516T145157Z">
         <seg>Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>On Dvd &amp; Streaming</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152006Z" creationid="Julia_Hurtado" creationdate="20230516T152006Z">
+        <seg>En Dvd &amp; Streaming</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,10 +386,34 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Top Movies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152202Z" creationid="Julia_Hurtado" creationdate="20230516T152202Z">
+        <seg>Películas top</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Top Rentals</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152050Z" creationid="Julia_Hurtado" creationdate="20230516T152050Z">
+        <seg>Mejores alquileres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Weekend Earnings</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T151943Z" creationid="Julia_Hurtado" creationdate="20230516T151943Z">
         <seg>Novedades semanales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>What to Watch</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152155Z" creationid="Julia_Hurtado" creationdate="20230516T152155Z">
+        <seg>Qué ver</seg>
       </tuv>
     </tu>
     <tu>
