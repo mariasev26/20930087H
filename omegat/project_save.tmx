@@ -142,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Certified Fresh Pick</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153643Z" creationid="Julia_Hurtado" creationdate="20230516T153643Z">
+        <seg>Nuevas elecciones certificadas </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Certified Fresh Picks</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152253Z" creationid="Julia_Hurtado" creationdate="20230516T152253Z">
         <seg>Nuevas elecciones certificadas </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Certified Fresh TV</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153500Z" creationid="Julia_Hurtado" creationdate="20230516T153500Z">
+        <seg>Novedades certificadas de televisión</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153052Z" creationid="Julia_Hurtado" creationdate="20230516T153052Z">
         <seg>Citadel: Temporada 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Columns</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153708Z" creationid="Julia_Hurtado" creationdate="20230516T153708Z">
+        <seg>Columnas</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Episodic Reviews</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153554Z" creationid="Julia_Hurtado" creationdate="20230516T153554Z">
+        <seg>Reseñas por capítulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fatal Attraction: Season 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153211Z" creationid="Julia_Hurtado" creationdate="20230516T153211Z">
@@ -218,6 +250,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152225Z" creationid="Julia_Hurtado" creationdate="20230516T152225Z">
         <seg>Foros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frames</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153737Z" creationid="Julia_Hurtado" creationdate="20230516T153737Z">
+        <seg>Fotogramas</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rabbit Hole: Season 1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153628Z" creationid="Julia_Hurtado" creationdate="20230516T153628Z">
+        <seg>Rabbit Hole: Temporada 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rotten Tomatoes has been going strong since August 1998 and began aggregating reviews for TV and giving series Tomatometer scores in 2013.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213358Z" creationid="Julia_Hurtado" creationdate="20230509T213358Z">
@@ -474,6 +522,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085007Z" creationid="Julia_Hurtado" creationdate="20230516T085007Z">
         <seg>Protagonizada por un elenco de actores, muchos de los cuales eran desconocidos al principio de la serie, &lt;e1&gt;Juego de Tronos&lt;/e1&gt; convirtió en superestrellas internacionales a Kit Harington como Jon Nieve, Emilia Clarke como Daenerys Targaryen, Sophie Turner como Sansa Stark, Maisie Williams como Arya Stark, y otros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Succession: Season 4</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153612Z" creationid="Julia_Hurtado" creationdate="20230516T153612Z">
+        <seg>Succession: Temporada 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +598,14 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152958Z" creationid="Julia_Hurtado" creationdate="20230516T152958Z">
         <seg>La diplomática: Temporada 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Mandalorian: Season 3</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153621Z" creationid="Julia_Hurtado" creationdate="20230516T153621Z">
+        <seg>The Mandalorian: Temporada 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +682,14 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Top TV Shows</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153439Z" creationid="Julia_Hurtado" creationdate="20230516T153439Z">
+        <seg>Mejores series de televisión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>View All</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153218Z" creationid="Julia_Hurtado" creationdate="20230516T153218Z">
@@ -654,6 +726,14 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084444Z" creationid="Julia_Hurtado" creationdate="20230516T084444Z">
         <seg>Con múltiples secuelas para el futuro, la serie se esforzó a lo largo de su última temporada para mantener el suspense durante los días más tensos de la serie, cuando aparentemente cualquiera podía morir en cualquier momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellowjackets: Season 2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153601Z" creationid="Julia_Hurtado" creationdate="20230516T153601Z">
+        <seg>Yellowjackets: Temporada 2</seg>
       </tuv>
     </tu>
     <tu>
