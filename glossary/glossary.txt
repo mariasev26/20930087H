@@ -5,3 +5,4 @@ death	muerte
 spirit	espíritu
 film	película
 movie	película
+Movies	películas
