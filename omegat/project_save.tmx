@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66,6 +66,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T162700Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
         <seg>Basada en la serie de cómics escrita por Robert Kirkman, la serie y su elenco consiguieron una enorme cantidad de fans, contando la historia de unos supervivientes del apocalipsis que buscaban un hogar permanente, libre de caminantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Box Office</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145415Z" creationid="Julia_Hurtado" creationdate="20230516T145415Z">
+        <seg>Taquillazo</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>MORE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145424Z" creationid="Julia_Hurtado" creationdate="20230516T145424Z">
+        <seg>Más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Most Reviewed Season</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084609Z" creationid="Julia_Hurtado" creationdate="20230516T084609Z">
@@ -166,10 +182,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Movies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145439Z" creationid="Julia_Hurtado" creationdate="20230516T145439Z">
+        <seg>Películas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Movies in Theaters</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145445Z" creationid="Julia_Hurtado" creationdate="20230516T145445Z">
+        <seg>Películas en cine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>News</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145157Z" creationid="Julia_Hurtado" creationdate="20230516T145157Z">
         <seg>Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Opening This Week</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145457Z" creationid="Julia_Hurtado" creationdate="20230516T145457Z">
+        <seg>Estrenos esta semanak</seg>
       </tuv>
     </tu>
     <tu>
