@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Coming Soon to Theaters</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T151659Z" creationid="Julia_Hurtado" creationdate="20230516T151659Z">
+        <seg>Próximamente en cines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Early stars Andrew Lincoln, Sarah Wayne Callies, Steve Yeun, and Jon Bernthal eventually made way for new actors like Lauren Cohan, Danai Gurira, Ross Marquand, Khary Payton, Christian Serratos, and others to take the lead, while Melissa McBride and Norman Reedus saw their Carol-and-Daryl dynamic through from the very first episode to the very last.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T163033Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
@@ -208,8 +216,8 @@
       <tuv lang="en-GB">
         <seg>Opening This Week</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145457Z" creationid="Julia_Hurtado" creationdate="20230516T145457Z">
-        <seg>Estrenos esta semanak</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T151641Z" creationid="Julia_Hurtado" creationdate="20230516T145457Z">
+        <seg>Estrenos esta semana</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +318,14 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144832Z" creationid="Julia_Hurtado" creationdate="20230516T144832Z">
         <seg>Taquillazo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weekend Earnings</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T151943Z" creationid="Julia_Hurtado" creationdate="20230516T151943Z">
+        <seg>Novedades semanales</seg>
       </tuv>
     </tu>
     <tu>
