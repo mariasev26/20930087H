@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084551Z" creationid="Julia_Hurtado" creationdate="20230516T084551Z">
         <seg>(Temporada 11, episodio 24) –&lt;a0&gt;Jessica Liese, Variety&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;a0&gt;SIGN UP&lt;/a0&gt; &lt;a1&gt;LOG IN&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145239Z" creationid="Julia_Hurtado" creationdate="20230516T145239Z">
+        <seg>&lt;a0&gt;Registrarse&lt;/a0&gt; &lt;a1&gt;Iniciar sesión&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;a0&gt;What's the Tomatometer?®&lt;/a0&gt; &lt;a1&gt;RT Critics&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145326Z" creationid="Julia_Hurtado" creationdate="20230516T145326Z">
+        <seg>¿Que es el Tomatómetro?</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144725Z" creationid="Julia_Hurtado" creationdate="20230516T144529Z">
+        <seg>Página principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>I don’t think anyone can be happy that this season focused, in the end, on Jon Snow, the least complicated main character on an ensemble full of brutal instincts and grasping ambition.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085246Z" creationid="Julia_Hurtado" creationdate="20230516T085246Z">
@@ -126,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Logout</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145250Z" creationid="Julia_Hurtado" creationdate="20230516T145250Z">
+        <seg>Salir de la sesión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Most Reviewed Season</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084609Z" creationid="Julia_Hurtado" creationdate="20230516T084609Z">
@@ -134,10 +166,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>News</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145157Z" creationid="Julia_Hurtado" creationdate="20230516T145157Z">
+        <seg>Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rotten Tomatoes has been going strong since August 1998 and began aggregating reviews for TV and giving series Tomatometer scores in 2013.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213358Z" creationid="Julia_Hurtado" creationdate="20230509T213358Z">
         <seg>Rotten Tomatoes lleva funcionando con fuerza desde agosto de 1998 y empezó a agregar críticas para televisión y a dar puntuaciones Tomatometer a series en 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Search movies, TV, actors, more...</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145352Z" creationid="Julia_Hurtado" creationdate="20230516T145352Z">
+        <seg>Buscar películas, televisión, actores, más...</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +254,22 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085423Z" creationid="Julia_Hurtado" creationdate="20230516T085423Z">
         <seg>El aspecto más extraño del esperado, muy ridiculizado, pero en realidad muy buen final de &lt;e0&gt;Juego de Tronos&lt;/e0&gt; es que intenta vender un golpe aristocrático como una revolución gloriosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tickets &amp; Showtimes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145135Z" creationid="Julia_Hurtado" creationdate="20230516T145135Z">
+        <seg>Entradas y pases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Top Box Office</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144832Z" creationid="Julia_Hurtado" creationdate="20230516T144832Z">
+        <seg>Taquillazo</seg>
       </tuv>
     </tu>
     <tu>
