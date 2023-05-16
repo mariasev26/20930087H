@@ -1,9 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(Season 11, episode 24) –&lt;a0&gt;Jessica Liese, Variety&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084551Z" creationid="Julia_Hurtado" creationdate="20230516T084551Z">
+        <seg>(Temporada 11, episodio 24) –&lt;a0&gt;Jessica Liese, Variety&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;55%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Game of Thrones: Season 8&lt;/a5&gt; &lt;s6&gt;(2019)&lt;/s6&gt; (HBO) with 675 reviews &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084643Z" creationid="Julia_Hurtado" creationdate="20230516T084643Z">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;55%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Juego de Tronos: Temporada 8&lt;/a5&gt; &lt;s6&gt;(2019)&lt;/s6&gt; (HBO) con 675 reseñas. &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;79%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;The Walking Dead&lt;/a5&gt; (AMC) with 4,130 reviews &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T162116Z" creationid="Julia_Hurtado" creationdate="20230505T162116Z">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;79%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;The Walking Dead&lt;/a5&gt; (AMC) with 4,130 reviews &lt;/s4&gt;+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>AMC zombie horror series &lt;e0&gt;The Walking Dead&lt;/e0&gt; has the most critic reviews of any TV or streaming series with 4,130 between its season- and episodic-level reviews across its 11 seasons.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T162509Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
+        <seg>La serie de terror zombis de AMC &lt;e0&gt;The Walking Dead&lt;/e0&gt; tiene el mayor número de críticas entre cualquier serie de televisión con 4130 entre sus críticas por temporadas y episodios durante sus 11 temporadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As we celebrate our 25th birthday this year, we’re looking back at some of the TV milestones reached in that time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213420Z" creationid="Julia_Hurtado" creationdate="20230509T213420Z">
+        <seg>Como este año celebramos nuestro 25 cumpleaños, echamos la vista atrás para recordar algunos de los hitos televisivos alcanzados en este tiempo..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Based on the comic book series written by Robert Kirkman, the series and its cast gathered an enormous fanbase as it told the tale of apocalypse survivors searching for a permanent — Walker-free — home.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T162700Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
+        <seg>Basada en la serie de cómics escrita por Robert Kirkman, la serie y su elenco consiguieron una enorme cantidad de fans, contando la historia de unos supervivientes del apocalipsis que buscaban un hogar permanente, libre de caminantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>By the end of the series’ run, the show more than tripled that number across season 8’s six episodes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084927Z" creationid="Julia_Hurtado" creationdate="20230516T084927Z">
+        <seg>Al final de la serie, la cifra se triplicó con creces en los seis episodios de la octava temporada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Early stars Andrew Lincoln, Sarah Wayne Callies, Steve Yeun, and Jon Bernthal eventually made way for new actors like Lauren Cohan, Danai Gurira, Ross Marquand, Khary Payton, Christian Serratos, and others to take the lead, while Melissa McBride and Norman Reedus saw their Carol-and-Daryl dynamic through from the very first episode to the very last.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T163033Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
+        <seg>Los actores primerizos Andrew Lincoln, Sarah Wayne Callies, Steve Yeun y Jon Bernthal, finalmente dieron paso a nuevos actores como Lauren Cohan, Danai Gurira, Ross Marquand, Khary Payton, Christian Serratos y otros para seguir su legado, mientras que Melissa McBride y Norman Reedus siguieron con sus papeles de Carol y Daryl desde el primer episodio hasta el último.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Find out which series has the most reviews, when Rotten Tomatoes started covering television, the most Emmy-awarded programs, and more fun facts.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144047Z" creationid="Julia_Hurtado" creationdate="20230516T144047Z">
+        <seg>Descubre qué series tienen más críticas, los Rotten Tomatoes empezaron a cubrir la televisión, los programas más premiados en los Emmy y más datos curiosos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>HBO fantasy juggernaut &lt;e0&gt;Game of Thrones&lt;/e0&gt; started its first season with an impressive 224 critic reviews.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084813Z" creationid="Julia_Hurtado" creationdate="20230516T084813Z">
+        <seg>El monstruo de la fantasía de HBO &lt;e0&gt;Juego de Tronos&lt;/e0&gt;comenzó su primera temporada con unas impresionantes 224 críticas..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Here’s what critics said about &lt;e0&gt;Game of Thrones&lt;/e0&gt; season 8 in 2019:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085117Z" creationid="Julia_Hurtado" creationdate="20230516T085117Z">
+        <seg>Esto es lo que dijeron las críticas sobre &lt;e0&gt;Juego de Tronos&lt;/e0&gt; sobre la temporada 8 en 2019:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Here’s what critics said about &lt;e0&gt;The Walking Dead&lt;/e0&gt;:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T161730Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
+        <seg>Esto es lo que dijeron los críticos sobre &lt;e0&gt;The Walking Dead&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I don’t think anyone can be happy that this season focused, in the end, on Jon Snow, the least complicated main character on an ensemble full of brutal instincts and grasping ambition.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085246Z" creationid="Julia_Hurtado" creationdate="20230516T085246Z">
+        <seg>No creo que nadie pueda alegrarse de que esta temporada se haya centrado finalmente en Jon Nieve, el protagonista menos complicado dentro de un elenco lleno de instintos brutales y ambición aferrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It was Certified Fresh at 90%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084850Z" creationid="Julia_Hurtado" creationdate="20230516T084850Z">
+        <seg>Se certificó como "fresco" al 90%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Join us as we look at some facts and figures that made the past 25 years so vibrant.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213547Z" creationid="Julia_Hurtado" creationdate="20230509T213547Z">
+        <seg>Acompáñenos en este repaso a algunos de los acontecimientos y figuras del cine que han dado vida a los últimos 25 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Most Reviewed Season</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084609Z" creationid="Julia_Hurtado" creationdate="20230516T084609Z">
+        <seg>Temporada mejor valorada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rotten Tomatoes has been going strong since August 1998 and began aggregating reviews for TV and giving series Tomatometer scores in 2013.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213358Z" creationid="Julia_Hurtado" creationdate="20230509T213358Z">
+        <seg>Rotten Tomatoes lleva funcionando con fuerza desde agosto de 1998 y empezó a agregar críticas para televisión y a dar puntuaciones Tomatometer a series en 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Starring an ensemble cast, many of whom were unknown at the start of the series, &lt;e1&gt;Game of Thrones&lt;/e1&gt; made international superstars of Kit Harington as Jon Snow, Emilia Clarke as Daenerys Targaryen, Sophie Turner as Sansa Stark, Maisie Williams as Arya Stark, and others.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085007Z" creationid="Julia_Hurtado" creationdate="20230516T085007Z">
+        <seg>Protagonizada por un elenco de actores, muchos de los cuales eran desconocidos al principio de la serie, &lt;e1&gt;Juego de Tronos&lt;/e1&gt; convirtió en superestrellas internacionales a Kit Harington como Jon Nieve, Emilia Clarke como Daenerys Targaryen, Sophie Turner como Sansa Stark, Maisie Williams como Arya Stark, y otros.</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>TAGGED AS: BOX OFFICE, MOVIES, RT25, STREAMING MOVIES
@@ -22,6 +166,46 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230512T161326Z" creationid="elisamariamoratonmateo" creationdate="20230512T161326Z">
         <seg>HE BIGGEST AND BEST MOVIES OF THE LAST 25 YEARS
 WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO THE BIGGEST BOX OFFICE EARNER, AND MORE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The 90-minute pilot paints a thoroughly convincing post-apocalyptic world, both visually and emotionally.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T161730Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
+        <seg>El piloto de 90 minutos pinta un mundo post-apocalíptico completamente convincente, tanto visual como emocionalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The element that makes it so much more than a zombie series is driven home pretty quickly – this is a show about the living, and what a horrible mess that can be now that the social fabric isn’t just torn but obliterated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T163408Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
+        <seg>El elemento que lo convierte en mucho más que una serie de zombis te atrapa rápidamente: este es un programa sobre los vivos, y el desastre tan horrible que podemos llegar a formar ahora que el tejido social no solo está desgarrado sino borrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The oddest aspect of the long-awaited, much derided, but actually pretty good finale of &lt;e0&gt;Game of Thrones&lt;/e0&gt; is that it tries to sell an aristocratic coup as a glorious revolution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085423Z" creationid="Julia_Hurtado" creationdate="20230516T085423Z">
+        <seg>El aspecto más extraño del esperado, muy ridiculizado, pero en realidad muy buen final de &lt;e0&gt;Juego de Tronos&lt;/e0&gt; es que intenta vender un golpe aristocrático como una revolución gloriosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>With multiple spinoffs on the horizon, the show struggled throughout its final season to retain the suspense of the series’ salad days, when seemingly anyone could die at any time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084444Z" creationid="Julia_Hurtado" creationdate="20230516T084444Z">
+        <seg>Con múltiples secuelas para el futuro, la serie se esforzó a lo largo de su última temporada para mantener el suspense durante los días más tensos de la serie, cuando aparentemente cualquiera podía morir en cualquier momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yes, it delivers astonishing scenes of devastation, but its more affecting — and more horrifying — concerns are human.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T163139Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
+        <seg>Sí, ofrece asombrosas escenas de devastación, pero sus preocupaciones más conmovedoras y más horribles son humanas.</seg>
       </tuv>
     </tu>
     <tu>
