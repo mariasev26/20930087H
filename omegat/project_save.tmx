@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Are You There God?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152321Z" creationid="Julia_Hurtado" creationdate="20230516T152321Z">
+        <seg>¿Estás ahí Dios?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>As we celebrate our 25th birthday this year, we’re looking back at some of the TV milestones reached in that time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213420Z" creationid="Julia_Hurtado" creationdate="20230509T213420Z">
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152001Z" creationid="Julia_Hurtado" creationdate="20230516T152001Z">
         <seg>Películas nuevas certificadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Certified Fresh Picks</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152253Z" creationid="Julia_Hurtado" creationdate="20230516T152253Z">
+        <seg>Nuevas elecciones certificadas </seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +206,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>In Theaters</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152340Z" creationid="Julia_Hurtado" creationdate="20230516T152340Z">
+        <seg>En cines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>It was Certified Fresh at 90%.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084850Z" creationid="Julia_Hurtado" creationdate="20230516T084850Z">
         <seg>Se certificó como "fresco" al 90%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It's Me, Margaret.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152330Z" creationid="Julia_Hurtado" creationdate="20230516T152330Z">
+        <seg>Sí, soy yo, Margaret</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +398,14 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085423Z" creationid="Julia_Hurtado" creationdate="20230516T085423Z">
         <seg>El aspecto más extraño del esperado, muy ridiculizado, pero en realidad muy buen final de &lt;e0&gt;Juego de Tronos&lt;/e0&gt; es que intenta vender un golpe aristocrático como una revolución gloriosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Theaters</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152300Z" creationid="Julia_Hurtado" creationdate="20230516T152300Z">
+        <seg>Cines</seg>
       </tuv>
     </tu>
     <tu>
