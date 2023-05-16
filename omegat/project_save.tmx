@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fresh</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152819Z" creationid="Julia_Hurtado" creationdate="20230516T152819Z">
+        <seg>Novedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>HBO fantasy juggernaut &lt;e0&gt;Game of Thrones&lt;/e0&gt; started its first season with an impressive 224 critic reviews.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084813Z" creationid="Julia_Hurtado" creationdate="20230516T084813Z">
@@ -262,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Most Popular TV on RT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152811Z" creationid="Julia_Hurtado" creationdate="20230516T152811Z">
+        <seg>Lo más popular deTV on RT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Most Reviewed Season</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084609Z" creationid="Julia_Hurtado" creationdate="20230516T084609Z">
@@ -298,6 +314,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145157Z" creationid="Julia_Hurtado" creationdate="20230516T145157Z">
         <seg>Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>On DVD &amp; Streaming</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152743Z" creationid="Julia_Hurtado" creationdate="20230516T152743Z">
+        <seg>En DVD &amp; Streaming</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +382,14 @@ WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO 
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230512T161326Z" creationid="elisamariamoratonmateo" creationdate="20230512T161326Z">
         <seg>HE BIGGEST AND BEST MOVIES OF THE LAST 25 YEARS
 WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO THE BIGGEST BOX OFFICE EARNER, AND MORE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>TV Shows</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152756Z" creationid="Julia_Hurtado" creationdate="20230516T152756Z">
+        <seg>Series de televisión</seg>
       </tuv>
     </tu>
     <tu>
