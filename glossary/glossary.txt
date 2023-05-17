@@ -5,7 +5,6 @@ death	muerte
 spirit	espíritu
 film	película
 movie	película
-Movies	películas
 series	serie
 programs	programas
 season	temporada
@@ -14,3 +13,116 @@ tomatometer	tomatómetro
 viewers	audiencia
 show	serie
 broadcast	emisión
+new	noticia
+direct	dirigir
+character	personaje
+sequel	secuela
+long-awaited	tan esperada
+nominee	candidato
+role	papel
+starring	reparto
+project	proyecto
+tight-lipped	reservado
+camera	cámara
+direction	dirección
+thriller	película de suspense
+lens	objetivo
+photo	foto
+photograph	fotografía
+photo booth	cabina fotográfica
+portrait	retrato
+screen	pantalla
+zoom	aumento
+viewfinder	visor
+wide-angle	gran angular
+frame	marco
+eyepiece	ocular
+barrel	cable disparador
+actor	actor
+actress	actriz
+cast	elenco
+cartoon	dibujos animados
+climax	desenlace
+episode	episodio
+extra	figurante
+lead role	papel principal
+movie star	estrella de cine
+screenwriter	guionista
+secondary role	papel secundario
+shooting	rodaje
+set	plató
+short-length film	cortometraje
+silent film	cine mudo
+sound effects	efectos sonoros
+soundtrack	banda sonora
+special effects	efectos especiales
+subtitles	subtítulos
+studio	estudio de grabación
+script	guión
+original version	versión original
+film festival	festival de cine
+dialogue	diálogo
+boom operator	microfonista
+cinematographer	cineasta
+gaffer	iluminista
+make-up artist	maquillador
+stunt	dobles
+perform	actuar
+romance	romance
+romantic comedy	comedia romántica
+horror film	película de terror
+science fiction	ciencia ficción
+action movie	película de acción
+adaptation	adaptación
+high-definition	alta definición
+anti-hero	antihéroe
+plot	argumento
+audition	audición
+cameraman	camarógrafo
+censorship	censura
+indie film	cine independiente
+credits	créditos
+documentary	documental
+premiere	estreno
+genre	género
+twist	giro del argumento
+storyboard	guión gráfico
+love story	historia de amor
+stock footage	imágenes de archivo
+ad-lib	improvisar
+location	localización
+full-length film	largometraje
+editing	montaje
+musical	musical
+remake	nueva versión
+drama	obra dramática
+biopic	película biográfica
+B-movie	película de serie b
+western	película del oeste
+family moovie	película familiar
+historical movie	película histórica
+slasher film	película gore
+long shot	plano largo
+close-up	primer plano
+producer	productor
+promotion	promoción
+commercial	publicidad
+pov	punto de vista
+pace	ritmo
+flash-forward	salto en el tiempo hacia el futuro
+flashback	salto en el tiempo hacia el pasado
+sequence	secuencia
+box-office	taquilla
+take	toma
+trailer	tráiler
+trilogy	trilogía
+villain	villano
+voiceover	voz en off
+blockbuster	taquillazo
+academy	academia
+celebrity	famoso
+red carpet	alfombra roja
+main actor	actor principal
+chick-flick	película romántica
+cut	corte
+popcorn	palomitas
