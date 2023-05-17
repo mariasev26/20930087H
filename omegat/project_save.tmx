@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-GB">
+        <seg>(Season 1) –&lt;a0&gt;James Poniewozik, &lt;e1&gt;TIME Magazine&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230517T111428Z" creationid="Julia_Hurtado" creationdate="20230517T111428Z">
+        <seg>(Temporada 1) –&lt;a0&gt;James Poniewozik, &lt;e1&gt;TIME Magazine&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>(Season 11, episode 24) –&lt;a0&gt;Jessica Liese, Variety&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084551Z" creationid="Julia_Hurtado" creationdate="20230516T084551Z">
         <seg>(Temporada 11, episodio 24) –&lt;a0&gt;Jessica Liese, Variety&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(Season 5) –&lt;a0&gt;Tim Goodman, &lt;e1&gt;Hollywood Reporter&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230517T111441Z" creationid="Julia_Hurtado" creationdate="20230517T111441Z">
+        <seg>(Temporada 5) –&lt;a0&gt;Tim Goodman, &lt;e1&gt;Hollywood Reporter&lt;/e1&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +56,8 @@
       <tuv lang="en-GB">
         <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;79%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;The Walking Dead&lt;/a5&gt; (AMC) with 4,130 reviews &lt;/s4&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T162116Z" creationid="Julia_Hurtado" creationdate="20230505T162116Z">
-        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;79%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;The Walking Dead&lt;/a5&gt; (AMC) with 4,130 reviews &lt;/s4&gt;+</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230517T111403Z" creationid="Julia_Hurtado" creationdate="20230505T162116Z">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;79%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;The Walking Dead&lt;/a5&gt; (AMC) con 4,130 reseñas &lt;/s4&gt;+</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +442,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084609Z" creationid="Julia_Hurtado" creationdate="20230516T084609Z">
         <seg>Temporada mejor valorada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Most Reviewed Series</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230517T111322Z" creationid="Julia_Hurtado" creationdate="20230517T111322Z">
+        <seg>Series mejor valoradas</seg>
       </tuv>
     </tu>
     <tu>
