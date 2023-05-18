@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Best Horror Movies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230518T172134Z" creationid="maria" creationdate="20230518T172134Z">
+        <seg>Mejores películas de terror</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Best Horror Movies of 2023 Ranked</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230505T160413Z" creationid="OmegaT Aligner" creationdate="20230504T191826Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153900Z" creationid="Julia_Hurtado" creationdate="20230516T153900Z">
         <seg>Consenso de críticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>DVD &amp; Streaming</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230518T172055Z" creationid="maria" creationdate="20230518T172055Z">
+        <seg>DVD y Streaming</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>More Horror Guides</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230518T172146Z" creationid="maria" creationdate="20230518T172146Z">
+        <seg>Más guías de terror</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Most Popular TV on RT</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152811Z" creationid="Julia_Hurtado" creationdate="20230516T152811Z">
@@ -960,8 +984,8 @@
       <tuv lang="en-GB">
         <seg>Rotten Tomatoes - Movie and TV News » Best Horror Movies of 2023 Ranked – New Scary Movies to Watch Comments Feed</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230518T171937Z" creationid="maria" creationdate="20230518T171937Z">
-        <seg>Rotten Tomatoes - Noticias de películas y televisión» Best Horror Movies of 2023 Ranked – New Scary Movies to Watch Comments Feed</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230518T172019Z" creationid="maria" creationdate="20230518T171937Z">
+        <seg>Rotten Tomatoes - Noticias de películas y televisión» Clasificación de las mejores películas de terror de 2023 – Nuevas películas de miedo que ver</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,6 +1050,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153122Z" creationid="Julia_Hurtado" creationdate="20230516T153122Z">
         <seg>Sweet Tooth: Temporada 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>TAGGED AS: &lt;a0&gt;Horror&lt;/a0&gt;, &lt;a1&gt;movies&lt;/a1&gt;, &lt;a2&gt;scary movies&lt;/a2&gt;, &lt;a3&gt;thriller&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230518T172235Z" creationid="maria" creationdate="20230518T172235Z">
+        <seg>Etiquetas: &lt;a0&gt;Terror&lt;/a0&gt;, &lt;a1&gt;películas&lt;/a1&gt;, &lt;a2&gt;películas de miedo&lt;/a2&gt;, &lt;a3&gt;suspense&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
