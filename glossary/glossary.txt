@@ -126,3 +126,4 @@ main actor	actor principal
 chick-flick	película romántica
 cut	corte
 popcorn	palomitas
+Certified fresh	certificado reciente
