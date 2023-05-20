@@ -140,7 +140,8 @@ chapter	capítulo
 Skeptical	escépticos
 Superhero	superhéroes
 Enduring	perdurable
-Touchstone	hito
-Fans	fans
-Adjusted Score	Puntuación general
-Directed By	Dirigida por
+touchstone	hito
+fans	fans
+whopping	friolera
+ticket	entrada
+epic	epopeya
