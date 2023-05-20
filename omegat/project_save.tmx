@@ -182,8 +182,8 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; No consensus yet.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230516T082706Z" creationid="maria" creationdate="20230516T082706Z">
-        <seg>&lt;s0&gt;Críticas generales:&lt;/s0&gt; No han llegado a un acuerdo todavía .</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144443Z" creationid="maria" creationdate="20230516T082706Z">
+        <seg>&lt;s0&gt;Críticas generales:&lt;/s0&gt; Todavía no se ha llegado a un acuerdo .</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,6 +208,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083548Z" creationid="maria" creationdate="20230516T083548Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Brendan Rudnicki&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Chris Cheeseman&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144423Z" creationid="maria" creationdate="20230520T144423Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Chris Cheeseman&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -308,6 +316,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Steff Ivory Conover&lt;/a1&gt;, &lt;a2&gt;Mischa O'Hoski&lt;/a2&gt;, &lt;a3&gt;Paul Krysinski&lt;/a3&gt;, &lt;a4&gt;Ryan Brown&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144334Z" creationid="maria" creationdate="20230520T144334Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Steff Ivory Conover&lt;/a1&gt;, &lt;a2&gt;Mischa O'Hoski&lt;/a2&gt;, &lt;a3&gt;Paul Krysinski&lt;/a3&gt;, &lt;a4&gt;Ryan Brown&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Travis Coles&lt;/a1&gt;, &lt;a2&gt;Michael Urie&lt;/a2&gt;, &lt;a3&gt;Frankie Grande&lt;/a3&gt;, &lt;a4&gt;Nicholas Logan&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083000Z" creationid="maria" creationdate="20230516T083000Z">
@@ -368,6 +384,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T110048Z" creationid="maria" creationdate="20230507T110048Z">
         <seg>&lt;s0&gt;Sinopsis:&lt;/s0&gt; M3GAN ...&lt;a1&gt; es un producto de inteligencia artificial prodigioso que tiene aspecto de muñeca. Está programada para ser la mejor compañía de un niño y la ayuda de un padre...[más]&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; On a mission to expand its horizons in 1998, a very persuasive leech wreaks havoc in a small rural town....&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144318Z" creationid="maria" creationdate="20230520T144318Z">
+        <seg>Sinopsis: En una misión para expandir sus horizontes en 1998, una sanguijuela muy persuasiva causa estragos en un pequeño pueblo rural....</seg>
       </tuv>
     </tu>
     <tu>
