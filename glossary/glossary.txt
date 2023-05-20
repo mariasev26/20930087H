@@ -142,3 +142,5 @@ Superhero	superhéroes
 Enduring	perdurable
 Touchstone	hito
 Fans	fans
+Adjusted Score	Puntuación general
+Directed By	Dirigida por
