@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1112,6 +1112,52 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Avatar (2009) – $2,923,796,026
+2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150826Z" creationid="elisamariamoratonmateo" creationdate="20230520T150826Z">
+        <seg>Avatar (2009) – 2.923.796.026 dólares
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Avatar set multiple records on its way to earning $2.9 billion at the box office and even overcame a challenge from 2019’s Avengers: Endgame, which briefly held the title before a number of re-releases helped Avatar reclaim it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150432Z" creationid="elisamariamoratonmateo" creationdate="20230520T150432Z">
+        <seg>Avatar batió múltiples récords en su camino hacia los 2.900 millones de dólares en taquilla e incluso superó el desafío de Avengers (Los Vengadores): Endgame, que ostentó brevemente el título antes de que una serie de reestrenos ayudaran a Avatar a recuperarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Avatar: The Way of Water (2022) – $2,294,966,748
+4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150916Z" creationid="elisamariamoratonmateo" creationdate="20230520T150916Z">
+        <seg>Avatar: La forma del agua (2022) – 2.294.966.748 dólares
+4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Avengers: Endgame (2019) – $2,799,439,100
+3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150853Z" creationid="elisamariamoratonmateo" creationdate="20230520T150853Z">
+        <seg>Los Vengadores: Endgame (2019) – 2.799.439.100 dólares
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Avengers: Infinity War (2018) – $2,052,415,039</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T151134Z" creationid="elisamariamoratonmateo" creationdate="20230520T151134Z">
+        <seg>Los Vengadores: Infinity War (2018) – 2.052.415.039 dólares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Based on the comic book series written by Robert Kirkman, the series and its cast gathered an enormous fanbase as it told the tale of apocalypse survivors searching for a permanent — Walker-free — home.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T162700Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
@@ -1864,6 +1910,16 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Star Wars: Episode VII – The Force Awakens (2015) – $2,071,310,218
+5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T151029Z" creationid="elisamariamoratonmateo" creationdate="20230520T151029Z">
+        <seg>Star Wars: Episodio VII – El despertar de la fuerza (2015) – 2.071.310.218 dólares
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Star Wars: Visions: Season 2</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153301Z" creationid="Julia_Hurtado" creationdate="20230516T153301Z">
@@ -2076,6 +2132,14 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>There have been countless think pieces written about the film’s so-called “cultural significance,” but at the end of the day, it was a broadly appealing blockbuster that made boatloads of money and spawned a successful franchise, as its recent sequel Avatar: The Way of Water — which is still earning money in theaters, by the way — currently ranks third on this same list.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150736Z" creationid="elisamariamoratonmateo" creationdate="20230520T150736Z">
+        <seg>Se han escrito innumerables artículos de opinión sobre la llamada "importancia cultural" de la película, pero al fin y al cabo, fue un éxito en taquilla ampliamente atractivo que hizo montones de dinero y generó una existosa franquicia, como su reciente secuela Avatar. The Way of Water (La forma del Agua) - que todavía está ganado dinero en los cines, por cierto - actualmente ocupa el tercer lugar en esta misma lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>These movies top out at around 250 total critic reviews, though, so how about we take a look at the highest-rated movie with over 500 reviews?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T141348Z" creationid="elisamariamoratonmateo" creationdate="20230520T141348Z">
@@ -2112,6 +2176,16 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153335Z" creationid="Julia_Hurtado" creationdate="20230516T153335Z">
         <seg>Tom Jones on Masterpiece: Temporada 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Top 5 Highest-Grossing Films of the Last 25 Years
+1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150807Z" creationid="elisamariamoratonmateo" creationdate="20230520T150807Z">
+        <seg>Las 5 películas más taquilleras de los últimos 25 años
+1.</seg>
       </tuv>
     </tu>
     <tu>
