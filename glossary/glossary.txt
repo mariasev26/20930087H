@@ -135,7 +135,10 @@ Feature film	largometraje
 Reviews	reseñas
 Record	récord
 Review	reseña
-Superhero	superhéros
 Comic	cómic
 chapter	capítulo
 Skeptical	escépticos
+Superhero	superhéroes
+Enduring	perdurable
+Touchstone	hito
+Fans	fans
