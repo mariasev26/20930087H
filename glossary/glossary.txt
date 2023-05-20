@@ -130,3 +130,4 @@ Certified fresh	certificado reciente
 Filmmaker	cineasta
 Filmmakers	cineastas
 Industry	industria
+Movies	películas
