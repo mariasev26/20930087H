@@ -132,3 +132,6 @@ Filmmakers	cineastas
 Industry	industria
 Movies	películas
 Feature film	largometraje
+Reviews	reseñas
+Record	récord
+Review	reseña
