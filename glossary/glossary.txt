@@ -127,3 +127,6 @@ chick-flick	película romántica
 cut	corte
 popcorn	palomitas
 Certified fresh	certificado reciente
+Filmmaker	cineasta
+Filmmakers	cineastas
+Industry	industria
