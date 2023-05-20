@@ -135,3 +135,4 @@ Feature film	largometraje
 Reviews	reseñas
 Record	récord
 Review	reseña
+Superhero	superhéroe
