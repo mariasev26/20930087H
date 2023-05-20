@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -150,6 +150,30 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;50595%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145133Z" creationid="maria" creationdate="20230520T145133Z">
+        <seg>&lt;s0&gt;Puntuación general : &lt;/s0&gt;50595%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;50926%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145003Z" creationid="maria" creationdate="20230520T145003Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;50926%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;76489%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144915Z" creationid="maria" creationdate="20230520T144915Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;76489%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;77896%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T082035Z" creationid="maria" creationdate="20230516T082035Z">
@@ -214,6 +238,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Although its second half is difficult to digest, &lt;e1&gt;Swallowed&lt;/e1&gt; is an admirably unusual -- and overall effective -- mixture of body horror and romance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144817Z" creationid="maria" creationdate="20230520T144817Z">
+        <seg>Consenso de la crítica: Aunque su segunda mitad es difícil de digerir, Swallowed es una mezcla admirablemente inusual -y en general efectiva- de horror corporal y romance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; No consensus yet.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144443Z" creationid="maria" creationdate="20230516T082706Z">
@@ -250,6 +282,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083548Z" creationid="maria" creationdate="20230516T083548Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Brendan Rudnicki&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Carter Smith&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144901Z" creationid="maria" creationdate="20230520T144901Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Carter Smith&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,10 +358,26 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Steve Johnson&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145039Z" creationid="maria" creationdate="20230520T145039Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Steve Johnson&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Wesley Taylor&lt;/a1&gt;, &lt;a2&gt;Alex Wyse&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083009Z" creationid="maria" creationdate="20230516T083009Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Wesley Taylor&lt;/a1&gt;, &lt;a2&gt;Alex Wyse&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Yoko Okumura&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144952Z" creationid="maria" creationdate="20230520T144952Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Yoko Okumura&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +406,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Jena Malone&lt;/a1&gt;, &lt;a2&gt;Cooper Koch&lt;/a2&gt;, &lt;a3&gt;Jose Colon&lt;/a3&gt;, &lt;a4&gt;Mark Patton&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144849Z" creationid="maria" creationdate="20230520T144849Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Jena Malone&lt;/a1&gt;, &lt;a2&gt;Cooper Koch&lt;/a2&gt;, &lt;a3&gt;Jose Colon&lt;/a3&gt;, &lt;a4&gt;Mark Patton&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Kristos Andrews&lt;/a1&gt;, &lt;a2&gt;Galadriel Stineman&lt;/a2&gt;, &lt;a3&gt;Maurice LaMarche&lt;/a3&gt;, &lt;a4&gt;Charles M. Howell IV&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144559Z" creationid="maria" creationdate="20230520T144559Z">
@@ -362,6 +426,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144715Z" creationid="maria" creationdate="20230520T144715Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;McKaley Miller&lt;/a1&gt;, &lt;a2&gt;Dermot Mulroney&lt;/a2&gt;, &lt;a3&gt;Anne Heche&lt;/a3&gt;, &lt;a4&gt;Brice Anthony Heller&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Midori Francis&lt;/a1&gt;, &lt;a2&gt;Jolene Purdy&lt;/a2&gt;, &lt;a3&gt;Missi Pyle&lt;/a3&gt;, &lt;a4&gt;Michael Patrick Lane&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144941Z" creationid="maria" creationdate="20230520T144941Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Midori Francis&lt;/a1&gt;, &lt;a2&gt;Jolene Purdy&lt;/a2&gt;, &lt;a3&gt;Missi Pyle&lt;/a3&gt;, &lt;a4&gt;Michael Patrick Lane&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +466,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T105558Z" creationid="maria" creationdate="20230507T105558Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Sofie Gråbøl&lt;/a1&gt;, &lt;a2&gt;Josephine Park&lt;/a2&gt;, &lt;a3&gt;Ellie Kendrick&lt;/a3&gt;, &lt;a4&gt;David Dencik&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Sophie Skelton&lt;/a1&gt;, &lt;a2&gt;Stuart Brennan&lt;/a2&gt;, &lt;a3&gt;Bret "The Hitman" Hart&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145029Z" creationid="maria" creationdate="20230520T145029Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Sophie Skelton&lt;/a1&gt;, &lt;a2&gt;Stuart Brennan&lt;/a2&gt;, &lt;a3&gt;Bret "The Hitman" Hart&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +526,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; After a drug run goes bad, two friends must survive a nightmarish ordeal of drugs, bugs and horrific intimacy....&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144838Z" creationid="maria" creationdate="20230520T144838Z">
+        <seg>Sinopsis: Después de que un asunto de drogas salga mal, dos amigos deben sobrevivir a una pesadilla de drogas, bichos y horrorosa intimidad....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Amy, a young woman is on the run with her young son Adrian from her abusive ex-girlfriend.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083238Z" creationid="maria" creationdate="20230516T083238Z">
@@ -486,10 +574,26 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Returning to an eerily empty hotel after a day of filming, young actress, Rose Hepburn, finds herself suspended on the...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145021Z" creationid="maria" creationdate="20230520T145021Z">
+        <seg>Sinopsis: Al regresar a un hotel inquietantemente vacío después de un día de rodaje, la joven actriz, Rose Hepburn, se encuentra suspendida en el... [Más]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Two playwrights, George and Charlie, are tasked with the challenge of creating the next "avant-garde, surrealistic, mind-bending neo-noir thriller".</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144541Z" creationid="maria" creationdate="20230520T144541Z">
         <seg>Sinopsis: Dos dramaturgos, George y Charlie, reciben el encargo de crear el próximo "thriller neo-noir vanguardista, surrealista y alucinante".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Two women form an unlikely connection when a depressed gas station clerk Sam (Jolene Purdy), receives a call from Emily...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144934Z" creationid="maria" creationdate="20230520T144934Z">
+        <seg>Sinopsis: Dos mujeres forman una improbable conexión cuando la deprimida empleada de una gasolinera, Sam (Jolene Purdy), recibe una llamada de Emily... [Más]</seg>
       </tuv>
     </tu>
     <tu>
