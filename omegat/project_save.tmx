@@ -134,6 +134,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;25288%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145650Z" creationid="maria" creationdate="20230520T145650Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;25288%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;25737%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145520Z" creationid="maria" creationdate="20230520T145520Z">
@@ -154,6 +162,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083359Z" creationid="maria" creationdate="20230516T083359Z">
         <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;32013%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;38326%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145832Z" creationid="maria" creationdate="20230520T145832Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;38326%</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +202,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T082035Z" creationid="maria" creationdate="20230516T082035Z">
         <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;77896%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;80111%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145752Z" creationid="maria" creationdate="20230520T145752Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;80111%</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +302,22 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Alexis Jacknow&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145825Z" creationid="maria" creationdate="20230520T145825Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Alexis Jacknow&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Barry Jay&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145737Z" creationid="maria" creationdate="20230520T145737Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Barry Jay&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Beth Hanna&lt;/a1&gt;, &lt;a2&gt;Jerren Lauder&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144734Z" creationid="maria" creationdate="20230520T144734Z">
@@ -330,6 +370,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T110125Z" creationid="maria" creationdate="20230507T103959Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Gerard Johnstone&lt;/a1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Jacob Byrd&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145638Z" creationid="maria" creationdate="20230520T145638Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Jacob Byrd&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +470,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Dianna Agron&lt;/a1&gt;, &lt;a2&gt;Melora Hardin&lt;/a2&gt;, &lt;a3&gt;Jay Ali&lt;/a3&gt;, &lt;a4&gt;Saul Rubinek&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145815Z" creationid="maria" creationdate="20230520T145815Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Dianna Agron&lt;/a1&gt;, &lt;a2&gt;Melora Hardin&lt;/a2&gt;, &lt;a3&gt;Jay Ali&lt;/a3&gt;, &lt;a4&gt;Saul Rubinek&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Harry Jarvis&lt;/a1&gt;, &lt;a2&gt;Loreece Harrison&lt;/a2&gt;, &lt;a3&gt;Nina Wadia&lt;/a3&gt;, &lt;a4&gt;Erin Austen&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145510Z" creationid="maria" creationdate="20230520T145510Z">
@@ -486,6 +542,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Sherri Shepherd&lt;/a1&gt;, &lt;a2&gt;Mike C. Manning&lt;/a2&gt;, &lt;a3&gt;Jonny Beauchamp&lt;/a3&gt;, &lt;a4&gt;Ashleigh Murray&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145720Z" creationid="maria" creationdate="20230520T145720Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Sherri Shepherd&lt;/a1&gt;, &lt;a2&gt;Mike C. Manning&lt;/a2&gt;, &lt;a3&gt;Jonny Beauchamp&lt;/a3&gt;, &lt;a4&gt;Ashleigh Murray&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Sofie Gråbøl&lt;/a1&gt;, &lt;a2&gt;Josephine Park&lt;/a2&gt;, &lt;a3&gt;Ellie Kendrick&lt;/a3&gt;, &lt;a4&gt;David Dencik&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T105558Z" creationid="maria" creationdate="20230507T105558Z">
@@ -522,6 +586,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083000Z" creationid="maria" creationdate="20230516T083000Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Travis Coles&lt;/a1&gt;, &lt;a2&gt;Michael Urie&lt;/a2&gt;, &lt;a3&gt;Frankie Grande&lt;/a3&gt;, &lt;a4&gt;Nicholas Logan&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; "Clock" is the story of a woman who enrolls in a clinical trial to try and fix her seemingly broken...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145808Z" creationid="maria" creationdate="20230520T145808Z">
+        <seg>Sinopsis: "Clock" es la historia de una mujer que se inscribe en un ensayo clínico para tratar de arreglar su... [Más]</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +642,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144838Z" creationid="maria" creationdate="20230520T144838Z">
         <seg>Sinopsis: Después de que un asunto de drogas salga mal, dos amigos deben sobrevivir a una pesadilla de drogas, bichos y horrorosa intimidad....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Alex is an aspiring singer/songwriter, a drug addict who's been damaged from childhood abuse.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145701Z" creationid="maria" creationdate="20230520T145701Z">
+        <seg>Sinopsis: Alex es un aspirante a cantante y compositor, drogadicto y dañado por los abusos de su infancia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,6 +734,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; When two estranged friends reconnect, things buried deep down are bound to surface.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145840Z" creationid="maria" creationdate="20230520T145840Z">
+        <seg>Sinopsis: Cuando dos amigos distanciados se reencuentran, las cosas enterradas en lo más profundo están destinadas a salir a la superficie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A Small Light: Season 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153024Z" creationid="Julia_Hurtado" creationdate="20230516T153024Z">
@@ -674,6 +762,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="anonymous" changedate="20230311T195339Z" creationid="MyMemory" creationdate="20230509T144216Z">
         <seg>Sus elecciones de anuncios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>After the death of his father...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145710Z" creationid="maria" creationdate="20230520T145710Z">
+        <seg>Tras la muerte de su padre... [Más]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1854,14 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153218Z" creationid="Julia_Hurtado" creationdate="20230516T153218Z">
         <seg>Ver todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wannabe famous vlogger Andrew Castellano sets off...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T150034Z" creationid="maria" creationdate="20230520T150034Z">
+        <seg>El aspirante a famoso bloguero Andrew Castellano pone en marcha... [Más]</seg>
       </tuv>
     </tu>
     <tu>
