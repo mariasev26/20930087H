@@ -124,6 +124,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;31861%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144626Z" creationid="maria" creationdate="20230520T144626Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;31861%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;32013%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083359Z" creationid="maria" creationdate="20230516T083359Z">
@@ -144,6 +152,22 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083154Z" creationid="maria" creationdate="20230516T083154Z">
         <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;82239%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;83065%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144744Z" creationid="maria" creationdate="20230520T144744Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;83065%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;90276%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144520Z" creationid="maria" creationdate="20230520T144520Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;90276%</seg>
       </tuv>
     </tu>
     <tu>
@@ -204,6 +228,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Beth Hanna&lt;/a1&gt;, &lt;a2&gt;Jerren Lauder&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144734Z" creationid="maria" creationdate="20230520T144734Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Beth Hanna&lt;/a1&gt;, &lt;a2&gt;Jerren Lauder&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Brendan Rudnicki&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083548Z" creationid="maria" creationdate="20230516T083548Z">
@@ -220,6 +252,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Corey Deshon&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144506Z" creationid="maria" creationdate="20230520T144506Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Corey Deshon&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Gabriel Bier Gislason&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T105606Z" creationid="maria" creationdate="20230507T105606Z">
@@ -232,6 +272,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T110125Z" creationid="maria" creationdate="20230507T103959Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Gerard Johnstone&lt;/a1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;James Cullen Bressack&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144613Z" creationid="maria" creationdate="20230520T144613Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;James Cullen Bressack&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -276,10 +324,34 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Casper Van Dien&lt;/a1&gt;, &lt;a2&gt;Elyse Dinh&lt;/a2&gt;, &lt;a3&gt;Vivien Ngô&lt;/a3&gt;, &lt;a4&gt;Ian Alexander&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144453Z" creationid="maria" creationdate="20230520T144453Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Casper Van Dien&lt;/a1&gt;, &lt;a2&gt;Elyse Dinh&lt;/a2&gt;, &lt;a3&gt;Vivien Ngô&lt;/a3&gt;, &lt;a4&gt;Ian Alexander&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Chloë Marie Rhoades&lt;/a1&gt;, &lt;a2&gt;Tyler Miller&lt;/a2&gt;, &lt;a3&gt;Benjamin L. Newmark&lt;/a3&gt;, &lt;a4&gt;Stephanie Kirves&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083534Z" creationid="maria" creationdate="20230516T083534Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Chloë Marie Rhoades&lt;/a1&gt;, &lt;a2&gt;Tyler Miller&lt;/a2&gt;, &lt;a3&gt;Benjamin L. Newmark&lt;/a3&gt;, &lt;a4&gt;Stephanie Kirves&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Kristos Andrews&lt;/a1&gt;, &lt;a2&gt;Galadriel Stineman&lt;/a2&gt;, &lt;a3&gt;Maurice LaMarche&lt;/a3&gt;, &lt;a4&gt;Charles M. Howell IV&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144559Z" creationid="maria" creationdate="20230520T144559Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Kristos Andrews&lt;/a1&gt;, &lt;a2&gt;Galadriel Stineman&lt;/a2&gt;, &lt;a3&gt;Maurice LaMarche&lt;/a3&gt;, &lt;a4&gt;Charles M. Howell IV&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;McKaley Miller&lt;/a1&gt;, &lt;a2&gt;Dermot Mulroney&lt;/a2&gt;, &lt;a3&gt;Anne Heche&lt;/a3&gt;, &lt;a4&gt;Brice Anthony Heller&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144715Z" creationid="maria" creationdate="20230520T144715Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;McKaley Miller&lt;/a1&gt;, &lt;a2&gt;Dermot Mulroney&lt;/a2&gt;, &lt;a3&gt;Anne Heche&lt;/a3&gt;, &lt;a4&gt;Brice Anthony Heller&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,6 +400,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083000Z" creationid="maria" creationdate="20230516T083000Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Travis Coles&lt;/a1&gt;, &lt;a2&gt;Michael Urie&lt;/a2&gt;, &lt;a3&gt;Frankie Grande&lt;/a3&gt;, &lt;a4&gt;Nicholas Logan&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; "You're Killing Me" follows Eden Murphy (McKaley Miller), who goes to a coveted 'Heaven and Hell' party, hoping to get...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144704Z" creationid="maria" creationdate="20230520T144704Z">
+        <seg>Sinopsis: "You're Killing Me" sigue a Eden Murphy (McKaley Miller), que acude a una codiciada fiesta 'Heaven and Hell', con la esperanza de conseguir... [Más]</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,6 +472,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144318Z" creationid="maria" creationdate="20230520T144318Z">
         <seg>Sinopsis: En una misión para expandir sus horizontes en 1998, una sanguijuela muy persuasiva causa estragos en un pequeño pueblo rural....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Two playwrights, George and Charlie, are tasked with the challenge of creating the next "avant-garde, surrealistic, mind-bending neo-noir thriller".</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144541Z" creationid="maria" creationdate="20230520T144541Z">
+        <seg>Sinopsis: Dos dramaturgos, George y Charlie, reciben el encargo de crear el próximo "thriller neo-noir vanguardista, surrealista y alucinante".</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,6 +560,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213420Z" creationid="Julia_Hurtado" creationdate="20230509T213420Z">
         <seg>Como este año celebramos nuestro 25 cumpleaños, echamos la vista atrás para recordar algunos de los hitos televisivos alcanzados en este tiempo..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144550Z" creationid="maria" creationdate="20230520T144550Z">
+        <seg>Mientras...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
