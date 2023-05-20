@@ -137,3 +137,4 @@ Record	récord
 Review	reseña
 Superhero	superhéros
 Comic	cómic
+chapter	capítulo
