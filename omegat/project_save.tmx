@@ -134,6 +134,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;25737%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145520Z" creationid="maria" creationdate="20230520T145520Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;25737%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;31861%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144626Z" creationid="maria" creationdate="20230520T144626Z">
@@ -334,6 +342,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Marcus Harben&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145359Z" creationid="maria" creationdate="20230520T145359Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Marcus Harben&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Michelle Garza&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T105015Z" creationid="maria" creationdate="20230507T105015Z">
@@ -402,6 +418,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083534Z" creationid="maria" creationdate="20230516T083534Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Chloë Marie Rhoades&lt;/a1&gt;, &lt;a2&gt;Tyler Miller&lt;/a2&gt;, &lt;a3&gt;Benjamin L. Newmark&lt;/a3&gt;, &lt;a4&gt;Stephanie Kirves&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Harry Jarvis&lt;/a1&gt;, &lt;a2&gt;Loreece Harrison&lt;/a2&gt;, &lt;a3&gt;Nina Wadia&lt;/a3&gt;, &lt;a4&gt;Erin Austen&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145510Z" creationid="maria" creationdate="20230520T145510Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Harry Jarvis&lt;/a1&gt;, &lt;a2&gt;Loreece Harrison&lt;/a2&gt;, &lt;a3&gt;Nina Wadia&lt;/a3&gt;, &lt;a4&gt;Erin Austen&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +510,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Sydney Carvill&lt;/a1&gt;, &lt;a2&gt;Wade Baker&lt;/a2&gt;, &lt;a3&gt;Janet Carter&lt;/a3&gt;, &lt;a4&gt;Bob Shuster&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145557Z" creationid="maria" creationdate="20230520T145557Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Sydney Carvill&lt;/a1&gt;, &lt;a2&gt;Wade Baker&lt;/a2&gt;, &lt;a3&gt;Janet Carter&lt;/a3&gt;, &lt;a4&gt;Bob Shuster&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Travis Coles&lt;/a1&gt;, &lt;a2&gt;Michael Urie&lt;/a2&gt;, &lt;a3&gt;Frankie Grande&lt;/a3&gt;, &lt;a4&gt;Nicholas Logan&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083000Z" creationid="maria" creationdate="20230516T083000Z">
@@ -518,6 +550,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; ADALYNN follows a mother fighting postpartum depression and slipping over the edge.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145534Z" creationid="maria" creationdate="20230520T145534Z">
+        <seg>Sinopsis: ADALYNN sigue a una madre que lucha contra la depresión posparto y se desliza hacia el límite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; ATTACHMENT is a horror romance about Maja, a has-been actress in Denmark, who falls in love with Leah, a young,...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T105545Z" creationid="maria" creationdate="20230507T105545Z">
@@ -546,6 +586,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083520Z" creationid="maria" creationdate="20230516T083520Z">
         <seg>&lt;s0&gt;Sinopsis:&lt;/s0&gt; Cuando unos amigos están asentándose en una cabaña remota para pasar un fin de semana relajante, una criatura aparece fuera, esperando para atacar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Followers is an intelligent "found-footage" horror movie set in the world of "social media influencers".</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145458Z" creationid="maria" creationdate="20230520T145421Z">
+        <seg>Sinopsis: Followers es una inteligente película de terror "found-footage" ambientada en el mundo de los "influencers de las redes sociales".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1054,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Four very different students move...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145446Z" creationid="maria" creationdate="20230520T145446Z">
+        <seg>Cuatro estudiantes muy diferentes se mueven...&lt;a1&gt; [Más]&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Frames</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153737Z" creationid="Julia_Hurtado" creationdate="20230516T153737Z">
@@ -1106,6 +1162,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230505T161130Z" creationid="OmegaT Aligner" creationdate="20230504T191826Z">
         <seg>En esta guía de las películas de miedo más recientes, haremos una clasificación de las mejores películas de terror de 2023 cada semana, que hasta ahora incluye &lt;e7&gt;Llaman a la puerta&lt;/e7&gt; (del director &lt;a8&gt;M. Night Shyamalan&lt;/a8) &gt;), &lt;e9&gt;Infinity Pool&lt;/e9&gt; de Brandon Cronenberg y la nueva curiosidad viral &lt;e10&gt;Skinamarink&lt;/e10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It becomes hard to distinguish where depression ends,...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T145550Z" creationid="maria" creationdate="20230520T145550Z">
+        <seg>Se hace difícil distinguir dónde acaba la depresión,... [Más]</seg>
       </tuv>
     </tu>
     <tu>
