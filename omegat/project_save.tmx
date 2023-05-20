@@ -1065,9 +1065,9 @@
         <seg>TAGGED AS: BOX OFFICE, MOVIES, RT25, STREAMING MOVIES
 The last two and a half decades have brought a lot of change in the film industry, from the mass popularization of 3D, D-Box, ScreenX and other theatrical experiences to the advent of streaming services and, more recently, the disruptive effect of the COVID-19 pandemic.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230512T164036Z" creationid="elisamariamoratonmateo" creationdate="20230512T164036Z">
-        <seg>TAGGED AS: BOX OFFICE, MOVIES, RT25, streaming MOVIES
-The last two and a half decades have brought a lot of change in the film industry, from the mass popularization of 3D, D-Box, ScreenX and other theatrical experiences to the advent of streaming services and, more recently, the disruptive effect of the COVID-19 pandemic.</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T130734Z" creationid="elisamariamoratonmateo" creationdate="20230512T164036Z">
+        <seg>ETIQUETADO COMO: BOX OFFICE, MOVIES, RT25, STREAMING MOVIES
+Las dos últimas décadas pasadas han traído muchos cambios en la industria cinematográfica, desde la masiva popularización del 3D, D-Box, ScreeX y otras experiencias teatrales a la llegada de los servicios de streaming y, más recientemente, la destructiva pandemia de la COVID-19.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1302,14 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T140110Z" creationid="maria" creationdate="20230516T140110Z">
         <seg>artículo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>by Ryan Fujitani, Alex Vo and Jacqueline Coley | April 30, 2023 |  Comments</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T130534Z" creationid="elisamariamoratonmateo" creationdate="20230520T130534Z">
+        <seg>Realizado por Ryan Fujitani, Alex Vo y Jacqueline Coley | Abril 30 de 2023 |  Comentarios</seg>
       </tuv>
     </tu>
     <tu>
