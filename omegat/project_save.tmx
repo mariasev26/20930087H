@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -312,6 +312,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T082905Z" creationid="maria" creationdate="20230516T082829Z">
         <seg>&lt;s0&gt;Sinopsis:&lt;/s0&gt;Una despedida de soltero de una pareja homosexual toma un giro escalofriante cuando siniestros espíritus son convocados inesperadamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; A young woman is kidnapped and inducted into a bizarre family as their new surrogate daughter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T143952Z" creationid="maria" creationdate="20230520T143952Z">
+        <seg>Sinopsis: Una joven es secuestrada e introducida en una extraña familia como su nueva hija nacida por gestación subrogada.</seg>
       </tuv>
     </tu>
     <tu>
