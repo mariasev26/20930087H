@@ -148,6 +148,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;95341%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144200Z" creationid="maria" creationdate="20230520T144200Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;95341%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;97580%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T105145Z" creationid="maria" creationdate="20230507T105145Z">
@@ -424,6 +432,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T104953Z" creationid="maria" creationdate="20230507T104953Z">
         <seg>Tan peligroso...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As she navigates through...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230520T144124Z" creationid="maria" creationdate="20230520T144124Z">
+        <seg>Mientras va recorriedo por...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
