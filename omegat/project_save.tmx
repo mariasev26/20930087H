@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>FIRST MOVIE TO BE CERTIFIED FRESH</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T131100Z" creationid="elisamariamoratonmateo" creationdate="20230520T131100Z">
+        <seg>LA PRIMERA PELÍCULA CON CERTIFICADO RECIENTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fatal Attraction: Season 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153211Z" creationid="Julia_Hurtado" creationdate="20230516T153211Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213358Z" creationid="Julia_Hurtado" creationdate="20230509T213358Z">
         <seg>Rotten Tomatoes lleva funcionando con fuerza desde agosto de 1998 y empezó a agregar críticas para televisión y a dar puntuaciones Tomatometer a series en 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rotten Tomatoes has been here through it all, and to celebrate our 25th anniversary, we’re looking back at some of the most noteworthy cinematic milestones we’ve witnessed over the last 25 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T130805Z" creationid="elisamariamoratonmateo" creationdate="20230520T130805Z">
+        <seg>Rotten Tomatoes ha estado aquí a pesar de todo esto, y celebra su 25 aniversario, repasamos algunos de los hitos cinematográficos más destacados de los últimos 25 años.</seg>
       </tuv>
     </tu>
     <tu>
