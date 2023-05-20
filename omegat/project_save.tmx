@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -44,6 +44,16 @@ Controversy and heated debate about Todd Phillips‘ Joker seemed to follow litt
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T144910Z" creationid="elisamariamoratonmateo" creationdate="20230520T144910Z">
         <seg>69% El Joker (2019)
 La controversia y el acalorado debate sobre el Joker de Todd Phillips parecían seguir al pequeño Arthur Fleck dondequiera que bailara el vals, desde el riff de la película sobre las primeras películas de Martin Scorsese hasta su punto de vista simpático, que se pensó que posiblemente inspiraría violencia real, e incluso seu puntuación en el tomatómetro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>82% Avatar (2009)
+With the rise in ticket prices over the last two decades and the popularization of 3D, IMAX, and other screen innovations, it’s probably no surprise that of the top 25 highest worldwide-grossing films, only one of them was released prior to 2000.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T145903Z" creationid="elisamariamoratonmateo" creationdate="20230520T145903Z">
+        <seg>82% Avatar (2009)
+Con el aumento del precio de las entradas en las dos últimas décadas y la popularización del 3D, IMAX, y otras innovaciones de pantallas, probablemente no sorprenda que de las 25 películas más taquilleras del mundo, sólo una se estrenara antes del año 2000.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1216,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>HIGHEST-GROSSING FILM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T145543Z" creationid="elisamariamoratonmateo" creationdate="20230520T145543Z">
+        <seg>PELÍCULAS MÁS TAQUILLERAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Here’s what critics said about &lt;e0&gt;Game of Thrones&lt;/e0&gt; season 8 in 2019:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085117Z" creationid="Julia_Hurtado" creationdate="20230516T085117Z">
@@ -1336,8 +1354,8 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
       <tuv lang="en-GB">
         <seg>MOST REVIEWED BY CRITICS</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T144621Z" creationid="elisamariamoratonmateo" creationdate="20230520T144621Z">
-        <seg>PELÍCULA MÁS TAQUILLERA</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T145519Z" creationid="elisamariamoratonmateo" creationdate="20230520T144621Z">
+        <seg>LO MÁS VALORADO POR LAS CRÍTICAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1674,6 +1692,14 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>That film was James Cameron’s epic romance Titanic, which opened in 1997 and currently sits comfortably at No. 4 on the all-time list with a worldwide gross of $2.26 billion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150101Z" creationid="elisamariamoratonmateo" creationdate="20230520T150101Z">
+        <seg>Se trata de Titanic, la epopeya romántica de James Cameron, estrenada en 1997 y que actualmente ocupa el cuarto puesto de la lista con una recaudación mundial de 2.260 millones de dólares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The 90-minute pilot paints a thoroughly convincing post-apocalyptic world, both visually and emotionally.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T161730Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
@@ -1754,6 +1780,14 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The next oldest movie in this esteemed group, however, is not only the top global earner of the last 25 years, but it’s the highest-grossing film of all time, and it’s another James Cameron joint: 2009’s Avatar.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150232Z" creationid="elisamariamoratonmateo" creationdate="20230520T150232Z">
+        <seg>Sin embargo, la siguiente película más antigua en este estimado grupo no solo es la que más ha recaudado en los últimos 25 años, sino también es la más taquillera de todos los tiempos, y es otra obra de James Cameron: Avatar, de 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The oddest aspect of the long-awaited, much derided, but actually pretty good finale of &lt;e0&gt;Game of Thrones&lt;/e0&gt; is that it tries to sell an aristocratic coup as a glorious revolution.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T085423Z" creationid="Julia_Hurtado" creationdate="20230516T085423Z">
@@ -1798,6 +1832,14 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T143705Z" creationid="elisamariamoratonmateo" creationdate="20230520T143705Z">
         <seg>Aunque los fans se mostraron escépticos ante el casting de Ledger cuando se anunció, su magnética interpretación se convirtió instantáneamente en un icono, y cuando el propio Ledger murió antes del estreno de la película, el Koker sirvió como recordatorio del potencial perdido que todos lloramos; ganó con razón un Oscar póstumo al mejor actor de reparto por el papel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thus, validation for the film has had to come through other means, including a box office tally over $1 billion worldwide (the only R-rated movie to do so) and a whopping 11 Oscar nominations, including one for Best Picture, and a Best Actor win for Joaquin Phoenix.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T145447Z" creationid="elisamariamoratonmateo" creationdate="20230520T145447Z">
+        <seg>Así pues, la película ha tenido que ser validada por otros medios, como una recaudación de más de 1.000 millones de dólares en todo el mundo (la única película con calificación reciente que lo ha conseguido) y la friolera de 11 nominaciones a los Oscar, incluida una a la mejor película, y el premio al mejor actor para Joaquin Phoenix.</seg>
       </tuv>
     </tu>
     <tu>
