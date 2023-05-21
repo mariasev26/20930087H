@@ -152,3 +152,4 @@ Oscar nomination	nominación al Oscar
 contenders	aspirantes
 predicted	pronosticado/previsto
 masterpiece	obra maestra
+reschedule	reprogramar
