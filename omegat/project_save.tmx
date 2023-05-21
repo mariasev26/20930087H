@@ -88,6 +88,16 @@ Fresh y Rotten formaron parte de Rotten Tomatos desde el inicio, pero alrededor 
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>93% The Lord of the Rings: The Return of the King (2003)
+The term “masterpiece” is a frequently misappropriated distinction, but it’s entirely warranted in the case of Peter Jackson’s The Lord of the Rings trilogy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183542Z" creationid="elisamariamoratonmateo" creationdate="20230521T183542Z">
+        <seg>93% El Señor de los Anillos: El Retorno del Rey (2003)
+El término "obra maestra" es una distinción frecuentemente mal utilizada, pero está totalmente justificada en el caso de la trilogía de El Señor de los Anillos de Peter Jackson.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>94% The Dark Knight (2008)
 In many ways, the modern era of superhero cinema can trace its roots back to 2008, the year when a pair of comic book movies took the world by storm.</seg>
       </tuv>
@@ -1036,6 +1046,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>After all, it is rather the pinnacle of what the Oscars has been known for: a movie about Hollywood with incredible technical and cinematic achievements, starring a bona fide movie star and an impressive ingenue, but best of all, with a dash of controversy, a little bit of scandal, and a final twist no one could have predicted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183333Z" creationid="elisamariamoratonmateo" creationdate="20230521T183333Z">
+        <seg>Después de todo, es más bien la cumbre de lo que ha dado fama a los Oscar: una película sobre Hollywood con increíbles logros técnicos y cinematográficos, protagonizada por una estrella de cine de buena fe y una ingenua impresionante, pero lo mejor de todo, con una pizca de controversia, un poco de escándalo y un giro final que nadie podría haber pronosticado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>After the death of his father...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145710Z" creationid="maria" creationdate="20230520T145710Z">
@@ -1750,6 +1768,14 @@ En un momento dado, Paddington 2 se convirtió en la película más vista en Rot
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>MOST OSCAR WINS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183456Z" creationid="elisamariamoratonmateo" creationdate="20230521T183444Z">
+        <seg>MÁS VICTORIAS EN LOS OSCARS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>MOST REVIEWED BY CRITICS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T145519Z" creationid="elisamariamoratonmateo" creationdate="20230520T144621Z">
@@ -2152,10 +2178,28 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The Curious Case of Benjamin Button (2008) – 13
+5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183405Z" creationid="elisamariamoratonmateo" creationdate="20230521T183405Z">
+        <seg>El curioso caso de Benjamin Button (2008) – 13
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The Diplomat: Season 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152958Z" creationid="Julia_Hurtado" creationdate="20230516T152958Z">
         <seg>La diplomática: Temporada 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Lord of the Rings: The Fellowship of the Ring (2001) – 13</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183414Z" creationid="elisamariamoratonmateo" creationdate="20230521T183414Z">
+        <seg>El Señor de los Anillos: La Comunidad del Anillo (2001) – 13</seg>
       </tuv>
     </tu>
     <tu>
@@ -2180,6 +2224,16 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153310Z" creationid="Julia_Hurtado" creationdate="20230516T153310Z">
         <seg>The Other Two: Temporada 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Shape of Water (2017) – 13
+3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183353Z" creationid="elisamariamoratonmateo" creationdate="20230521T183353Z">
+        <seg>La forma del agua (2017) – 13
+3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2324,6 +2378,16 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153335Z" creationid="Julia_Hurtado" creationdate="20230516T153335Z">
         <seg>Tom Jones on Masterpiece: Temporada 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Top 5 Films with Most Oscar Nominations in the Last 25 Years
+1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183342Z" creationid="elisamariamoratonmateo" creationdate="20230521T183342Z">
+        <seg>Las 5 películas con más nominaciones al Oscar en los últimos 25 años
+1.</seg>
       </tuv>
     </tu>
     <tu>
