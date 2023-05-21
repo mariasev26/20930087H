@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -194,6 +194,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;19038%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215028Z" creationid="maria" creationdate="20230521T215028Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;19038%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;25288%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145650Z" creationid="maria" creationdate="20230520T145650Z">
@@ -254,6 +262,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145003Z" creationid="maria" creationdate="20230520T145003Z">
         <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;50926%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;64049%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T214845Z" creationid="maria" creationdate="20230521T214845Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;64049%</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +430,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144817Z" creationid="maria" creationdate="20230520T144817Z">
         <seg>Consenso de la crítica: Aunque su segunda mitad es difícil de digerir, Swallowed es una mezcla admirablemente inusual -y en general efectiva- de horror corporal y romance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Conceptually strong but uneven in execution, &lt;e1&gt;There's Something Wrong with the Children&lt;/e1&gt; is a serviceable horror movie that could have been much more.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T214911Z" creationid="maria" creationdate="20230521T214911Z">
+        <seg>Consenso de la crítica: Conceptualmente fuerte pero desigual en la ejecución, Hay algo malo en los niños es una película de terror servicial que podría haber sido mucho más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,10 +642,26 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Roxanne Benjamin&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215003Z" creationid="maria" creationdate="20230521T215003Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Roxanne Benjamin&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Steve Johnson&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145039Z" creationid="maria" creationdate="20230520T145039Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Steve Johnson&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Wayne David&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215058Z" creationid="maria" creationdate="20230521T215058Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Wayne David&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +678,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144952Z" creationid="maria" creationdate="20230520T144952Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Yoko Okumura&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Alisha Wainwright&lt;/a1&gt;, &lt;a2&gt;Zach Gilford&lt;/a2&gt;, &lt;a3&gt;Amanda Crew&lt;/a3&gt;, &lt;a4&gt;Carlos Santos&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T214931Z" creationid="maria" creationdate="20230521T214931Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Alisha Wainwright&lt;/a1&gt;, &lt;a2&gt;Zach Gilford&lt;/a2&gt;, &lt;a3&gt;Amanda Crew&lt;/a3&gt;, &lt;a4&gt;Carlos Santos&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +882,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Wayne David&lt;/a1&gt;, &lt;a2&gt;Sian Altman&lt;/a2&gt;, &lt;a3&gt;Grant Masters&lt;/a3&gt;, &lt;a4&gt;Jake Wood&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215047Z" creationid="maria" creationdate="20230521T215047Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Wayne David&lt;/a1&gt;, &lt;a2&gt;Sian Altman&lt;/a2&gt;, &lt;a3&gt;Grant Masters&lt;/a3&gt;, &lt;a4&gt;Jake Wood&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Will Martin&lt;/a1&gt;, &lt;a2&gt;Will Madden&lt;/a2&gt;, &lt;a3&gt;Michelle Veintimilla&lt;/a3&gt;, &lt;a4&gt;Maria Decotis&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T150041Z" creationid="maria" creationdate="20230520T150041Z">
@@ -862,6 +918,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T082905Z" creationid="maria" creationdate="20230516T082829Z">
         <seg>&lt;s0&gt;Sinopsis:&lt;/s0&gt;Una despedida de soltero de una pareja homosexual toma un giro escalofriante cuando siniestros espíritus son convocados inesperadamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; A man who has gone into isolated hiding is haunted by visions of the woman he loves and a mysterious...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215039Z" creationid="maria" creationdate="20230521T215039Z">
+        <seg>Sinopsis: Un hombre que ha pasado a la clandestinidad aislado es perseguido por visiones de la mujer que ama y por un misterioso... [Más]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,6 +1078,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T104937Z" creationid="maria" creationdate="20230507T104937Z">
         <seg>&lt;s0&gt;Sinopsis:&lt;/s0&gt; La alegría de Valeria por convertirse en mamá primeriza se esfuma rapidamente cuando es maldita por una siniestra entidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; When Margaret (Alisha Wainwright) and Ben (Zach Gilford) take a weekend trip with longtime friends Ellie (Crew) and Thomas (Santos)...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T214922Z" creationid="maria" creationdate="20230521T214922Z">
+        <seg>Sinopsis: Cuando Margaret (Alisha Wainwright) y Ben (Zach Gilford) hacen un viaje de fin de semana con sus viejos amigos Ellie (Crew) y Thomas (Santos)... [Más]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2190,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183632Z" creationid="elisamariamoratonmateo" creationdate="20230521T183632Z">
         <seg>La trayectoria perfecta de El Retorno del Rey podría considerarse una culminación de las anteriores cimas de la serie en los Oscar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rotten</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215012Z" creationid="maria" creationdate="20230521T215012Z">
+        <seg>Podrido</seg>
       </tuv>
     </tu>
     <tu>
