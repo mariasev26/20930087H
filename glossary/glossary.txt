@@ -145,3 +145,4 @@ fans	fans
 whopping	friolera
 ticket	entrada
 epic	epopeya
+Hit	éxito
