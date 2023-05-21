@@ -138,10 +138,34 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;a0&gt;&lt;e1&gt;Star Wars&lt;/e1&gt; Movies In Order: How to Watch the Saga Chronologically&lt;/a0&gt;&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221233Z" creationid="maria" creationdate="20230521T221233Z">
+        <seg>&lt;e0&gt;Star Wars&lt;/e0&gt; Orden de las películas: Cómo ver la saga cronológicamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;a0&gt;&lt;e1&gt;Star Wars&lt;/e1&gt; TV Ranked&lt;/a0&gt;&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221222Z" creationid="maria" creationdate="20230521T221222Z">
+        <seg>&lt;e0&gt;Star Wars&lt;/e0&gt; Clasificación de la televisión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;a0&gt;All 32 Marvel Movies Ranked: See MCU Movies By Tomatometer&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T221215Z" creationid="maria" creationdate="20230521T221215Z">
         <seg>Clasificación de las 32 películas de Marvel: Mira las películas de MCU por el tomatómetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;a0&gt;All &lt;e1&gt;Star Wars&lt;/e1&gt; Movies Ranked By Tomatometer&lt;/a0&gt;&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221229Z" creationid="maria" creationdate="20230521T221229Z">
+        <seg>Todas las películas de&lt;e0&gt;Star Wars&lt;/e0&gt; clasificadas por el tomatómetro</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,10 +178,26 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;a0&gt;Netflix’s 100 Best Movies Right Now (May 2023)&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221344Z" creationid="maria" creationdate="20230521T221344Z">
+        <seg>&lt;a0&gt;Las 100 mejores películas de Netflix actualmente (mayo 2023)&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;a0&gt;SIGN UP&lt;/a0&gt; &lt;a1&gt;LOG IN&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145239Z" creationid="Julia_Hurtado" creationdate="20230516T145239Z">
         <seg>&lt;a0&gt;Registrarse&lt;/a0&gt; &lt;a1&gt;Iniciar sesión&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;a0&gt;The 100 Best Movies on Amazon Prime Video (May 2023) – Rotten Tomatoes&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221307Z" creationid="maria" creationdate="20230521T221307Z">
+        <seg>&lt;a0&gt;Las 100 mejores películas de Amazon Prime Video (mayo de 2023)&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,10 +1851,26 @@ y</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>About Rotten Tomatoes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221406Z" creationid="maria" creationdate="20230521T221406Z">
+        <seg>Sobre Rotten Tomatoes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ad Choices</seg>
       </tuv>
       <tuv lang="es-ES" changeid="anonymous" changedate="20230311T195339Z" creationid="MyMemory" creationdate="20230509T144216Z">
         <seg>Sus elecciones de anuncios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Advertise</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221438Z" creationid="maria" creationdate="20230521T221438Z">
+        <seg>Anuncios</seg>
       </tuv>
     </tu>
     <tu>
@@ -1863,6 +1919,14 @@ y</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T144044Z" creationid="elisamariamoratonmateo" creationdate="20230520T144044Z">
         <seg>Todo esto convirtió a El Caballero Oscuro en un hito cutural perdurable, por lo que no es del todo sorprendente que haya mantenido una puntuación del 94% incluso con más de 500.000 valoraciones del público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>All rights reserved.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221459Z" creationid="maria" creationdate="20230521T221459Z">
+        <seg>Todos los derechos reservados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2369,6 +2433,14 @@ y</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Follow Us</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221448Z" creationid="maria" creationdate="20230521T221448Z">
+        <seg>Síguenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Forums</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152225Z" creationid="Julia_Hurtado" creationdate="20230516T152225Z">
@@ -2457,6 +2529,14 @@ y</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T145543Z" creationid="elisamariamoratonmateo" creationdate="20230520T145543Z">
         <seg>PELÍCULAS MÁS TAQUILLERAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221359Z" creationid="maria" creationdate="20230521T221359Z">
+        <seg>Ayuda</seg>
       </tuv>
     </tu>
     <tu>
@@ -2601,6 +2681,14 @@ y</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T180946Z" creationid="elisamariamoratonmateo" creationdate="20230521T180946Z">
         <seg>MAYOR DURACIÓN EN SALAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Licensing</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221429Z" creationid="maria" creationdate="20230521T221429Z">
+        <seg>Licencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -2885,6 +2973,14 @@ y</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153937Z" creationid="Julia_Hurtado" creationdate="20230516T153937Z">
         <seg>Guía parental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221514Z" creationid="maria" creationdate="20230521T221514Z">
+        <seg>Política de privacidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -3593,6 +3689,14 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152155Z" creationid="Julia_Hurtado" creationdate="20230516T152155Z">
         <seg>Qué ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>What's the Tomatometer®?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T221422Z" creationid="maria" creationdate="20230521T221422Z">
+        <seg>¿Qué es el tomatómetro?</seg>
       </tuv>
     </tu>
     <tu>
