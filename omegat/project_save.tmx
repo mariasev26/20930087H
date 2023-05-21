@@ -226,6 +226,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;19185%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215728Z" creationid="maria" creationdate="20230521T215728Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;19185%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;25288%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145650Z" creationid="maria" creationdate="20230520T145650Z">
@@ -282,10 +290,26 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;44797%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215921Z" creationid="maria" creationdate="20230521T215921Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;44797%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;44837%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T215247Z" creationid="maria" creationdate="20230521T215247Z">
         <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;44837%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;45600%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215817Z" creationid="maria" creationdate="20230521T215817Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;45600%</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +498,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; &lt;e1&gt;We Have a Ghost&lt;/e1&gt; has a fun concept and a talented cast; unfortunately, this spookily uneven '80s pastiche also has very little idea of what to do with them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215823Z" creationid="maria" creationdate="20230521T215823Z">
+        <seg>Consenso de la crítica: Tenemos un fantasma tiene un concepto divertido y un reparto con talento; por desgracia, este pastiche ochentero espeluznantemente desigual también tiene muy poca idea de qué hacer con ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; A bone-chilling body horror, &lt;e1&gt;Huesera&lt;/e1&gt; offers genre fans a twisted take on What to Expect When You're Expecting.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T104823Z" creationid="maria" creationdate="20230507T104823Z">
@@ -518,6 +550,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T214911Z" creationid="maria" creationdate="20230521T214911Z">
         <seg>Consenso de la crítica: Conceptualmente fuerte pero desigual en la ejecución, Hay algo malo en los niños es una película de terror servicial que podría haber sido mucho más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Despite being blessed with Jena Malone in the lead, &lt;e1&gt;Consecration&lt;/e1&gt; serves up Catholic-themed horror that's far more hoary than hallowed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215927Z" creationid="maria" creationdate="20230521T215927Z">
+        <seg>Consenso de la crítica: A pesar de ser bendecida con Jena Malone en el papel principal, Consagración sirve horror de temática católica que es mucho más anticuado que santificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +642,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Carlos Therón&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215806Z" creationid="maria" creationdate="20230521T215806Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Carlos Therón&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Carter Smith&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144901Z" creationid="maria" creationdate="20230520T144901Z">
@@ -622,6 +670,22 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T215151Z" creationid="maria" creationdate="20230521T215151Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Chris McKay&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Christopher Landon&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215909Z" creationid="maria" creationdate="20230521T215909Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Christopher Landon&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Christopher Smith&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220000Z" creationid="maria" creationdate="20230521T220000Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Christopher Smith&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +850,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Stig Svendsen&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215715Z" creationid="maria" creationdate="20230521T215715Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Stig Svendsen&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Wayne David&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T215058Z" creationid="maria" creationdate="20230521T215058Z">
@@ -858,6 +930,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;David Harbour&lt;/a1&gt;, &lt;a2&gt;Jahi Di'Allo Winston&lt;/a2&gt;, &lt;a3&gt;Anthony Mackie&lt;/a3&gt;, &lt;a4&gt;Erica Ash&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215857Z" creationid="maria" creationdate="20230521T215857Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;David Harbour&lt;/a1&gt;, &lt;a2&gt;Jahi Di'Allo Winston&lt;/a2&gt;, &lt;a3&gt;Anthony Mackie&lt;/a3&gt;, &lt;a4&gt;Erica Ash&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Dianna Agron&lt;/a1&gt;, &lt;a2&gt;Melora Hardin&lt;/a2&gt;, &lt;a3&gt;Jay Ali&lt;/a3&gt;, &lt;a4&gt;Saul Rubinek&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145815Z" creationid="maria" creationdate="20230520T145815Z">
@@ -894,6 +974,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144849Z" creationid="maria" creationdate="20230520T144849Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Jena Malone&lt;/a1&gt;, &lt;a2&gt;Cooper Koch&lt;/a2&gt;, &lt;a3&gt;Jose Colon&lt;/a3&gt;, &lt;a4&gt;Mark Patton&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Jena Malone&lt;/a1&gt;, &lt;a2&gt;Danny Huston&lt;/a2&gt;, &lt;a3&gt;Ian Pirie&lt;/a3&gt;, &lt;a4&gt;Janet Suzman&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215946Z" creationid="maria" creationdate="20230521T215946Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Jena Malone&lt;/a1&gt;, &lt;a2&gt;Danny Huston&lt;/a2&gt;, &lt;a3&gt;Ian Pirie&lt;/a3&gt;, &lt;a4&gt;Janet Suzman&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1138,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Toni Acosta&lt;/a1&gt;, &lt;a2&gt;Fran Cantos&lt;/a2&gt;, &lt;a3&gt;Andrea Gara&lt;/a3&gt;, &lt;a4&gt;Emilio Gutiérrez Caba&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215751Z" creationid="maria" creationdate="20230521T215751Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Toni Acosta&lt;/a1&gt;, &lt;a2&gt;Fran Cantos&lt;/a2&gt;, &lt;a3&gt;Andrea Gara&lt;/a3&gt;, &lt;a4&gt;Emilio Gutiérrez Caba&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Travis Coles&lt;/a1&gt;, &lt;a2&gt;Michael Urie&lt;/a2&gt;, &lt;a3&gt;Frankie Grande&lt;/a3&gt;, &lt;a4&gt;Nicholas Logan&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083000Z" creationid="maria" creationdate="20230516T083000Z">
@@ -1186,6 +1282,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Finding a ghost named Ernest haunting their new home turns Kevin's family into overnight social media sensations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215828Z" creationid="maria" creationdate="20230521T215828Z">
+        <seg>Sinopsis: Encontrar a un fantasma llamado Ernest rondando su nueva casa convierte a la familia de Kevin en una sensación en las redes sociales de la noche a la mañana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Followers is an intelligent "found-footage" horror movie set in the world of "social media influencers".</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145458Z" creationid="maria" creationdate="20230520T145421Z">
@@ -1214,6 +1318,22 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T150340Z" creationid="maria" creationdate="20230520T150340Z">
         <seg>Sinopsis: En 1987, un grupo de monitores desata accidentalmente un mal de décadas en la última noche del campamento de verano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; In CONSECRATION, after the suspicious death of her brother, a priest, Grace (Jena Malone) goes to the Mount Saviour Convent...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215939Z" creationid="maria" creationdate="20230521T215939Z">
+        <seg>Sinopsis: En CONSECRATION, tras la sospechosa muerte de su hermano, un sacerdote, Grace (Jena Malone) acude al Convento del Monte Salvador... [Más]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; In the late 90's, Sagrario, Paz, Gloria, and Father Girón, form an investigation team specialized in paranormal phenomena: the Hepta...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215743Z" creationid="maria" creationdate="20230521T215743Z">
+        <seg>Sinopsis: A finales de los 90, Sagrario, Paz, Gloria y el Padre Girón, forman un equipo de investigación especializado en fenómenos paranormales: los Hepta... [Más]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1649,6 +1769,14 @@ y</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183219Z" creationid="elisamariamoratonmateo" creationdate="20230521T183219Z">
         <seg>Pero quedará ligada para siempre a uno de los momentos más infames de la historia de los Oscar, y es una pena ponerle un asterisco a la película.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But when Kevin...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T215851Z" creationid="maria" creationdate="20230521T215851Z">
+        <seg>Pero, cuando Kevin...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
