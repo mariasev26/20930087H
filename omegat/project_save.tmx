@@ -170,6 +170,22 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;a0&gt;Winnie-the-Pooh: Blood and Honey&lt;/a0&gt; &lt;s1&gt;(2023)&lt;/s1&gt; &lt;/br2&gt;&lt;s3&gt;&lt;/s3&gt; &lt;s4&gt;3%&lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220631Z" creationid="maria" creationdate="20230521T220631Z">
+        <seg>&lt;a0&gt;Winnie-the-Pooh: Sangre y miel&lt;/a0&gt; &lt;s1&gt;(2023)&lt;/s1&gt; &lt;/br2&gt;&lt;s3&gt;&lt;/s3&gt; &lt;s4&gt;3%&lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Star Wars&lt;/e0&gt; Movies In Order: How to Watch the Saga Chronologically</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220915Z" creationid="maria" creationdate="20230521T220915Z">
+        <seg>&lt;e0&gt;Star Wars&lt;/e0&gt; Orden de las películas: Cómo ver la saga cronológicamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;e1&gt;The Pope's Exorcist&lt;/e1&gt; is standard-issue holy horror in most respects, but its star's sanctified performance will be the answer to some viewers' prayers.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T215529Z" creationid="maria" creationdate="20230521T215529Z">
@@ -410,6 +426,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;5671%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220618Z" creationid="maria" creationdate="20230521T220618Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;5671%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;64049%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T214845Z" creationid="maria" creationdate="20230521T214845Z">
@@ -646,6 +670,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144443Z" creationid="maria" creationdate="20230516T082706Z">
         <seg>&lt;s0&gt;Críticas generales:&lt;/s0&gt; Todavía no se ha llegado a un acuerdo .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Oh, bother.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220646Z" creationid="maria" creationdate="20230521T220646Z">
+        <seg>Consenso de la crítica: Qué fastidio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,6 +986,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Rhys Frake-Waterfield&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220716Z" creationid="maria" creationdate="20230521T220716Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Rhys Frake-Waterfield&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Robbie Banfitch&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T150217Z" creationid="maria" creationdate="20230520T150217Z">
@@ -1062,6 +1102,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230516T083534Z" creationid="maria" creationdate="20230516T083534Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Chloë Marie Rhoades&lt;/a1&gt;, &lt;a2&gt;Tyler Miller&lt;/a2&gt;, &lt;a3&gt;Benjamin L. Newmark&lt;/a3&gt;, &lt;a4&gt;Stephanie Kirves&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Craig David Dowsett&lt;/a1&gt;, &lt;a2&gt;Chris Cordell&lt;/a2&gt;, &lt;a3&gt;Amber Doig-Thorne&lt;/a3&gt;, &lt;a4&gt;Natasha Tosini&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220706Z" creationid="maria" creationdate="20230521T220706Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Craig David Dowsett&lt;/a1&gt;, &lt;a2&gt;Chris Cordell&lt;/a2&gt;, &lt;a3&gt;Amber Doig-Thorne&lt;/a3&gt;, &lt;a4&gt;Natasha Tosini&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1651,6 +1699,14 @@ y</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; The days of adventures and merriment have come to an end, as Christopher Robin, now a young man, has left...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220658Z" creationid="maria" creationdate="20230521T220658Z">
+        <seg>Sinopsis: Los días de aventuras y alegría han llegado a su fin, ya que Christopher Robin, ahora un joven... [Más]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Trapped in a bunker during World War I, a group of soldiers are faced with an ungodly presence that slowly...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T220413Z" creationid="maria" creationdate="20230521T220413Z">
@@ -1759,6 +1815,22 @@ y</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145710Z" creationid="maria" creationdate="20230520T145710Z">
         <seg>Tras la muerte de su padre... [Más]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>All 32 Marvel Movies Ranked: See MCU Movies By Tomatometer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220808Z" creationid="maria" creationdate="20230521T220808Z">
+        <seg>Clasificación de las 32 películas de Marvel: Mira las películas de MCU por el tomatómetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>All &lt;e0&gt;Star Wars&lt;/e0&gt; Movies Ranked By Tomatometer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220843Z" creationid="maria" creationdate="20230521T220843Z">
+        <seg>Todas las películas de&lt;e0&gt;Star Wars&lt;/e0&gt; clasificadas por el tomatómetro</seg>
       </tuv>
     </tu>
     <tu>
@@ -2807,6 +2879,14 @@ y</seg>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T185203Z" creationid="elisamariamoratonmateo" creationdate="20230521T185157Z">
         <seg>Alerta Roja 2021) – 364.020.000 horas
 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Related News</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230521T220726Z" creationid="maria" creationdate="20230521T220726Z">
+        <seg>Noticias relacionadas</seg>
       </tuv>
     </tu>
     <tu>
