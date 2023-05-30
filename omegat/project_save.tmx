@@ -450,6 +450,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;e0&gt;RETURN TO SILENT HILL&lt;/e0&gt; TO ADAPT CLASSIC HORROR GAME &lt;e1&gt;SILENT HILL 2&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T163518Z" creationid="elisamariamoratonmateo" creationdate="20230530T163518Z">
+        <seg>&lt;e0&gt;REGRESO A SILENT HILL&lt;/e0&gt; PARA ADAPTAR EL CLÁSICO JUEGO DE TERROR &lt;e1&gt;SILENT HILL 2&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;e0&gt;Star Wars&lt;/e0&gt; Movies In Order: How to Watch the Saga Chronologically</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T220915Z" creationid="maria" creationdate="20230521T220915Z">
@@ -2275,6 +2283,14 @@ Anne Hathaway
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T104953Z" creationid="maria" creationdate="20230507T104953Z">
         <seg>Tan peligroso...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As it turns out, Robert Rodriguez actually &lt;a7&gt;does intend to make&lt;/a7&gt; &lt;e8&gt;Machete in Space&lt;/e8&gt; a reality sometime in the future.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T163356Z" creationid="elisamariamoratonmateo" creationdate="20230530T163356Z">
+        <seg>Resulta que Robert Rodriguez&lt;a7&gt;tiene la intención de hacer realidad&lt;/a7&gt; &lt;e8&gt;Machete in Space&lt;/e8&gt; en el futuro..</seg>
       </tuv>
     </tu>
     <tu>
