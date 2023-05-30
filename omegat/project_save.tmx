@@ -3122,6 +3122,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>HIGHEST AUDIENCE SCORE WITH 500K+ RATINGS 94% The Dark Knight (2008) In many ways, the modern era of superhero cinema can trace its roots back to 2008, the year when a pair of comic book movies took the world by storm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T181236Z" creationid="maria" creationdate="20230530T181236Z">
+        <seg>RÉCORD MÁS ALTO DE AUDIENCIA CON MÁS DE 500 MIL VALORACIONES. 94% "El caballero oscuro" (2008). En mucho aspectos, la era moderna del cine de superhéroes se remonta al año 2008, el año en el que un par de películas basadas en cómics arrasaron en todo el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>HIGHEST TOMATOMETER SCORE WITH AT LEAST 500 REVIEWS</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T133627Z" creationid="elisamariamoratonmateo" creationdate="20230520T133627Z">
@@ -3340,8 +3348,8 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
       <tuv lang="en-GB">
         <seg>It’s none other than the cultural phenomenon Black Panther, roaring with a 96% Tomatometer score after over 530 reviews have been tallied.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T141511Z" creationid="elisamariamoratonmateo" creationdate="20230520T141511Z">
-        <seg>Se trata nada menos que del fenómeno cultural Black Panther (Pantera Negra), con una puntuación de 96% en el tomatómetro tras más de 530 críticas.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T180855Z" creationid="elisamariamoratonmateo" creationdate="20230520T141511Z">
+        <seg>Se trata nada menos que del fenómeno cultural "Black Panther" (Pantera Negra), con una puntuación de 96% en el tomatómetro tras más de 530 críticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4244,8 +4252,8 @@ Danny Trejo en Machete (2010)
       <tuv lang="en-GB">
         <seg>Starring the late Chadwick Boseman as King T’Challa and directed by Ryan Coogler, the Marvel opus combined dazzling action, an ensemble cast, and contemporary social and ancestral themes, going on to gross over $1 billion worldwide and become the first superhero movie to be nominated for a Best Picture Oscar.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T141911Z" creationid="elisamariamoratonmateo" creationdate="20230520T141911Z">
-        <seg>Protagonizada por el Chadwick Boseman como el rey T'Challa y dirigida por Ryan Coogler, la obra de Marvel combinó acción deslumbrante, un reparto de lujo y temas sociales y ancestrales contemporáneos, llegando a recaudar más de mil millones de dólares en todo el mundo y convirtiéndose en la primera película de superhéroes nominada al Oscar a la mejor película.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T180945Z" creationid="elisamariamoratonmateo" creationdate="20230520T141911Z">
+        <seg>Protagonizada por Chadwick Boseman como el rey T'Challa y dirigida por Ryan Coogler, la obra de Marvel combinó acción deslumbrante, un reparto de lujo y temas sociales y ancestrales contemporáneos, llegando a recaudar más de mil millones de dólares en todo el mundo y convirtiéndose en la primera película de superhéroes nominada al Óscar a la mejor película.</seg>
       </tuv>
     </tu>
     <tu>
