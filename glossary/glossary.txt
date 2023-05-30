@@ -155,3 +155,4 @@ masterpiece	obra maestra
 reschedule	reprogramar
 Weekly Ketchup	semanario tomatazo
 Speculating	especular
+Horror game	juego de terror
