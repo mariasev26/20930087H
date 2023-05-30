@@ -2973,6 +2973,15 @@ Dacre Montgomery y Barbie Ferreira
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>FIRST MOVIE TO BE CERTIFIED FRESH 92% Eternal Sunshine of the Spotless Mind (2004) Fresh and Rotten were a part of Rotten Tomatoes from the very beginning, but over time it started to make sense for us to add another layer of distinction for those films that were particularly well-received.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T175037Z" creationid="maria" creationdate="20230530T175037Z">
+        <seg>LA PRIMERA PELÍCULA CON NUESTRO TÍTULO "RECIÉN CORTADA" 92% 92% Eternal Sunshine of the Spotless Mind (2004)
+Fresh y Rotten formaron parte de Rotten Tomatos desde el inicio, pero alrededor de los tiempos empezó a tener sentido para nosotros añadir otra capa de distinción para las películas que fueron especialmente bien recibidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>FIRST STREAMING FILM NOMINATED FOR BEST PICTURE</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T184032Z" creationid="elisamariamoratonmateo" creationdate="20230521T184032Z">
@@ -4109,8 +4118,8 @@ Danny Trejo en Machete (2010)
       <tuv lang="en-GB">
         <seg>Rotten Tomatoes has been here through it all, and to celebrate our 25th anniversary, we’re looking back at some of the most noteworthy cinematic milestones we’ve witnessed over the last 25 years.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T130805Z" creationid="elisamariamoratonmateo" creationdate="20230520T130805Z">
-        <seg>Rotten Tomatoes ha estado aquí a pesar de todo esto, y celebra su 25 aniversario, repasamos algunos de los hitos cinematográficos más destacados de los últimos 25 años.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T174847Z" creationid="elisamariamoratonmateo" creationdate="20230520T130805Z">
+        <seg>Rotten Tomatoes ha estado aquí a pesar de todo, y para celebrar nuestro 25 aniversario, repasamos algunos de los hitos cinematográficos más destacados de los últimos 25 años.</seg>
       </tuv>
     </tu>
     <tu>
