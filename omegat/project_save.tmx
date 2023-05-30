@@ -102,6 +102,14 @@ Peter Farrelly is a big time Academy Award winner now for Green Book (Certified 
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>/logout/</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T150334Z" creationid="elisamariamoratonmateo" creationdate="20230530T150334Z">
+        <seg>/salir de la sesión/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>1.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="kristina.assachyova" changedate="20230526T163204Z" creationid="kristina.assachyova" creationdate="20230526T163204Z">
@@ -3153,8 +3161,8 @@ James Gunn
       <tuv lang="en-GB">
         <seg>News</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145157Z" creationid="Julia_Hurtado" creationdate="20230516T145157Z">
-        <seg>Traducción</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T150255Z" creationid="Julia_Hurtado" creationdate="20230516T145157Z">
+        <seg>Noticias</seg>
       </tuv>
     </tu>
     <tu>
