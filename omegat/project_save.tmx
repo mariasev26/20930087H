@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4302,6 +4302,14 @@ DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON CERTIFICADO RECIENT
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>THE BIGGEST AND BEST MOVIES OF THE LAST 25 YEARS WE BREAK DOWN 10 MAJOR MILESTONES, FROM THE FIRST FILM TO BE CERTIFIED FRESH TO THE BIGGEST BOX OFFICE EARNER, AND MORE.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T174315Z" creationid="maria" creationdate="20230530T174315Z">
+        <seg>LAS MEJORES PELÍCULAS DE LOS ÚLTIMOS 25 AÑOS. DESGLOSAMOS 10 GRANDES MITOS, DESDE LA PRIMERA PELÍCULA CON EL TÍTULO DE RECIÉN CORTADA HASTA LA PELÍCULA MÁS TAQUILLERA, Y MUCHO MÁS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>THIS WEEK'S TOP STORY
 OSCAR ISAAC, MIA GOTH, AND ANDREW GARFIELD IN TALKS FOR GUILLERMO DEL TORO'S FRANKENSTEIN
 (Photo by Franziska Krug, Amy Sussman, Amanda Edwards/Getty Images)</seg>
@@ -5079,6 +5087,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T130534Z" creationid="elisamariamoratonmateo" creationdate="20230520T130534Z">
         <seg>Realizado por Ryan Fujitani, Alex Vo y Jacqueline Coley | Abril 30 de 2023 |  Comentarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>by Ryan Fujitani, Alex Vo and Jacqueline Coley | April 30, 2023 | Comments TAGGED AS: BOX OFFICE, MOVIES, RT25, STREAMING MOVIES The last two and a half decades have brought a lot of change in the film industry, from the mass popularization of 3D, D-Box, ScreenX and other theatrical experiences to the advent of streaming services and, more recently, the disruptive effect of the COVID-19 pandemic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T174816Z" creationid="maria" creationdate="20230530T174816Z">
+        <seg>De Ryan Fujitani, Alex Vo y Jacqueline Coley | 30 de abril, 2023 | Comentarios ETIQUETADO COMO: BOX OFFICE, PELÍCULAS, RT25, TRANSMISIÓN DE PELÍCULAS. Las útlimas dos décadas y media nos han traído muchos cambios en la industria cinematográfica, desde la popularización en masa del 3D, la D-Box, ScreenX y otras experiencias teatrales a la llegada de los servicios de streaming y, recientemente, el terrible efecto que ha dejado la pandemia de la COVID-19</seg>
       </tuv>
     </tu>
     <tu>
