@@ -300,8 +300,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;a0&gt;What's the Tomatometer?®&lt;/a0&gt; &lt;a1&gt;RT Critics&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145326Z" creationid="Julia_Hurtado" creationdate="20230516T145326Z">
-        <seg>¿Que es el Tomatómetro?</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T150428Z" creationid="Julia_Hurtado" creationdate="20230516T145326Z">
+        <seg>¿Que es el Tomatómetro? RT Críticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4207,6 +4207,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T151943Z" creationid="Julia_Hurtado" creationdate="20230516T151943Z">
         <seg>Novedades semanales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weekly Ketchup</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T150724Z" creationid="elisamariamoratonmateo" creationdate="20230530T150724Z">
+        <seg>Semanario Tomatazo</seg>
       </tuv>
     </tu>
     <tu>
