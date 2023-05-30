@@ -99,6 +99,14 @@ Although the 1990s and 2000s were sort of a harsh period for movies based on vid
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>(Photo by Leon Bennett, Stefanie Keenan/Getty Images)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T162117Z" creationid="elisamariamoratonmateo" creationdate="20230530T162117Z">
+        <seg>(Foto hecha por Leon Bennett, Stefanie Keenan/Getty Images)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>(Photo by Leon Bennett, Stefanie Keenan/Getty Images)
 The 1978 cult horror film Faces of Death (Rotten at 27%) purported to depict genuine scenes of "real death" (spoiler: it mostly did not).</seg>
       </tuv>
@@ -2325,6 +2333,14 @@ Anne Hathaway
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barbie Ferreira (HBO’s &lt;a3&gt;&lt;e4&gt;Euphoria&lt;/e4&gt;&lt;/a3&gt;) and Dacre Montgomery (Billy from &lt;a5&gt;&lt;e6&gt;Stranger Things&lt;/e6&gt;&lt;/a5&gt;) &lt;a7&gt;have signed with Legendary Entertainment&lt;/a7&gt; to star in the reboot, though as stated above, it remains unclear exactly how they will approach the film.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T162429Z" creationid="elisamariamoratonmateo" creationdate="20230530T162429Z">
+        <seg>Barbie Ferreira (Euphoria, &lt;a3&gt;&lt;e4&gt;de HBO)&lt;/e4&gt;&lt;/a3&gt;) y Dacre Montgomery (Billy from &lt;a5&gt;&lt;e6&gt;Stranger Things&lt;/e6&gt;&lt;/a5&gt;) &lt;a7&gt;han firmado con Legendary Entertainment&lt;/a7&gt;para protagonizar el reboot, aunque como se ha dicho, sigue sin estar claro exactamente cómo enfocarán la película.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Based on the comic book series written by Robert Kirkman, the series and its cast gathered an enormous fanbase as it told the tale of apocalypse survivors searching for a permanent — Walker-free — home.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T162700Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
@@ -3107,8 +3123,8 @@ Dacre Montgomery y Barbie Ferreira
       <tuv lang="en-GB">
         <seg>It’s unknown if the film will be a mysterious thriller like &lt;e4&gt;It Follows&lt;/e4&gt;, but one can guess it might be, given the involvement of Bad Robot, and the use of IMAX cameras suggests it will be a “big” theatrical experience.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T162016Z" creationid="elisamariamoratonmateo" creationdate="20230530T161940Z">
-        <seg>Se desconoce si la película será un thriller misterioso como&lt;e4&gt;It Follows&lt;/e4&gt;, pero se puede intuir que podría serlo, dada la implicación de Bad Robot, y el uso de cámaras IMAX sugiere que será una experiencia teatral "a lo grande.</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T162254Z" creationid="elisamariamoratonmateo" creationdate="20230530T161940Z">
+        <seg>Se desconoce si la película será un thriller misterioso como&lt;e4&gt;It Follows&lt;/e4&gt;, pero se puede intuir que podría serlo, dada la implicación de Bad Robot, y el uso de cámaras IMAX sugiere que será una experiencia teatral "a lo grande".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4055,6 +4071,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T161730Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
         <seg>El piloto de 90 minutos pinta un mundo post-apocalíptico completamente convincente, tanto visual como emocionalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The &lt;a0&gt;1978 cult horror film&lt;/a0&gt; &lt;a1&gt;&lt;e2&gt;Faces of Death&lt;/e2&gt;&lt;/a1&gt; (Rotten at 27%) purported to depict genuine scenes of “real death” (spoiler: it mostly did not).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T162245Z" creationid="elisamariamoratonmateo" creationdate="20230530T162245Z">
+        <seg>La película de terror&lt;a0&gt;de culto 1978&lt;/a0&gt; &lt;a1&gt;&lt;e2&gt;Caras de la muerte&lt;/e2&gt;&lt;/a1&gt; (Rotten al 27%) pretendía representar auténticas escenas de "muerte real" (spoiler: en la mayoría de los casos no fue así).</seg>
       </tuv>
     </tu>
     <tu>
