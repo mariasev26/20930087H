@@ -3130,6 +3130,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>HIGHEST TOMATOMETER SCORE WITH AT LEAST 500 REVIEWS 96% Black Panther (2018) At one point, Paddington 2 became the best-reviewed movie on Rotten Tomatoes, with a perfect 100% Tomatometer score after hundreds of reviews, but that impressive record came to an end in 2021 with the film’s first Rotten review.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T180229Z" creationid="maria" creationdate="20230530T180229Z">
+        <seg>LA PUNTUACIÓN MÁS ALTA DEL TOMATÓMETRO CON, POR LO MENOS, 500 RESEÑAS. 96% "Black Panther" (2018). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>HIGHEST-GROSSING FILM</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T145543Z" creationid="elisamariamoratonmateo" creationdate="20230520T145543Z">
@@ -3798,8 +3806,8 @@ QUENTIN TARANTINO ANUNCIA SU 10ª (¿Y ÚLTIMA?) PELÍCULA, JAMES GUNN DIRIGIRÁ
       <tuv lang="en-GB">
         <seg>On the other hand, this was only the second feature film from Gondry, who was best known for his imaginative music video work for artists like Björk, The Chemical Brothers, and The White Stripes, and working from a script he co-wrote with Charlie Kaufman, he brought the same kind of playful sensibility and visual wizardry to Eternal Sunshine.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T133324Z" creationid="elisamariamoratonmateo" creationdate="20230520T133324Z">
-        <seg>Por otra parte, este era sólo el segundo largometraje de Gondry, mejor conocido por sus imaginativos vídeos musicales para artistas como Björk, The Chemical Brothers y The White Stripes, y que, a partir de un guion que escribió junto con Charlie Kaufman, aportó el mismo tipo de sensibilidad lúdica y magia visual a Eternal Sunshine.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T175946Z" creationid="elisamariamoratonmateo" creationdate="20230520T133324Z">
+        <seg>Por otra parte, este era sólo el segundo largometraje de Gondry, quien era mejor conocido por sus imaginativos vídeos musicales para artistas como Björk, The Chemical Brothers y The White Stripes, y que, a partir de un guion que escribió junto con Charlie Kaufman, aportó el mismo tipo de sensibilidad lúdica y magia visual a "¡Olvídate de mí!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4588,8 +4596,8 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>The result was a smart, funny, sometimes heartbreaking film about relationships that became an instant cult classic.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T133535Z" creationid="elisamariamoratonmateo" creationdate="20230520T133535Z">
-        <seg>El resultado fue una película brillante, divertida, a veces desgarradora sobre relaciones que se convirtió al instante en un clásico de culto.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230530T180043Z" creationid="elisamariamoratonmateo" creationdate="20230520T133535Z">
+        <seg>El resultado fue una película brillante, divertida, una película en ocasiones desgarradora sobre relaciones, que se convirtió al instante en un clásico de culto.</seg>
       </tuv>
     </tu>
     <tu>
