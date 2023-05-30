@@ -153,3 +153,4 @@ contenders	aspirantes
 predicted	pronosticado/previsto
 masterpiece	obra maestra
 reschedule	reprogramar
+Weekly Ketchup	semanario tomatazo
