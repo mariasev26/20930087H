@@ -890,6 +890,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;e2&gt;Who Wants to Be a Millionaire &lt;/e2&gt;(Tuesdays, ABC) 1999–2000 – 18.6 rating&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T222226Z" creationid="elisamariamoratonmateo" creationdate="20230531T222226Z">
+        <seg>&lt;e2&gt;¿Quién quiere ser millonario? &lt;/e2&gt;(Martes, ABC) 1999–2000 – 18.6 clasificación&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;e4&gt;Dahmer – Monster: The Jeffrey Dahmer Story&lt;/e4&gt; – 856,270,000 hours&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
@@ -6236,8 +6244,8 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       <tuv lang="en-GB">
         <seg>The series scored nominations for each of its main actors.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
-        <seg>La serie obtuvo nominaciones para cada uno de sus actores principales.</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T222109Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>nLa serie obtuvo nominaciones para cada uno de sus actores principales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6910,6 +6918,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Winona Ryder stars as Joyce Byers, David Harbour as Chief Jim Hopper, Finn Wolfhard as Mike Wheeler, Gaten Matarazzo as Dustin Henderson, Caleb McLaughlin as Lucas Sinclair, Noah Schnapp as Will Byers, Natalia Dyer as Nancy Wheeler, Charlie Heaton as Jonathan Byers, and Joe Keery as Steve Harrington.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T222032Z" creationid="elisamariamoratonmateo" creationdate="20230531T222032Z">
+        <seg>Winona Ryder interpreta a Joyce Byers, David Harbour al jefe Jim Hopper, Finn Wolfhard a Mike Wheeler, Gaten Matarazzo a Dustin Henderson, Caleb McLaughlin a Lucas Sinclair, Noah Schnapp a Will Byers, Natalia Dyer a Nancy Wheeler, Charlie Heaton a Jonathan Byers y Joe Keery a Steve Harrington..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>With 52.5 million viewers, &lt;e0&gt;Friends&lt;/e0&gt;’ May 6, 2004, episode “The Last One” is the second-most-viewed series finale of the past 25 years.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
@@ -7162,6 +7178,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
         <seg>&lt;a1&gt;Hal Boedeker, &lt;e2&gt;Orlando Sentinel&lt;/e2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>–&lt;a1&gt;Jeff Jensen, &lt;e2&gt;Entertainment Weekly&lt;/e2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T222056Z" creationid="elisamariamoratonmateo" creationdate="20230531T222056Z">
+        <seg>–&lt;a1&gt;Jeff Jensen, &lt;e2&gt;Entretenimiento semanal&lt;/e2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
