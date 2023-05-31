@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4030,6 +4030,14 @@ James Gunn
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>MOST STREAMED MOVIE ON NETFLIX 36% Red Notice (2021) After the COVID-19 pandemic took hold in 2020 and changed the way we did, well, pretty much everything, one of the biggest industries to suffer — and quite publicly, at that — was the movie industry.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173225Z" creationid="maria" creationdate="20230531T173225Z">
+        <seg>LA PELÍCULA MÁS VISTA EN NETFLIX 36% "Alerta Roja" (2021) Después de la pandemia del Covid-19 que ocurrió en 2020, cambió la forma en la que hacíamos la mayoría de las cosas y, una de las mayores industrias que sufrió estos cambios, fue la del cine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>May 15, 2023</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T164508Z" creationid="elisamariamoratonmateo" creationdate="20230530T164508Z">
@@ -5146,8 +5154,8 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>The Lord of the Rings: The Two Towers (2002) – 247 days MOST OSCAR NOMINATIONS 91% La La Land (2016) “Most Oscar Nominations” can be a rather dubious accolade unless it’s followed by an equally impressive list of Oscar wins.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230531T161732Z" creationid="maria" creationdate="20230531T161732Z">
-        <seg>El Señor de los Anillos: Las dos Torres (2002) – 247 días MOST OSCAR NOMINATIONS 91% La La Land (2016) “Most Oscar Nominations” can be a rather dubious accolade unless it’s followed by an equally impressive list of Oscar wins.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T161949Z" creationid="maria" creationdate="20230531T161732Z">
+        <seg>El Señor de los Anillos: Las dos Torres (2002) – 247 días</seg>
       </tuv>
     </tu>
     <tu>
@@ -5974,8 +5982,8 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>With that in mind, it’s somewhat fitting that the film that earned this distinction over the course of the last 25 years is also one remembered more for the the Oscar gaffe it’s most associated with: “Envelopegate.” We are, of course, referring to 2016’s La La Land, which was incorrectly announced as the winner of Best Picture over Barry Jenkins’ Moonlight due to a procedural error backstage.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230531T161939Z" creationid="elisamariamoratonmateo" creationdate="20230521T182649Z">
-        <seg>CON MÁS NOMINACIONES EN LOS ÓSCAR 91% La La Land (2016). El título de "Más nominaciones en los Óscar" puede no ser muy impresionante, a no ser de que además de este título tenga casi la misma cantidad de premios Óscar. Teniendo eso en cuenta, es un poco apropiado que la película que ganó esta distinción en el transcurso de los últimos 25 años también sea recordada más por la metedura de pata de los Oscar con la que está más asociada: "Envelopegate". Nos referimos, por supuesto, a La La Land, de 2016, que fue anunciada erróneamente como ganadora a Mejor Película frente a Moonlight, de Barry Jenkins, debido a un error de procedimiento entre bastidores.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173011Z" creationid="elisamariamoratonmateo" creationdate="20230521T182649Z">
+        <seg>CON MÁS NOMINACIONES EN LOS ÓSCAR 91% La La Land (2016). El título de "Más nominaciones en los Óscar" puede no ser muy impresionante, a no ser de que además de este título tenga casi la misma cantidad de premios Óscar. Teniendo eso en cuenta, es un poco apropiado que la película que ganó esta distinción en el transcurso de los últimos 25 años también sea recordada por la metedura de pata de los Oscar. "Envelopegate". Nos referimos, por supuesto, a La La Land, de 2016, que fue anunciada erróneamente como ganadora a Mejor Película frente a "Moonlight", de Barry Jenkins, debido a un error de procedimiento entre bastidores.</seg>
       </tuv>
     </tu>
     <tu>
