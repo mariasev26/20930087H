@@ -5352,8 +5352,8 @@ Danny Trejo en Machete (2010)
       <tuv lang="en-GB">
         <seg>Rotten Tomatoes has been going strong since August 1998 and began aggregating reviews for TV and giving series Tomatometer scores in 2013.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230509T213358Z" creationid="Julia_Hurtado" creationdate="20230509T213358Z">
-        <seg>Rotten Tomatoes lleva funcionando con fuerza desde agosto de 1998 y empezó a agregar críticas para televisión y a dar puntuaciones Tomatometer a series en 2013.</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T221704Z" creationid="Julia_Hurtado" creationdate="20230509T213358Z">
+        <seg>Rotten Tomatoes lleva funcionando con fuerza desde agosto de 1998 y empezó a agregar críticas para televisión y a dar puntuaciones Tomatómetro a series en 2013.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5518,8 +5518,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>Some of the trends we’ve witnessed over the years include the dominance of reality television — both unscripted and competition programming — over traditional scripted drama and comedy; the ascendance of DVD subscription service Netflix to monster streaming giant with some of the most popular shows running, from &lt;e0&gt;Stranger Things&lt;/e0&gt; to &lt;e1&gt;Squid Game&lt;/e1&gt; and on; as well as the ebb and flow of cable networks like &lt;e2&gt;Game of Thrones&lt;/e2&gt; home HBO being gobbled up by Discovery.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121448Z" creationid="Julia_Hurtado" creationdate="20230516T154224Z">
-        <seg>Algunas de las tendencias de las que hemos sido testigos a lo largo de los años incluyen el dominio de la telerrealidad -tanto la programación no guionizada como la de competición- sobre el drama y la comedia guionizados tradicionales; el ascenso del servicio de suscripción de DVD Netflix a gigante monstruoso del streaming con algunos de los programas más populares en marcha, desde Stranger Things a Squid Game y demás; así como el flujo y reflujo de las cadenas de cable como Juego de Tronos casa HBO siendo engullida por Discovery.&lt;e0&gt;&lt;/e0&gt;&lt;e1&gt;&lt;/e1&gt;&lt;e2&gt;&lt;/e2&gt;</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T221652Z" creationid="Julia_Hurtado" creationdate="20230516T154224Z">
+        <seg>Algunas de las tendencias de las que hemos sido testigos a lo largo de los años incluyen el dominio de la telerealidad -tanto la programación no guionizada como la de competición- sobre el drama y la comedia guionizados tradicionales; el ascenso del servicio de suscripción de DVD Netflix a gigante monstruoso del streaming con algunos de los programas más populares en marcha, desde Stranger Things a Squid Game y demás; así como el flujo y reflujo de las cadenas de cable como Juego de Tronos casa HBO siendo engullida por Discovery.&lt;e0&gt;&lt;/e0&gt;&lt;e1&gt;&lt;/e1&gt;&lt;e2&gt;&lt;/e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7130,6 +7130,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
         <seg>&lt;a0&gt;Caryn James, &lt;e1&gt;New York Times&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>–&lt;a0&gt;Darren Franich, &lt;e1&gt;Entertainment Weekly&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T221812Z" creationid="elisamariamoratonmateo" creationdate="20230531T221812Z">
+        <seg>–&lt;a0&gt;Darren Franich, &lt;e1&gt;Entretenimiento semanal&lt;/e1&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
