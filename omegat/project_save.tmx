@@ -738,10 +738,34 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;e0&gt;The Curious Case of Benjamin Button&lt;/e0&gt; (2008) – 13</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T194242Z" creationid="elisamariamoratonmateo" creationdate="20230531T194242Z">
+        <seg>&lt;e0&gt;El curioso cada de Benjamin Button&lt;/e0&gt; (2008) – 13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;The Lord of the Rings: The Fellowship of the Ring&lt;/e0&gt; (2001) – 13</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T194255Z" creationid="elisamariamoratonmateo" creationdate="20230531T194255Z">
+        <seg>&lt;e0&gt;El Señor de los Anillos: La Comunidad del Anillo&lt;/e0&gt; (2001) – 13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;e0&gt;The Lord of the Rings: The Two Towers&lt;/e0&gt; (2002) – 247 days</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T193431Z" creationid="elisamariamoratonmateo" creationdate="20230531T193431Z">
         <seg>&lt;e0&gt;El Señor de los Anillos: Las dos torres&lt;/e0&gt; (2002) – 247 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;The Shape of Water&lt;/e0&gt; (2017) – 13</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T194224Z" creationid="elisamariamoratonmateo" creationdate="20230531T194224Z">
+        <seg>&lt;e0&gt;La forma del agua&lt;/e0&gt; (2017) – 13</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,6 +926,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T182839Z" creationid="elisamariamoratonmateo" creationdate="20230531T182839Z">
         <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;92%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;¡Olvídate de mí!&lt;/a5&gt; &lt;s6&gt;(2004)&lt;/s6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;93%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;The Lord of the Rings: The Return of the King&lt;/a5&gt; &lt;s6&gt;(2003)&lt;/s6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T194322Z" creationid="elisamariamoratonmateo" creationdate="20230531T194322Z">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;93%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;El Señor de los Anillos: el retorno del Rey&lt;/a5&gt; &lt;s6&gt;(2003)&lt;/s6&gt; &lt;/s4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4456,6 +4488,14 @@ James Gunn
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Most Oscar Wins</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T194311Z" creationid="elisamariamoratonmateo" creationdate="20230531T194311Z">
+        <seg>Más victorias en los Oscars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Most Popular Movies Right Now: What to Watch In Theaters and Streaming</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T164052Z" creationid="elisamariamoratonmateo" creationdate="20230530T164052Z">
@@ -6106,6 +6146,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>This is not to say that nominations were the only glory that &lt;e13&gt;La La Land&lt;/e13&gt; took home; it won a respectable six prizes, including Best Actress, Best Screenplay, and Best Director for Chazelle himself.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T194206Z" creationid="elisamariamoratonmateo" creationdate="20230531T194206Z">
+        <seg>Esto no quiere decir que las nominaciones fueran la única gloria que&lt;e13&gt;La La Land&lt;/e13&gt; se llevó a casa; ganó unos respetables seis premios, incluyendo Mejor Actriz, Mejor Guion y Mejor Director para el propio Chazelle..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>This is not to say that nominations were the only glory that La La Land took home; it won a respectable six prizes, including Best Actress, Best Screenplay, and Best Director for Chazelle himself.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183152Z" creationid="elisamariamoratonmateo" creationdate="20230521T183152Z">
@@ -6230,6 +6278,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153335Z" creationid="Julia_Hurtado" creationdate="20230516T153335Z">
         <seg>Tom Jones on Masterpiece: Temporada 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Top 5 Films with Most Oscar Nominations in the Last 25 Years</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T194215Z" creationid="elisamariamoratonmateo" creationdate="20230531T194215Z">
+        <seg>Las 5 películas con más nominaciones al Oscar en los últimos 25 años</seg>
       </tuv>
     </tu>
     <tu>
