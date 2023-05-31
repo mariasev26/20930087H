@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -53,6 +53,14 @@ James Gunn obviously is going to be extremely busy as the new co-head of DC Stud
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230526T162329Z" creationid="OmegaT Aligner" creationdate="20230526T162329Z">
         <seg>James Gunn obviamente va a estar extremadamente ocupado como nuevo co-director de DC Studios, teniendo en cuenta su ambiciosa agenda (que es sólo una parte de lo que Gunn tiene planeado, por si fuera poco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(Photo by Joe Del Valle/©Castle Rock Entertainment/Courtesy Everett Collection)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>(Foto de Joe Del Valle/©Castle Rock Entertainment/Cortesía de Everett Collection)</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +150,26 @@ Peter Farrelly is a big time Academy Award winner now for Green Book (Certified 
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>(Photo by © Columbia TriStar Television/ Courtesy: Everett Collection.)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>(Foto de © Columbia TriStar Television/ Cortesía: Everett Collection).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>(Photo by ©20th Century Fox Film Corp.)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T163052Z" creationid="elisamariamoratonmateo" creationdate="20230530T163052Z">
         <seg>(Foto hecha por ©20th Century Fox Film Corp.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(Photo by ©NBC/Courtesy Everett Collection)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>(Foto de ©NBC/Cortesía de Everett Collection)</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +202,14 @@ Peter Farrelly is a big time Academy Award winner now for Green Book (Certified 
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230505T161155Z" creationid="OmegaT Aligner" creationdate="20230504T191826Z">
         <seg>(Mira aquí las mejores películas de terror de años anteriores con nuestras guías de &lt;a0&gt;2022&lt;/a0&gt;, &lt;a1&gt;2021&lt;/a1&gt;, &lt;a2&gt;2020&lt;/a2&gt;, &lt;a3&gt;2019&lt;/a3&gt; y &lt;a4&gt;2018&lt;/a4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>(We broke the tie between the first seasons of &lt;e2&gt;Hacks&lt;/e2&gt; and &lt;e3&gt;Yellowjackets&lt;/e3&gt; in our list below by looking at those seasons’ “Average Ratings” under “See Score Details.”)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>(Hemos deshecho el empate entre las primeras temporadas de &lt;e2&gt;Hacks&lt;/e2&gt; y &lt;e3&gt;Yellowjackets&lt;/e3&gt; en nuestra lista de abajo mirando las "Puntuaciones medias" de esas temporadas en "Ver detalles de puntuación").</seg>
       </tuv>
     </tu>
     <tu>
@@ -460,8 +492,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;a0&gt;What's the Tomatometer?®&lt;/a0&gt; &lt;a1&gt;RT Critics&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T150428Z" creationid="Julia_Hurtado" creationdate="20230516T145326Z">
-        <seg>¿Que es el Tomatómetro? RT Críticas</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T115841Z" creationid="Julia_Hurtado" creationdate="20230516T145326Z">
+        <seg>¿Que es el Tomatómetro? RT Críticas&lt;a0&gt;&lt;/a0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,10 +538,66 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Only Murders in the Building&lt;/e0&gt;, season 1 – 106 reviews&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Only Murders in the Building&lt;/e0&gt;, temporada 1 - 106 críticas&lt;br1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;e0&gt;RETURN TO SILENT HILL&lt;/e0&gt; TO ADAPT CLASSIC HORROR GAME &lt;e1&gt;SILENT HILL 2&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T163518Z" creationid="elisamariamoratonmateo" creationdate="20230530T163518Z">
         <seg>&lt;e0&gt;REGRESO A SILENT HILL&lt;/e0&gt; PARA ADAPTAR EL CLÁSICO JUEGO DE TERROR &lt;e1&gt;SILENT HILL 2&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;SNL&lt;/e0&gt; cast members Will Ferrell and Chris Kattan starred in October 1998 film release &lt;a1&gt;&lt;e2&gt;Night at the Roxbury&lt;/e2&gt;&lt;/a1&gt;, based on their popular “Roxbury Guys” skit.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Los miembros del reparto de &lt;e0&gt;SNL&lt;/e0&gt; Will Ferrell y Chris Kattan protagonizaron en octubre de 1998 la película &lt;a1&gt;&lt;e2&gt;Night at the Roxbury&lt;/e2&gt;&lt;/a1&gt;, basada en su popular sketch "Roxbury Guys".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Saturday Night Live&lt;/e0&gt; has the most Emmy nominations of all time with 305 and the most Emmy wins with 82.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Saturday Night Live&lt;/e0&gt; tiene el mayor número de nominaciones a los Emmy de todos los tiempos con 305 y el mayor número de victorias con 82.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Seinfeld&lt;/e0&gt; (NBC) 1997-1998 – 21.7 rating&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Seinfeld&lt;/e0&gt; (NBC) 1997-1998 - 21,7 de audiencia&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Seinfeld&lt;/e0&gt; had a monster finale, called “&lt;a1&gt;The Finale&lt;/a1&gt;,” with a 41.3 Nielsen rating and a 58 share with an estimated 75 million viewers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Seinfeld&lt;/e0&gt; tuvo un final monstruoso, llamado "&lt;a1&gt;The Finale&lt;/a1&gt;", con un 41,3 de ratio de Nielsen y un 58 de compartidos con una audiencia estimada de 75 millones de espectadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Seinfeld&lt;/e0&gt; reached 34.1 million viewers in the 1997-1998 period with a 21.7 Nielsen rating; however, the series ended in May 1998, missing Rotten Tomatoes’ birth by a mere three months.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Seinfeld&lt;/e0&gt; alcanzó los 34,1 millones de espectadores en el periodo 1997-1998 con una audiencia de 21,7 Nielsen; sin embargo, la serie terminó en mayo de 1998, perdiéndose el nacimiento de Rotten Tomatoes por apenas tres meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Squid Game&lt;/e0&gt;: Season 1 – 1,650,450,000&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Squid Game&lt;/e0&gt;: Temporada 1 - 1.650.450.000&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +618,38 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Stranger Things 4&lt;/e0&gt; – 1,352,090,000 hours&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Stranger Things 4&lt;/e0&gt; - 1.352.090.000 horas&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt; has promise as a peculiar and critical historical survey of geek culture.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt; promete ser un peculiar y crítico repaso histórico de la cultura friki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt; might feel like a mere retro roller coaster were it not for that slow drip of sorrow and trauma, the residue of Reagan-era anxiety about the nuclear family.–&lt;a1&gt;Emily Nussbaum, &lt;e2&gt;New Yorker&lt;/e2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt; podría parecer una mera montaña rusa retro si no fuera por ese lento goteo de dolor y trauma, el residuo de la ansiedad de la era del presidente Reagan sobre la familia nuclear.&lt;/a1&gt;Emily Nussbaum, &lt;e2&gt;New Yorker&lt;/e2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt; season 1 has a 96% Audience Score with almost 14K ratings, the second-highest number of ratings of any TV or streaming series season.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt; temporada 1 tiene un 96% de Audience Score con casi 14 mil ratings, el segundo mayor número de ratings de cualquier temporada de series de TV o streaming.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;e10&gt;Dear Santa&lt;/e10&gt; will tell the story of a little boy who sends a letter to Santa Claus, but misspells his name, and sends his Christmas wishes to SATAN instead.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T162953Z" creationid="elisamariamoratonmateo" creationdate="20230530T162953Z">
@@ -546,10 +666,82 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;e2&gt;Fleabag&lt;/e2&gt;, season 2 – 99 reviews&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e2&gt;Fleabag&lt;/e2&gt;, temporada 2 - 99 críticas&lt;br3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e2&gt;Money Heist&lt;/e2&gt;: Part 5 – 792,230,000&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e2&gt;Money Heist&lt;/e2&gt;: Parte 5 - 792.230.000&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e4&gt;Dahmer – Monster: The Jeffrey Dahmer Story&lt;/e4&gt; – 856,270,000 hours&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e4&gt;Dahmer - Monster: La historia de Jeffrey Dahmer&lt;/e4&gt; - 856.270.000 horas&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e4&gt;Money Heist&lt;/e4&gt;: Part 4 – 619,010,000&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e4&gt;La casa de papel&lt;/e4&gt;: Parte 4 - 619.010.000&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e4&gt;The Bear&lt;/e4&gt;, season 1 – 77 reviews&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e4&gt;The bear&lt;/e4&gt;, temporada 1 - 77 críticas&lt;br5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;e5&gt;Return to Silent Hill&lt;/e5&gt; will star Jeremy Irvine (&lt;e6&gt;War Horse&lt;/e6&gt;) as a man who is drawn to the spooky town of Silent Hill trying to reunite with his former love, played by Hannah Emily Anderson (&lt;e7&gt;Jigsaw&lt;/e7&gt;).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T163925Z" creationid="elisamariamoratonmateo" creationdate="20230530T163925Z">
         <seg>&lt;e5&gt;Return to Silent Hill&lt;/e5&gt; estará protagonizada por Jeremy Irvine (&lt;e6&gt;War Horse&lt;/e6&gt;) en el papel de un hombre que se ve atraído por el espeluznante pueblo de Silent Hill intentando reunirse con su antiguo amor, interpretado por Hannah Emily Anderson (&lt;e7&gt;Jigsaw&lt;/e7&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e6&gt;All of Us Are Dead&lt;/e6&gt;: Season 1 – 560,780,000&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e6&gt;Todos estamos muertos&lt;/e6&gt;: Temporada 1 - 560.780.000&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e6&gt;Bridgerton&lt;/e6&gt;: Season 2 – 656,260,000 hours&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e6&gt;Bridgerton&lt;/e6&gt;: 2ª temporada - 656.260.000 horas&lt;br7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e6&gt;Hacks&lt;/e6&gt;, season 1 – 74 reviews&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e6&gt;Hacks&lt;/e6&gt;, temporada 1 - 74 críticas&lt;br7&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e6&gt;Survivor&lt;/e6&gt; (CBS) 2000–2001 – 17.4 rating&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e6&gt;Survivor&lt;/e6&gt; (CBS) 2000-2001 - 17,4 de audiencia&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +754,62 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;e8&gt;American Idol&lt;/e8&gt; (Wednesdays, ABC) 2006–2007 – 17.3 rating</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e8&gt;American Idol&lt;/e8&gt; (miércoles, ABC) 2006-2007 - 17.3 rating</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e8&gt;Bridgerton&lt;/e8&gt;: Season 1 – 625,490,000 hours</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e8&gt;Bridgerton&lt;/e8&gt;: Temporada 1 - 625.490.000 horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e8&gt;Money Heist&lt;/e8&gt;: Part 3 – 426,400,000</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e8&gt;La casa de papel&lt;/e8&gt;: Parte 3 - 426.400.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e8&gt;Yellowjackets&lt;/e8&gt;, season 1 – 74 reviews</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e8&gt;Yellowjackets&lt;/e8&gt;, temporada 1 - 74 críticas&lt;br8&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;- -&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Friends, Season 10, Episode 17: "The Last One"&lt;/a5&gt; &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;- -&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Friends, Temporada 10, Episodio 17: "The Last One"&lt;/a5&gt; &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;- -&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Seinfeld, Season 9, Episode 24: "The Finale"&lt;/a5&gt; &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;- -&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Seinfeld, Temporada 9, Episodio 24: "The Finale"&lt;/a5&gt; &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;100%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Only Murders in the Building: Season 1&lt;/a5&gt; &lt;s6&gt;(2021)&lt;/s6&gt; (Hulu) &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;100%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt; Only Murders in the Building: Temporada 1&lt;/a5&gt; &lt;s6&gt;(2021)&lt;/s6&gt; (Hulu) &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;55%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Game of Thrones: Season 8&lt;/a5&gt; &lt;s6&gt;(2019)&lt;/s6&gt; (HBO) with 675 reviews &lt;/s4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084643Z" creationid="Julia_Hurtado" creationdate="20230516T084643Z">
@@ -570,10 +818,34 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;65%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Lilyhammer&lt;/a5&gt; (Netflix) &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;65%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Lilyhammer&lt;/a5&gt; (Netflix) &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;79%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;The Walking Dead&lt;/a5&gt; (AMC) with 4,130 reviews &lt;/s4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230517T111403Z" creationid="Julia_Hurtado" creationdate="20230505T162116Z">
         <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;79%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;The Walking Dead&lt;/a5&gt; (AMC) con 4,130 reseñas &lt;/s4&gt;+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;95%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Squid Game&lt;/a5&gt; (Netflix) &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;95%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Squid Game&lt;/a5&gt; (Netflix) &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;97%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Stranger Things: Season 1&lt;/a5&gt; &lt;s6&gt;(2016)&lt;/s6&gt; (Netflix) &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;97%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Stranger Things: Temporada 1&lt;/a5&gt; &lt;s6&gt;(2016)&lt;/s6&gt; (Netflix) &lt;/s4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,6 +1694,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144952Z" creationid="maria" creationdate="20230520T144952Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Yoko Okumura&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;More &lt;a1&gt;RT25&lt;/a1&gt; Anniversary Content:&lt;/s0&gt;&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;s0&gt;Más &lt;a1&gt;RT25&lt;/a1&gt; Contenido del Aniversario:&lt;/s0&gt;&lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2359,6 +2639,14 @@ Anne Hathaway
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Another hit Netflix fantasy series, &lt;e0&gt;The Witcher&lt;/e0&gt; season 1 has over 22K ratings, but a lower Audience Score at 90%.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Otra exitosa serie de fantasía de Netflix, &lt;e0&gt;The Witcher&lt;/e0&gt; temporada 1 tiene más de 22 mil ratings, pero un Audience Score más bajo con 90%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Are You There God?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152321Z" creationid="Julia_Hurtado" creationdate="20230516T152321Z">
@@ -2615,6 +2903,22 @@ Anne Hathaway
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>But one story line turned out exactly as fans expected.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Pero una línea argumental resultó exactamente como los fans esperaban.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But we’re going to give top spot to the NBC comedy classic anyway for being one of the last broadcast scripted shows to claim such a stellar audience.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>De todos modos, vamos a otorgar el primer puesto a este clásico de la comedia de la NBC por ser uno de los últimos programas con guión emitidos en conseguir una audiencia tan estelar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>But when Kevin...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T215851Z" creationid="maria" creationdate="20230521T215851Z">
@@ -2735,6 +3039,14 @@ Anne Hathaway
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Compared to its hit &lt;e0&gt;Seinfeld&lt;/e0&gt;, NBC took a somewhat different approach to BFF comedy with &lt;e1&gt;Friends&lt;/e1&gt;, which kicked off on September 22, 1994.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>En comparación con su éxito &lt;e0&gt;Seinfeld&lt;/e0&gt;, la NBC adoptó un enfoque algo diferente de la comedia de mejores amigas con &lt;e1&gt;Friends&lt;/e1&gt;, que comenzó el 22 de septiembre de 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Continuing the story of Christian Bale’s Bruce Wayne, The Dark Knight played more like a crime thriller that just happened to revolve around comic book characters, and it reintroduced Batman’s most famous foe in Heath Ledger’s Joker.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230530T181555Z" creationid="elisamariamoratonmateo" creationdate="20230520T143347Z">
@@ -2747,6 +3059,14 @@ Anne Hathaway
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T221539Z" creationid="maria" creationdate="20230521T221539Z">
         <seg>Ajustes de Cookies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Created by Lorne Michaels, the NBC sketch-comedy series debuted on October 11, 1975, and brought widespread fame to such comedy luminaries as Dan Aykroyd, John Belushi, Dana Carvey, Chevy Chase, Jimmy Fallon, Chris Farley, Will Ferrell, Tina Fey, Bill Hader, Darrell Hammond, Phil Hartman, Julia Louis-Dreyfus, Kate McKinnon, Tim Meadows, Eddie Murphy, Bill Murray, Mike Myers, Bob Odenkirk, Amy Poehler, Gilda Radner, Chris Rock, Maya Rudolph, Andy Samberg, Adam Sandler, Molly Shannon, Jason Sudeikis, Kenan Thompson, Kristen Wiig, and many other now-legendary talents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Creada por Lorne Michaels, la serie de sketches y comedia de la NBC se estrenó el 11 de octubre de 1975 y dio fama a figuras de la comedia como Dan Aykroyd, John Belushi, Dana Carvey, Chevy Chase, Jimmy Fallon, Chris Farley, Will Ferrell, Tina Fey, Bill Hader, Darrell Hammond, Phil Hartman, Julia Louis-Dreyfus, Kate McKinnon, Tim Meadows, Eddie Murphy, Bill Murray, Mike Myers, Bob Odenkirk, Amy Poehler, Gilda Radner, Chris Rock, Maya Rudolph, Andy Samberg, Adam Sandler, Molly Shannon, Jason Sudeikis, Kenan Thompson, Kristen Wiig y muchos otros talentos ya legendarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2889,6 +3209,14 @@ Denzel Washington y Barry Keoghan
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Drew Barrymore, Tom Hanks, Melissa McCarthy, and Justin Timberlake are also frequent hosts.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Drew Barrymore, Tom Hanks, Melissa McCarthy y Justin Timberlake también son presentadores habituales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Early stars Andrew Lincoln, Sarah Wayne Callies, Steve Yeun, and Jon Bernthal eventually made way for new actors like Lauren Cohan, Danai Gurira, Ross Marquand, Khary Payton, Christian Serratos, and others to take the lead, while Melissa McBride and Norman Reedus saw their Carol-and-Daryl dynamic through from the very first episode to the very last.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T163033Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
@@ -3014,10 +3342,34 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fellow cast members Mark McKinney, Colin Quinn and Molly Shannon also appeared in the film, which has an 11% Tomatometer score.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Sus compañeros de reparto Mark McKinney, Colin Quinn y Molly Shannon también aparecieron en la película, que tiene una puntuación del 11% en el Tomatometer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Finale with the Highest Viewership</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Final con más audiencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Find out which series has the most reviews, when Rotten Tomatoes started covering television, the most Emmy-awarded programs, and more fun facts.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144047Z" creationid="Julia_Hurtado" creationdate="20230516T144047Z">
         <seg>Descubre qué series tienen más críticas, los Rotten Tomatoes empezaron a cubrir la televisión, los programas más premiados en los Emmy y más datos curiosos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>First Streaming Series</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Primera serie en streaming</seg>
       </tuv>
     </tu>
     <tu>
@@ -3042,6 +3394,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T221448Z" creationid="maria" creationdate="20230521T221448Z">
         <seg>Síguenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>For the most part, and in absolute defiance of the odds, Stranger Things honors its source material in the best way possible: By telling a sweet ‘n’ scary story in which monsters are real but so are the transformative powers of love and fealty.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>En su mayor parte, y contra todo pronóstico, Stranger Things hace honor a su material original de la mejor manera posible: Contando una historia dulce y aterradora en la que los monstruos son reales, pero también lo son los poderes transformadores del amor y la lealtad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,6 +3442,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153105Z" creationid="Julia_Hurtado" creationdate="20230516T153105Z">
         <seg>From: Temporada 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fun fact: John Aniston, who played underworld figure Victor Kiriakis for 37 years in the show, is the father of &lt;e0&gt;Friends&lt;/e0&gt; star Jennifer Aniston with actress Nancy Dow, and &lt;e1&gt;Friends&lt;/e1&gt; later incorporated the soap into one of its storylines.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Dato curioso: John Aniston, que interpretó a Victor Kiriakis durante 37 años en la serie, es el padre de Jennifer Aniston, estrella de &lt;e0&gt;Friends&lt;/e0&gt;, con la actriz Nancy Dow, y &lt;e1&gt;Friends&lt;/e1&gt; incorporó más tarde la telenovela en uno de sus argumentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3538,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Here’s what critics said about &lt;e0&gt;Stranger Things&lt;/e0&gt; season 1 in 2016:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Esto es lo que dijeron los críticos sobre &lt;e0&gt;Stranger Things&lt;/e0&gt; temporada 1 en 2016:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Here’s what critics said about &lt;e0&gt;The Walking Dead&lt;/e0&gt;:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230505T161730Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
@@ -3178,10 +3554,50 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Here’s what critics said at the time:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Esto es lo que dijeron los críticos en su momento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Highest Audience Score With 10K+ Ratings</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Puntuación de audiencia más alta con más de 10 mil calificaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Highest Tomatometer Score by Season</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Máxima puntuación en el Tomatómetro por temporada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Home</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144725Z" creationid="Julia_Hurtado" creationdate="20230516T144529Z">
         <seg>Página principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Honorable Mention:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Mención honorífica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I don’t know what was worse, the Knicks losing to the Pacers, or this.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>No sé qué fue peor, que los Knicks perdieran contra los Pacers o esto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3242,6 +3658,22 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>In the episode, NBC picks up Jerry and George’s sitcom, but then the four friends are arrested in a small Massachusetts town for breaking the good Samaritan law.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>En el episodio, la NBC retoma la sitcom de Jerry y George, pero entonces los cuatro amigos son arrestados en un pequeño pueblo de Massachusetts por infringir la ley del buen samaritano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>In the last episode — spoiler alert — Phoebe had previously found her happily-ever-after married to piano-man Mike; married Monica and Chandler, with adopted twins in tow, prepared to move to tony Westchester in the New York suburbs; Rachel and Ross, who had split, reunited when Rachel got off of a plane to her new job in Paris to stay with him; and Joey got his own Hollywood-set spin-off series, &lt;e0&gt;Joey&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>En el último episodio -alerta de spoiler- Phoebe había encontrado su felicidad para siempre casada con el pianista Mike; Mónica y Chandler, casados y con gemelos adoptados a cuestas, se preparaban para mudarse al lujoso Westchester, en los suburbios de Nueva York; Rachel y Ross, que se habían separado, se reencontraron cuando Rachel se bajó de un avión rumbo a su nuevo trabajo en París para quedarse con él; y Joey consiguió su propia serie derivada ambientada en Hollywood, &lt;e0&gt;Joey&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>In the past, del Toro has also talked about doing &lt;e6&gt;Bride of Frankenstein&lt;/e6&gt;, but it is unclear whether this &lt;e7&gt;Frankenstein&lt;/e7&gt; project will also include that character.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T152638Z" creationid="elisamariamoratonmateo" creationdate="20230530T152638Z">
@@ -3262,6 +3694,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230505T161130Z" creationid="OmegaT Aligner" creationdate="20230504T191826Z">
         <seg>En esta guía de las películas de miedo más recientes, haremos una clasificación de las mejores películas de terror de 2023 cada semana, que hasta ahora incluye &lt;e7&gt;Llaman a la puerta&lt;/e7&gt; (del director &lt;a8&gt;M. Night Shyamalan&lt;/a8) &gt;), &lt;e9&gt;Infinity Pool&lt;/e9&gt; de Brandon Cronenberg y la nueva curiosidad viral &lt;e10&gt;Skinamarink&lt;/e10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>In truth, it’s easier for a TV season to be Certified Fresh at 100% on 20 reviews, so it’s particularly notable when a season holds onto its perfect score with more reviews.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>En realidad, es más fácil que una temporada de TV tenga el certificado "Fresh" al 100% con 20 críticas, por lo que es especialmente notable cuando una temporada mantiene su puntuación perfecta con más críticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,6 +3742,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T084850Z" creationid="Julia_Hurtado" creationdate="20230516T084850Z">
         <seg>Se certificó como "fresco" al 90%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It was such a terrible letdown.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Fue una terrible decepción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3396,10 +3844,26 @@ James Gunn
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kauffman and Crane stick the landing with a two-part series finale that doesn’t forsake the show’s signature comedy for non-stop emotions — though there are plenty of emotional moments too.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Kauffman y Crane dan en el clavo con un final de serie en dos partes que no renuncia a la comedia característica de la serie para ofrecer emociones sin parar, aunque también hay muchos momentos emotivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>LONGEST THEATRICAL RUN</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T180946Z" creationid="elisamariamoratonmateo" creationdate="20230521T180946Z">
         <seg>MAYOR DURACIÓN EN SALAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Larry David received an Emmy for writing in 1993, while Larry Charles and Elaine Pope shared another writing Emmy in 1992.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Larry David recibió un Emmy como guionista en 1993, mientras que Larry Charles y Elaine Pope compartieron otro Emmy como guionistas en 1992.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +4086,14 @@ James Gunn
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Most Streamed Netflix Show</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie de Netflix más vista en streaming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Movie &amp; TV News</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T221022Z" creationid="maria" creationdate="20230521T221022Z">
@@ -3668,6 +4140,22 @@ James Gunn
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230526T162329Z" creationid="OmegaT Aligner" creationdate="20230526T162329Z">
         <seg>Netflix y Guillermo del Toro han comenzado las negociaciones con tres estrellas (Oscar Isaac, Andrew Garfield y la reina del grito de 2022, Mia Goth) para su adaptación en acción real de la novela de terror de Mary Shelley, Frankenstein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Netflix launched as a DVD subscription service on April 14, 1998, four months ahead of Rotten Tomatoes, but it would be another 14 years before the streaming giant launched its first Netflix Original, &lt;e0&gt;Lilyhammer&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Netflix se lanzó como servicio de suscripción de DVD el 14 de abril de 1998, cuatro meses antes que Rotten Tomatoes, pero pasarían otros 14 años antes de que el gigante del streaming lanzara su primer Netflix Original, &lt;e0&gt;Lilyhammer&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Netflix programs &lt;e1&gt;House of Cards&lt;/e1&gt; and &lt;e2&gt;Derek&lt;/e2&gt; launched in February 2013, followed by &lt;e3&gt;Hemlock Grove&lt;/e3&gt; (April 2013) and &lt;e4&gt;Orange Is the New Black&lt;/e4&gt; (July 2013).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Los programas de Netflix &lt;e1&gt;House of Cards&lt;/e1&gt; y &lt;e2&gt;Derek&lt;/e2&gt; se estrenaron en febrero de 2013, seguidos de &lt;e3&gt;Hemlock Grove&lt;/e3&gt; (abril de 2013) y &lt;e4&gt;Orange Is the New Black&lt;/e4&gt; (julio de 2013).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,6 +4408,30 @@ QUENTIN TARANTINO ANUNCIA SU 10ª (¿Y ÚLTIMA?) PELÍCULA, JAMES GUNN DIRIGIRÁ
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T154018Z" creationid="elisamariamoratonmateo" creationdate="20230530T154018Z">
         <seg>Otros Titulares Destacados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Other popular sketches and characters of the past 25 years include Rachel Dratch’s “Debbie Downer,” Will Forte’s “MacGruber” (also made into a &lt;a0&gt;film&lt;/a0&gt;), The Lonely Island digital shorts, Maya Rudolph’s Donatella Versace, Black Jeopardy, Pete Davidson’s Chad, Will Ferrell’s Harry Caray impressions and “More Cowbell” sketch with Christopher Walken, Fred Armisen and Kristen Wiig’s Garth and Kat, Bill Hader’s Stefon, and so many more.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Otros sketches y personajes populares de los últimos 25 años son "Debbie Downer" de Rachel Dratch, "MacGruber" de Will Forte (también convertido en película), los cortos digitales de The Lonely Island, Donatella Versace de Maya Rudolph, Black Jeopardy, Chad de Pete Davidson, las imitaciones de Harry Caray de Will Ferrell y el sketch "More Cowbell" con Christopher Walken, Garth y Kat de Fred Armisen y Kristen Wiig, Stefon de Bill Hader, y muchos más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Over the course of the show’s nine-season run, the NBC comedy won 10 Emmys on 68 nominations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>A lo largo de sus nueve temporadas, la comedia de la NBC ganó 10 Emmys con 68 nominaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Over the series’ run, stars have included Kristian Alfonso as Hope Brady, John Clarke as Mickey Horton, Deidre Hall as Dr. Marlena Evans, Drake Hogestyn as John Black, Peter Reckell as Bo Brady, Frances Reid as Alice Horton, Suzanne Rogers as Maggie Horton, Alison Sweeney as Sami Brady, and oh so very many more.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>En la serie han actuado, entre otros, Kristian Alfonso como Hope Brady, John Clarke como Mickey Horton, Deidre Hall como la Dra. Marlena Evans, Drake Hogestyn como John Black, Peter Reckell como Bo Brady, Frances Reid como Alice Horton, Suzanne Rogers como Maggie Horton, Alison Sweeney como Sami Brady y muchísimos más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4182,6 +4694,30 @@ Danny Trejo en Machete (2010)
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Show with the Highest Nielsen Rating</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie con mayor audiencia en Nielsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Show with the Longest Run</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>El programa con la serie más larga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Show with the Most Emmy Nominations &amp; Wins</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Programa con más nominaciones y victorias en los Emmy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Silo: Season 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152907Z" creationid="Julia_Hurtado" creationdate="20230516T152907Z">
@@ -4212,6 +4748,14 @@ Danny Trejo en Machete (2010)
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T184216Z" creationid="elisamariamoratonmateo" creationdate="20230521T184216Z">
         <seg>Así que es de imaginar su decepción cuando Amazon Prime les ganó la primera nominación a la Mejor Película con el drama de Kenneth Lonergan Manchester frente al mar en 2016.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Soap opera &lt;e0&gt;Days of Our Lives&lt;/e0&gt; premiered on November 8, 1965, and ran until 2022 on NBC.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La telenovela &lt;e0&gt;Days of Our Lives&lt;/e0&gt; se estrenó el 8 de noviembre de 1965 y se emitió hasta 2022 en la NBC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,6 +4798,14 @@ Danny Trejo en Machete (2010)
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230530T180945Z" creationid="elisamariamoratonmateo" creationdate="20230520T141911Z">
         <seg>Protagonizada por Chadwick Boseman como el rey T'Challa y dirigida por Ryan Coogler, la obra de Marvel combinó acción deslumbrante, un reparto de lujo y temas sociales y ancestrales contemporáneos, llegando a recaudar más de mil millones de dólares en todo el mundo y convirtiéndose en la primera película de superhéroes nominada al Óscar a la mejor película.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Streaming services abound now in 2023 — AMC+, Apple TV+, HBOMax, Paramount+, Peacock, Prime Video, and on — but the granddaddy of all streamers is Netflix, which reports that &lt;e0&gt;Squid Game&lt;/e0&gt; is the most popular series of all time with over 1.65 billion hours watched in its first 28 days.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Los servicios de streaming abundan ahora en 2023 -AMC+, Apple TV+, HBOMax, Paramount+, Peacock, Prime Video, etcétera-, pero el abuelo de todos los streamers es Netflix, que informa de que &lt;e0&gt;Squid Game&lt;/e0&gt; es la serie más popular de todos los tiempos, con más de 1.650 millones de horas vistas en sus primeros 28 días.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,6 +4920,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T184229Z" creationid="elisamariamoratonmateo" creationdate="20230521T184229Z">
         <seg>Este íntimo estudio sobre el duelo, que se llevó dos Oscar, tuvo una gran acogida entre los votantes de la Academia, pero no estuvo exento de polémica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ten-time Emmy nominee Janet Ashikaga won three for editing the show.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Janet Ashikaga, diez veces nominada al Emmy, ganó tres por el montaje de la serie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4504,6 +5064,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The Netflix horror series started out set in the 1980s with a little girl named Eleven (Millie Bobby Brown) with supernatural abilities integrating into the lives of residents of a small Midwestern town.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie de terror de Netflix comenzó ambientada en los años 80 con una niña llamada Eleven (Millie Bobby Brown) con habilidades sobrenaturales que se integra en la vida de los residentes de un pequeño pueblo del Medio Oeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The Other Two: Season 3</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153310Z" creationid="Julia_Hurtado" creationdate="20230516T153310Z">
@@ -4542,6 +5110,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230505T163408Z" creationid="OmegaT Aligner" creationdate="20230505T161730Z">
         <seg>El elemento que lo convierte en mucho más que una serie de zombis te atrapa rápidamente: este es un programa sobre los vivos, y el desastre tan horrible que podemos llegar a formar ahora que el tejido social no solo está desgarrado sino borrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The ending was polarizing to viewers and critics alike.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>El final polarizó tanto a los espectadores como a los críticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,6 +5162,86 @@ Oscar Isaac, Mia Goth y Andrew Garfield
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The first season of Hulu’s &lt;e0&gt;Only Murders in the Building&lt;/e0&gt;, with 106 reviews, can claim bragging rights for having the &lt;e1&gt;most perfect&lt;/e1&gt; perfect score.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La primera temporada de &lt;e0&gt;Only Murders in the Building&lt;/e0&gt; de Hulu, con 106 críticas, puede presumir de tener la &lt;e1&gt;puntuación perfecta más perfecta&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The highest Tomatometer score possible is, of course, 100%, and the club of TV seasons that have maintained that perfect score is not especially big — there are currently under 170.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La máxima puntuación posible en el Tomatometer es, por supuesto, el 100%, y el club de temporadas televisivas que han mantenido esa puntuación perfecta no es especialmente grande: actualmente hay menos de 170.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The hilarious final episode was everything ”Seinfeld” was at its best….</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>El divertidísimo episodio final fue todo lo que "Seinfeld" fue en su mejor momento....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The hype before the &lt;e0&gt;Seinfeld &lt;/e0&gt;farewell was one event the country should never go through again.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>El revuelo previo a la despedida de &lt;e0&gt;Seinfeld &lt;/e0&gt;fue un acontecimiento por el que el país no debería volver a pasar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The last season felt a bit rushed at times, thought not nearly as much as the extremely online have been saying, but it was incredibly impressive how the show stayed true to the vision until the end.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La última temporada se sintió un poco apresurada a veces, aunque no tanto como los extremadamente en línea han estado diciendo, pero fue increíblemente impresionante cómo el espectáculo se mantuvo fiel a la visión hasta el final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The long-running NBC sketch comedy series is followed in its Emmy dominance by HBO’s &lt;e0&gt;Game of Thrones&lt;/e0&gt; with 160 nominations and 59 wins.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>A la longeva serie de comedia de sketches de la NBC le sigue en su dominio de los Emmy &lt;e0&gt;Juego de Tronos&lt;/e0&gt; de la HBO, con 160 nominaciones y 59 victorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The most popular English-language TV shows (based on hours viewed in their first 28 days):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Los programas de televisión en inglés más populares (según las horas vistas en sus primeros 28 días):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The most popular non-English-language series (based on hours viewed in their first 28 days):</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Las series de habla no inglesa más populares (según las horas vistas en sus primeros 28 días):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The much anticipated finale episode on NBC signed off with an episode of surprises.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>El esperado episodio final de la NBC se despidió con un episodio de sorpresas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The next highest scripted series of the past 25 years was season 5 (2004-2005) of &lt;e0&gt;CSI: Crime Scene Investigation&lt;/e0&gt; on CBS with a 16.5 Nielsen rating, which would place it at No. 6 on the list.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La siguiente serie con mejor guión de los últimos 25 años fue la temporada 5 (2004-2005) de &lt;e0&gt;CSI: Crime Scene Investigation&lt;/e0&gt;, de la CBS, con un 16,5 de audiencia Nielsen, lo que la situaría en el número 6 de la lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The next oldest movie in this esteemed group, however, is not only the top global earner of the last 25 years, but it’s the highest-grossing film of all time, and it’s another James Cameron joint: 2009’s Avatar.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150232Z" creationid="elisamariamoratonmateo" creationdate="20230520T150232Z">
@@ -4618,10 +5274,130 @@ Oscar Isaac, Mia Goth y Andrew Garfield
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The series focused on four neurotic single friends living in New York City: a fictionalized version of comic Jerry Seinfeld; working professional Elaine Benes played by Julia Louis-Dreyfus; bumbling George Costanza played by Jason Alexander, and eccentric Cosmo Kramer played by Michael Richards.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie se centraba en cuatro amigos solteros neuróticos que vivían en Nueva York: una versión ficticia del cómico Jerry Seinfeld; la profesional Elaine Benes, interpretada por Julia Louis-Dreyfus; el torpe George Costanza, interpretado por Jason Alexander, y el excéntrico Cosmo Kramer, interpretado por Michael Richards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The series focused on six attractive twenty-somethings living in the same NYC building and starred Jennifer Aniston as privileged Rachel Green, Courteney Cox as chef Monica Geller, Lisa Kudrow as free-spirited singer Phoebe Buffay, Matt LeBlanc as struggling actor Joey Tribbiani, Matthew Perry as corporate accountant Chandler Bing, and David Schwimmer as museum paleontologist Ross Geller.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie se centraba en seis atractivas veinteañeras que vivían en el mismo edificio de Nueva York y estaba protagonizada por Jennifer Aniston como la privilegiada Rachel Green, Courteney Cox como la chef Monica Geller, Lisa Kudrow como la cantante de espíritu libre Phoebe Buffay, Matt LeBlanc como el actor en apuros Joey Tribbiani, Matthew Perry como el contable de empresa Chandler Bing y David Schwimmer como el paleontólogo de museo Ross Geller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The series is set in the fictional city of Salem, Illinois, and focuses on the Brady and Horton families.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie está ambientada en la ciudad ficticia de Salem, Illinois, y se centra en las familias Brady y Horton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The series lasted 10 seasons and won six Emmy Awards on 62 nominations with one win in 2002 for Outstanding Comedy Series, one going to Aniston for lead actress, one supporting actress win for Kudrow, and two guest actor awards going to Christina Applegate and Bruce Willis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie duró 10 temporadas y ganó seis premios Emmy sobre 62 nominaciones, con una victoria en 2002 como mejor serie de comedia, una para Aniston como actriz principal, una para Kudrow como actriz de reparto y dos para Christina Applegate y Bruce Willis como actores invitados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The series launched in January 2012, starred Steven Van Zandt as Frank Tagliano, a mobster-turned-witness who moves to Norway hide from his enemies, and lasted for three seasons.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie se estrenó en enero de 2012, estaba protagonizada por Steven Van Zandt en el papel de Frank Tagliano, un mafioso convertido en testigo que se traslada a Noruega para esconderse de sus enemigos, y duró tres temporadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The series often sees former &lt;e0&gt;SNL&lt;/e0&gt; cast — Chevy Chase, Tina Fey, Will Ferrell, Bill Murray, and on — return for hosting duties.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>A menudo, antiguos miembros del reparto de &lt;e0&gt;SNL&lt;/e0&gt; (Chevy Chase, Tina Fey, Will Ferrell, Bill Murray, etc.) regresan para presentar la serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The series scored nominations for each of its main actors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie obtuvo nominaciones para cada uno de sus actores principales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The series’ enduring appeal could be attributed to reinvention, as cast members cycled in and out and the storylines — amnesia, love triangles, murder, mental health issues, assault, mobsters, and other soapy mayhem — reached ever-fantastical heights.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>El atractivo perdurable de la serie podría atribuirse a la reinvención, ya que los miembros del reparto entraban y salían y los argumentos -amnesia, triángulos amorosos, asesinatos, problemas de salud mental, agresiones, mafiosos y otros líos- alcanzaban cotas cada vez más fantásticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The series’ ensemble cast and nostalgic turns quickly endeared it to viewers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>El reparto y los giros nostálgicos de la serie no tardaron en ganarse el cariño de los espectadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The show then moved to its new streaming home on Peacock.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La serie se trasladó entonces a su nuevo hogar de streaming en Peacock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The show won for Outstanding Comedy Series in 1993, three supporting actor awards for Richards, and one supporting actress award for Louis-Dreyfus.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Ganó el premio a la mejor serie de comedia en 1993, tres premios como actor secundario para Richards y un premio como actriz secundaria para Louis-Dreyfus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The show’s most frequent hosts include Alec Baldwin and Steve Martin, who have each hosted the show 17 times.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Entre los presentadores más habituales del programa se encuentran Alec Baldwin y Steve Martin, que lo han presentado 17 veces cada uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The sitcom had its weakest season this year and should have gone off the air a year ago.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La sitcom tuvo su temporada más floja este año y debería haber dejado de emitirse hace un año.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The streamer announced on March 15 this year that &lt;e1&gt;DOOL&lt;/e1&gt; has been renewed for two more seasons.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La cadena anunció el 15 de marzo de este año que &lt;e1&gt;DOOL&lt;/e1&gt; ha sido renovada por dos temporadas más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The studios naturally did their best to pivot with the times — Warner Bros.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T184905Z" creationid="elisamariamoratonmateo" creationdate="20230521T184822Z">
         <seg>Naturalmente, los estudios hicieron todo lo posible por adaptarse a los tiempos -como es el caso de Warner Bros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The “Friends” soap opera ended predictably and blandly last night, with no big surprises, just two little ones — Monica’s and Chandler’s twins.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>La telenovela "Friends" terminó anoche de forma predecible y anodina, sin grandes sorpresas, sólo dos pequeñas: los gemelos de Mónica y Chandler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5012,10 +5788,26 @@ Oscar Isaac, Mia Goth y Andrew Garfield
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>What we’ve learned: A plague of reality television took over at the turn of the 21st century.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Lo que hemos aprendido: Una plaga de telerrealidad se apoderó de la sociedad a principios del siglo XXI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>What's the Tomatometer®?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T221422Z" creationid="maria" creationdate="20230521T221422Z">
         <seg>¿Qué es el tomatómetro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>What’s the season with the highest number of ratings?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>¿Cuál es la temporada con más audiencia?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5040,6 +5832,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152913Z" creationid="Julia_Hurtado" creationdate="20230516T152851Z">
         <seg>Los fontaneros de La Casa Blanca: Temporada 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>With 52.5 million viewers, &lt;e0&gt;Friends&lt;/e0&gt;’ May 6, 2004, episode “The Last One” is the second-most-viewed series finale of the past 25 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>Con 52,5 millones de espectadores, el episodio "The Last One" de &lt;e0&gt;Friends&lt;/e0&gt; del 6 de mayo de 2004 es el segundo final de serie más visto de los últimos 25 años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5176,6 +5976,94 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T145649Z" creationid="elisamariamoratonmateo" creationdate="20230530T145649Z">
         <seg>resumen_imagen_grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>–&lt;a0&gt;Adam Chitwood, Collider&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>-&lt;Adam Chitwood, Collider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>–&lt;a0&gt;Bryan Long, CNN.com&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>-&lt;Bryan Long, CNN.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>–&lt;a0&gt;Caryn James, &lt;e1&gt;New York Times&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;a0&gt;Caryn James, &lt;e1&gt;New York Times&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>–&lt;a0&gt;Marvin Kitman,&lt;e1&gt; Newsday&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;a0&gt;Marvin Kitman,&lt;/e1&gt; Newsday&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>–&lt;a0&gt;Matthew Gilbert, &lt;e1&gt;Boston Globe&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>-&lt;Matthew Gilbert, &lt;e1&gt;Boston Globe&lt;/e1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>–&lt;a1&gt;Hal Boedeker, &lt;e2&gt;Orlando Sentinel&lt;/e2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;a1&gt;Hal Boedeker, &lt;e2&gt;Orlando Sentinel&lt;/e2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>• &lt;a11&gt;Shop Rotten Tomatoes&lt;/a11&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>- &lt;a11&gt;Comprar en Rotten Tomatoes&lt;/a11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>• &lt;a3&gt;The Biggest and Best Movies of the Last 25 Years&lt;/a3&gt;&lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>- &lt;a3&gt;Las mejores y más grandes películas de los últimos 25 años&lt;/a3&gt;&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>• &lt;a5&gt;25 Best Horror Movies of Each Year Since 1998&lt;/a5&gt;&lt;br6&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>- &lt;a5&gt;25 mejores películas de terror de cada año desde 1998&lt;/a5&gt;&lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>• &lt;a7&gt;25 Memorable Movie Lines of the Last 25 Years&lt;/a7&gt;&lt;br8&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>- &lt;a7&gt;25 frases memorables de películas de los últimos 25 años&lt;/a7&gt;&lt;br8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>• &lt;a9&gt;We’re Launching Our Very First Card Game&lt;/a9&gt;&lt;br10&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>- &lt;a9&gt;Lanzamos nuestro primer juego de cartas&lt;/a9&gt;&lt;br10&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
