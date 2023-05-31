@@ -348,32 +348,32 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;a0&gt;&lt;e1&gt;Star Wars&lt;/e1&gt; Movies In Order: How to Watch the Saga Chronologically&lt;/a0&gt;&lt;br2&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T221233Z" creationid="maria" creationdate="20230521T221233Z">
-        <seg>&lt;e0&gt;Star Wars&lt;/e0&gt; Orden de las películas: Cómo ver la saga cronológicamente</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121438Z" creationid="maria" creationdate="20230521T221233Z">
+        <seg>Star Wars Orden de las películas: Cómo ver la saga cronológicamente&lt;a0&gt;&lt;e1&gt;&lt;/e1&gt;&lt;/a0&gt;&lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;a0&gt;&lt;e1&gt;Star Wars&lt;/e1&gt; TV Ranked&lt;/a0&gt;&lt;br2&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T221222Z" creationid="maria" creationdate="20230521T221222Z">
-        <seg>&lt;e0&gt;Star Wars&lt;/e0&gt; Clasificación de la televisión</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121433Z" creationid="maria" creationdate="20230521T221222Z">
+        <seg>Star Wars Clasificación de la televisión&lt;a0&gt;&lt;e1&gt;&lt;/e1&gt;&lt;/a0&gt;&lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;a0&gt;All 32 Marvel Movies Ranked: See MCU Movies By Tomatometer&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T221215Z" creationid="maria" creationdate="20230521T221215Z">
-        <seg>Clasificación de las 32 películas de Marvel: Mira las películas de MCU por el tomatómetro</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121430Z" creationid="maria" creationdate="20230521T221215Z">
+        <seg>Clasificación de las 32 películas de Marvel: Mira las películas de MCU por el tomatómetro&lt;a0&gt;&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;a0&gt;All &lt;e1&gt;Star Wars&lt;/e1&gt; Movies Ranked By Tomatometer&lt;/a0&gt;&lt;br2&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T221229Z" creationid="maria" creationdate="20230521T221229Z">
-        <seg>Todas las películas de&lt;e0&gt;Star Wars&lt;/e0&gt; clasificadas por el tomatómetro</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121435Z" creationid="maria" creationdate="20230521T221229Z">
+        <seg>Todas las películas deStar Wars clasificadas por el tomatómetro&lt;a0&gt;&lt;e1&gt;&lt;/e1&gt;&lt;/a0&gt;&lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -476,8 +476,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;a0&gt;The Pope's Exorcist&lt;/a0&gt; &lt;s1&gt;(2023)&lt;/s1&gt; &lt;/br2&gt;&lt;s3&gt;&lt;/s3&gt; &lt;s4&gt;50%&lt;/s4&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215501Z" creationid="maria" creationdate="20230521T215501Z">
-        <seg>El exorcista del Papa</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121345Z" creationid="maria" creationdate="20230521T215501Z">
+        <seg>El exorcista del Papa&lt;a0&gt;&lt;/a0&gt;&lt;s1&gt;&lt;/s1&gt;&lt;/br2&gt;&lt;s3&gt;&lt;/s3&gt;&lt;s4&gt;&lt;/s4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -636,8 +636,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt; might feel like a mere retro roller coaster were it not for that slow drip of sorrow and trauma, the residue of Reagan-era anxiety about the nuclear family.–&lt;a1&gt;Emily Nussbaum, &lt;e2&gt;New Yorker&lt;/e2&gt;&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
-        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt; podría parecer una mera montaña rusa retro si no fuera por ese lento goteo de dolor y trauma, el residuo de la ansiedad de la era del presidente Reagan sobre la familia nuclear.&lt;/a1&gt;Emily Nussbaum, &lt;e2&gt;New Yorker&lt;/e2&gt;&lt;/a1&gt;</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121551Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt;podría parecer una mera montaña rusa retro si no fuera por ese lento goteo de dolor y trauma, el residuo de la ansiedad de la era del presidente Reagan sobre la familia nuclear.Emily Nussbaum, New Yorker&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -660,8 +660,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;e1&gt;The Pope's Exorcist&lt;/e1&gt; is standard-issue holy horror in most respects, but its star's sanctified performance will be the answer to some viewers' prayers.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215529Z" creationid="maria" creationdate="20230521T215529Z">
-        <seg>El exorcista del Papa es una película de terror estándar en la mayoría de los aspectos, pero la interpretación santificada de su estrella será la respuesta a las plegarias de algunos espectadores.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121349Z" creationid="maria" creationdate="20230521T215529Z">
+        <seg>El exorcista del Papa es una película de terror estándar en la mayoría de los aspectos, pero la interpretación santificada de su estrella será la respuesta a las plegarias de algunos espectadores.&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -780,8 +780,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;e8&gt;Yellowjackets&lt;/e8&gt;, season 1 – 74 reviews</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
-        <seg>&lt;e8&gt;Yellowjackets&lt;/e8&gt;, temporada 1 - 74 críticas&lt;br8&gt; .</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121452Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e8&gt;Yellowjackets&lt;/e8&gt;, temporada 1 - 74 críticas .</seg>
       </tuv>
     </tu>
     <tu>
@@ -1196,40 +1196,40 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; &lt;e1&gt;Blood&lt;/e1&gt; has a handful of solid scares, but a narrative that fails to truly coagulate makes this half-empty vial of vampire horror difficult to recommend.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215410Z" creationid="maria" creationdate="20230521T215410Z">
-        <seg>Consenso de la crítica: Blood tiene un puñado de sustos sólidos, pero una narrativa que no consigue coagular de verdad hace que este frasco medio vacío de terror vampírico sea difícil de recomendar.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121340Z" creationid="maria" creationdate="20230521T215410Z">
+        <seg>Consenso de la crítica: Blood tiene un puñado de sustos sólidos, pero una narrativa que no consigue coagular de verdad hace que este frasco medio vacío de terror vampírico sea difícil de recomendar.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; &lt;e1&gt;Skinamarink&lt;/e1&gt; can be more confounding than frightening, but for viewers able or willing to dial into its unique wavelength, this unsettling film will be difficult to shake.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150236Z" creationid="maria" creationdate="20230520T150236Z">
-        <seg>Consenso de la crítica: Skinamarink puede ser más desconcertante que aterradora, pero para los espectadores capaces o dispuestos a marcar en su longitud de onda única, esta película inquietante será difícil de sacudir.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121300Z" creationid="maria" creationdate="20230520T150236Z">
+        <seg>Consenso de la crítica: Skinamarink puede ser más desconcertante que aterradora, pero para los espectadores capaces o dispuestos a marcar en su longitud de onda única, esta película inquietante será difícil de sacudir.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; &lt;e1&gt;The Outwaters&lt;/e1&gt; may strike some viewers as frustratingly withholding, but it remains an ambitious -- and overall effective -- slice of found-footage horror.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150147Z" creationid="maria" creationdate="20230520T150147Z">
-        <seg>Consenso de la crítica: The Outwaters puede resultar frustrante para algunos espectadores, pero sigue siendo una ambiciosa -y en general eficaz- película de terror.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121249Z" creationid="maria" creationdate="20230520T150147Z">
+        <seg>Consenso de la crítica: The Outwaters puede resultar frustrante para algunos espectadores, pero sigue siendo una ambiciosa -y en general eficaz- película de terror.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; &lt;e1&gt;Unwelcome&lt;/e1&gt;'s tonal and pacing issues prevent this rural horror outing from reaching its full potential, but it's still frequently fun.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150718Z" creationid="maria" creationdate="20230520T150718Z">
-        <seg>Consenso de la crítica: Los problemas tonales y de ritmo de Unwelcome impiden que esta salida de terror rural alcance todo su potencial, pero sigue siendo divertida con frecuencia.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121312Z" creationid="maria" creationdate="20230520T150718Z">
+        <seg>Consenso de la crítica: Los problemas tonales y de ritmo de Unwelcome impiden que esta salida de terror rural alcance todo su potencial, pero sigue siendo divertida con frecuencia.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; &lt;e1&gt;We Have a Ghost&lt;/e1&gt; has a fun concept and a talented cast; unfortunately, this spookily uneven '80s pastiche also has very little idea of what to do with them.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215823Z" creationid="maria" creationdate="20230521T215823Z">
-        <seg>Consenso de la crítica: Tenemos un fantasma tiene un concepto divertido y un reparto con talento; por desgracia, este pastiche ochentero espeluznantemente desigual también tiene muy poca idea de qué hacer con ellos.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121358Z" creationid="maria" creationdate="20230521T215823Z">
+        <seg>Consenso de la crítica: Tenemos un fantasma tiene un concepto divertido y un reparto con talento; por desgracia, este pastiche ochentero espeluznantemente desigual también tiene muy poca idea de qué hacer con ellos.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1252,16 +1252,16 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Although it fails to take full advantage of its committed stars and killer premise, &lt;e1&gt;Renfield&lt;/e1&gt;'s batty horror-comedy blend sinks in just enough to leave an impression.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215120Z" creationid="maria" creationdate="20230521T215120Z">
-        <seg>Consenso de la crítica: Aunque no consigue sacar todo el partido a sus comprometidas estrellas y a su premisa asesina, la batalladora mezcla de terror y comedia de Renfield se hunde lo suficiente como para dejar huella.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121332Z" creationid="maria" creationdate="20230521T215120Z">
+        <seg>Consenso de la crítica: Aunque no consigue sacar todo el partido a sus comprometidas estrellas y a su premisa asesina, la batalladora mezcla de terror y comedia de Renfield se hunde lo suficiente como para dejar huella.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Although it's often less than scary and parts of the story don't bear scrutiny, &lt;e1&gt;Knock at the Cabin&lt;/e1&gt; is a thought-provoking chiller and upper-tier Shyamalan.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150424Z" creationid="maria" creationdate="20230520T150424Z">
-        <seg>Consenso de la crítica: Aunque a menudo da menos miedo y algunas partes de la historia no soportan el escrutinio, Knock at the Cabin es un chiller que invita a la reflexión y un Shyamalan de nivel superior.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121307Z" creationid="maria" creationdate="20230520T150424Z">
+        <seg>Consenso de la crítica: Aunque a menudo da menos miedo y algunas partes de la historia no soportan el escrutinio, Knock at the Cabin es un chiller que invita a la reflexión y un Shyamalan de nivel superior.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1276,32 +1276,32 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Bereft of a single kernel of fear or excitement, this &lt;e1&gt;Children of the Corn&lt;/e1&gt; suggests the franchise is irrevocably lost in a maize of sub-mediocrity.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220537Z" creationid="maria" creationdate="20230521T220537Z">
-        <seg>Consenso de la crítica: Desprovista de un solo núcleo de miedo o emoción, esta Children of the Corn sugiere que la franquicia está irrevocablemente perdida en un maíz de sub-mediocridad.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121422Z" creationid="maria" creationdate="20230521T220537Z">
+        <seg>Consenso de la crítica: Desprovista de un solo núcleo de miedo o emoción, esta Children of the Corn sugiere que la franquicia está irrevocablemente perdida en un maíz de sub-mediocridad.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Conceptually strong but uneven in execution, &lt;e1&gt;There's Something Wrong with the Children&lt;/e1&gt; is a serviceable horror movie that could have been much more.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T214911Z" creationid="maria" creationdate="20230521T214911Z">
-        <seg>Consenso de la crítica: Conceptualmente fuerte pero desigual en la ejecución, Hay algo malo en los niños es una película de terror servicial que podría haber sido mucho más.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121325Z" creationid="maria" creationdate="20230521T214911Z">
+        <seg>Consenso de la crítica: Conceptualmente fuerte pero desigual en la ejecución, Hay algo malo en los niños es una película de terror servicial que podría haber sido mucho más.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Despite being blessed with Jena Malone in the lead, &lt;e1&gt;Consecration&lt;/e1&gt; serves up Catholic-themed horror that's far more hoary than hallowed.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215927Z" creationid="maria" creationdate="20230521T215927Z">
-        <seg>Consenso de la crítica: A pesar de ser bendecida con Jena Malone en el papel principal, Consagración sirve horror de temática católica que es mucho más anticuado que santificado.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121402Z" creationid="maria" creationdate="20230521T215927Z">
+        <seg>Consenso de la crítica: A pesar de ser bendecida con Jena Malone en el papel principal, Consagración sirve horror de temática católica que es mucho más anticuado que santificado.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Dominus Crowe!</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215521Z" creationid="maria" creationdate="20230521T215521Z">
-        <seg>Consenso de la crítica: ¡Dominus Crowe!</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121347Z" creationid="maria" creationdate="20230521T215521Z">
+        <seg>Consenso de la crítica: ¡Dominus Crowe!&lt;s0&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1316,8 +1316,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Oh, bother.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220646Z" creationid="maria" creationdate="20230521T220646Z">
-        <seg>Consenso de la crítica: Qué fastidio.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121426Z" creationid="maria" creationdate="20230521T220646Z">
+        <seg>Consenso de la crítica: Qué fastidio.&lt;s0&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2084,8 +2084,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; A disturbed babysitter experiences a sexual awakening while using LSD to treat a seemingly sick child from a family with...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215212Z" creationid="maria" creationdate="20230521T215212Z">
-        <seg>Sinopsis: Una perturbada niñera experimenta un despertar sexual mientras usa LSD para tratar a un niño aparentemente enfermo de una familia con... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121336Z" creationid="maria" creationdate="20230521T215212Z">
+        <seg>Sinopsis: Una perturbada niñera experimenta un despertar sexual mientras usa LSD para tratar a un niño aparentemente enfermo de una familia con... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2100,32 +2100,32 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; A man who has gone into isolated hiding is haunted by visions of the woman he loves and a mysterious...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215039Z" creationid="maria" creationdate="20230521T215039Z">
-        <seg>Sinopsis: Un hombre que ha pasado a la clandestinidad aislado es perseguido por visiones de la mujer que ama y por un misterioso... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121330Z" creationid="maria" creationdate="20230521T215039Z">
+        <seg>Sinopsis: Un hombre que ha pasado a la clandestinidad aislado es perseguido por visiones de la mujer que ama y por un misterioso... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; A modern horror creature feature, UNWELCOME shows us just how far we will go to protect those we love.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150726Z" creationid="maria" creationdate="20230520T150726Z">
-        <seg>Sinopsis: UNWELCOME, una moderna película de terror, nos muestra hasta dónde somos capaces de llegar para proteger a nuestros seres queridos.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121322Z" creationid="maria" creationdate="20230520T150726Z">
+        <seg>Sinopsis: UNWELCOME, una moderna película de terror, nos muestra hasta dónde somos capaces de llegar para proteger a nuestros seres queridos.&lt;s0&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; A powerful biotech company has breakthrough technology allowing them to clone history's most influential people with just a few fragments...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220330Z" creationid="maria" creationdate="20230521T220330Z">
-        <seg>Sinopsis: Una poderosa empresa de biotecnología dispone de una tecnología revolucionaria que le permite clonar a las personas más influyentes de la historia con sólo unos fragmentos... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121415Z" creationid="maria" creationdate="20230521T220330Z">
+        <seg>Sinopsis: Una poderosa empresa de biotecnología dispone de una tecnología revolucionaria que le permite clonar a las personas más influyentes de la historia con sólo unos fragmentos... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; A year into living through a worldwide pandemic, a group of friends gather in the remote Tahoe Mountains, to stay...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220450Z" creationid="maria" creationdate="20230521T220450Z">
-        <seg>Sinopsis: Un año después de vivir una pandemia mundial, un grupo de amigos se reúne en las remotas montañas de Tahoe... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121420Z" creationid="maria" creationdate="20230521T220450Z">
+        <seg>Sinopsis: Un año después de vivir una pandemia mundial, un grupo de amigos se reúne en las remotas montañas de Tahoe... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2164,24 +2164,24 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; After mysteriously inheriting an abandoned coastal property, Ben and his family accidentally unleash an ancient, long-dormant creature that terrorized the...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220105Z" creationid="maria" creationdate="20230521T220105Z">
-        <seg>Sinopsis: Tras heredar misteriosamente una propiedad costera abandonada, Ben y su familia liberan accidentalmente a una antigua criatura dormida durante mucho tiempo que aterrorizaba a los... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121409Z" creationid="maria" creationdate="20230521T220105Z">
+        <seg>Sinopsis: Tras heredar misteriosamente una propiedad costera abandonada, Ben y su familia liberan accidentalmente a una antigua criatura dormida durante mucho tiempo que aterrorizaba a los... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; After undergoing an experimental procedure to restore her damaged hearing, 20-year-old Chloe Grayden (Lachlan Watson, "Chilling Adventures of Sabrina") begins...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220025Z" creationid="maria" creationdate="20230521T220025Z">
-        <seg>Sinopsis: Después de someterse a un procedimiento experimental para restaurar su audición dañada, Chloe Grayden (Lachlan Watson, "Las escalofriantes aventuras de Sabrina"), de 20 años, comienza... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121407Z" creationid="maria" creationdate="20230521T220025Z">
+        <seg>Sinopsis: Después de someterse a un procedimiento experimental para restaurar su audición dañada, Chloe Grayden (Lachlan Watson, "Las escalofriantes aventuras de Sabrina"), de 20 años, comienza... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; After witnessing a grotesque murder at a party in her new town, a teenager starts having strange visions and bizarre...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215650Z" creationid="maria" creationdate="20230521T215650Z">
-        <seg>Sinopsis: Después de presenciar un grotesco asesinato en una fiesta en su nueva ciudad, una adolescente empieza a tener extrañas visiones y extrañas... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121354Z" creationid="maria" creationdate="20230521T215650Z">
+        <seg>Sinopsis: Después de presenciar un grotesco asesinato en una fiesta en su nueva ciudad, una adolescente empieza a tener extrañas visiones y extrañas... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2212,16 +2212,16 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Candy is a late-night radio DJ with a program where people call to tell her real horror stories.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220140Z" creationid="maria" creationdate="20230521T220140Z">
-        <seg>Sinopsis: Candy es una DJ de radio nocturna con un programa en el que la gente llama para contarle historias reales de terror.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121411Z" creationid="maria" creationdate="20230521T220140Z">
+        <seg>Sinopsis: Candy es una DJ de radio nocturna con un programa en el que la gente llama para contarle historias reales de terror.&lt;s0&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Finding a ghost named Ernest haunting their new home turns Kevin's family into overnight social media sensations.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215828Z" creationid="maria" creationdate="20230521T215828Z">
-        <seg>Sinopsis: Encontrar a un fantasma llamado Ernest rondando su nueva casa convierte a la familia de Kevin en una sensación en las redes sociales de la noche a la mañana.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121400Z" creationid="maria" creationdate="20230521T215828Z">
+        <seg>Sinopsis: Encontrar a un fantasma llamado Ernest rondando su nueva casa convierte a la familia de Kevin en una sensación en las redes sociales de la noche a la mañana.&lt;s0&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2236,40 +2236,40 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Four travelers experience a mind-bending trip through terror while camping in a remote stretch of the Mojave desert....&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150156Z" creationid="maria" creationdate="20230520T150156Z">
-        <seg>Sinopsis: Cuatro viajeros experimentan un alucinante viaje a través del terror mientras acampan en un remoto tramo del desierto de Mojave....</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121257Z" creationid="maria" creationdate="20230520T150156Z">
+        <seg>Sinopsis: Cuatro viajeros experimentan un alucinante viaje a través del terror mientras acampan en un remoto tramo del desierto de Mojave....&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; HUNT HER, KILL HER follows a lone night shift janitor during her first night on the job who finds herself...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215313Z" creationid="maria" creationdate="20230521T215313Z">
-        <seg>Sinopsis: HUNT HER, KILL HER sigue a una solitaria conserje del turno de noche durante su primera noche de trabajo que se encuentra... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121338Z" creationid="maria" creationdate="20230521T215313Z">
+        <seg>Sinopsis: HUNT HER, KILL HER sigue a una solitaria conserje del turno de noche durante su primera noche de trabajo que se encuentra... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; In 1987, a group of counselors accidentally unleash a decades’ old evil on the last night of summer camp.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150340Z" creationid="maria" creationdate="20230520T150340Z">
-        <seg>Sinopsis: En 1987, un grupo de monitores desata accidentalmente un mal de décadas en la última noche del campamento de verano.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121305Z" creationid="maria" creationdate="20230520T150340Z">
+        <seg>Sinopsis: En 1987, un grupo de monitores desata accidentalmente un mal de décadas en la última noche del campamento de verano.&lt;s0&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; In CONSECRATION, after the suspicious death of her brother, a priest, Grace (Jena Malone) goes to the Mount Saviour Convent...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215939Z" creationid="maria" creationdate="20230521T215939Z">
-        <seg>Sinopsis: En CONSECRATION, tras la sospechosa muerte de su hermano, un sacerdote, Grace (Jena Malone) acude al Convento del Monte Salvador... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121404Z" creationid="maria" creationdate="20230521T215939Z">
+        <seg>Sinopsis: En CONSECRATION, tras la sospechosa muerte de su hermano, un sacerdote, Grace (Jena Malone) acude al Convento del Monte Salvador... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; In the late 90's, Sagrario, Paz, Gloria, and Father Girón, form an investigation team specialized in paranormal phenomena: the Hepta...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215743Z" creationid="maria" creationdate="20230521T215743Z">
-        <seg>Sinopsis: A finales de los 90, Sagrario, Paz, Gloria y el Padre Girón, forman un equipo de investigación especializado en fenómenos paranormales: los Hepta... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121356Z" creationid="maria" creationdate="20230521T215743Z">
+        <seg>Sinopsis: A finales de los 90, Sagrario, Paz, Gloria y el Padre Girón, forman un equipo de investigación especializado en fenómenos paranormales: los Hepta... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2284,25 +2284,25 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; In this modern monster tale of Dracula's loyal servant, Nicholas Hoult (Mad Max: Fury Road, X-Men franchise) stars as Renfield,...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215132Z" creationid="maria" creationdate="20230521T215132Z">
-        <seg>Sinopsis: En esta moderna historia de monstruos sobre el leal sirviente de Drácula, Nicholas Hoult (Mad Max: Fury Road, la franquicia X-Men)... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121334Z" creationid="maria" creationdate="20230521T215132Z">
+        <seg>Sinopsis: En esta moderna historia de monstruos sobre el leal sirviente de Drácula, Nicholas Hoult (Mad Max: Fury Road, la franquicia X-Men)... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Inspired by the actual files of Father Gabriele Amorth, Chief Exorcist of the Vatican (Academy Award®-winner Russell Crowe), The Pope's...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215605Z" creationid="maria" creationdate="20230521T215605Z">
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121351Z" creationid="maria" creationdate="20230521T215605Z">
         <seg>Sinopsis: Inspirada en los archivos reales del Padre Gabriele Amorth, Exorcista Jefe del Vaticano (ganador del Oscar Russell Crowe), El Exorcista del Papa... [Más]
-y</seg>
+y&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Jess (Michelle Monaghan), a nurse and mother recently separated from her husband (Skeet Ulrich), moves her daughter Tyler (Skylar Morgan...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T215422Z" creationid="maria" creationdate="20230521T215422Z">
-        <seg>Sinopsis: Jess (Michelle Monaghan), enfermera y madre recién separada de su marido (Skeet Ulrich), traslada a su hija Tyler (Skylar Morgan... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121342Z" creationid="maria" creationdate="20230521T215422Z">
+        <seg>Sinopsis: Jess (Michelle Monaghan), enfermera y madre recién separada de su marido (Skeet Ulrich), traslada a su hija Tyler (Skylar Morgan... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2325,16 +2325,16 @@ y</seg>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220246Z" creationid="maria" creationdate="20230521T220246Z">
-        <seg>Sinopsis: El día de su ejecución, un asesino en serie convicto se somete a una evaluación psiquiátrica durante la cual... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121413Z" creationid="maria" creationdate="20230521T220246Z">
+        <seg>Sinopsis: El día de su ejecución, un asesino en serie convicto se somete a una evaluación psiquiátrica durante la cual... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Possessed by a spirit in a dying cornfield, twelve-year-old Eden recruits the other children in her small town to rise...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220546Z" creationid="maria" creationdate="20230521T220546Z">
-        <seg>Sinopsis: Poseída por un espíritu en un maizal moribundo, Eden, una niña de doce años, recluta a los demás niños de su pequeño pueblo para alzarse... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121424Z" creationid="maria" creationdate="20230521T220546Z">
+        <seg>Sinopsis: Poseída por un espíritu en un maizal moribundo, Eden, una niña de doce años, recluta a los demás niños de su pequeño pueblo para alzarse... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2349,24 +2349,24 @@ y</seg>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; The days of adventures and merriment have come to an end, as Christopher Robin, now a young man, has left...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220658Z" creationid="maria" creationdate="20230521T220658Z">
-        <seg>Sinopsis: Los días de aventuras y alegría han llegado a su fin, ya que Christopher Robin, ahora un joven... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121428Z" creationid="maria" creationdate="20230521T220658Z">
+        <seg>Sinopsis: Los días de aventuras y alegría han llegado a su fin, ya que Christopher Robin, ahora un joven... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Trapped in a bunker during World War I, a group of soldiers are faced with an ungodly presence that slowly...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T220413Z" creationid="maria" creationdate="20230521T220413Z">
-        <seg>Sinopsis: Atrapados en un búnker durante la Primera Guerra Mundial, un grupo de soldados se enfrenta a una presencia impía que poco a poco... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121417Z" creationid="maria" creationdate="20230521T220413Z">
+        <seg>Sinopsis: Atrapados en un búnker durante la Primera Guerra Mundial, un grupo de soldados se enfrenta a una presencia impía que poco a poco... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Two children wake up in the middle of the night to find their father is missing, and all the windows...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150248Z" creationid="maria" creationdate="20230520T150248Z">
-        <seg>Sinopsis: Dos niños se despiertan en mitad de la noche y descubren que su padre ha desaparecido, y todas las ventanas... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121302Z" creationid="maria" creationdate="20230520T150248Z">
+        <seg>Sinopsis: Dos niños se despiertan en mitad de la noche y descubren que su padre ha desaparecido, y todas las ventanas... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2397,16 +2397,16 @@ y</seg>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; When Margaret (Alisha Wainwright) and Ben (Zach Gilford) take a weekend trip with longtime friends Ellie (Crew) and Thomas (Santos)...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230521T214922Z" creationid="maria" creationdate="20230521T214922Z">
-        <seg>Sinopsis: Cuando Margaret (Alisha Wainwright) y Ben (Zach Gilford) hacen un viaje de fin de semana con sus viejos amigos Ellie (Crew) y Thomas (Santos)... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121327Z" creationid="maria" creationdate="20230521T214922Z">
+        <seg>Sinopsis: Cuando Margaret (Alisha Wainwright) y Ben (Zach Gilford) hacen un viaje de fin de semana con sus viejos amigos Ellie (Crew) y Thomas (Santos)... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; When her father is gravely injured, Emma returns to her family home in Italy.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150529Z" creationid="maria" creationdate="20230520T150529Z">
-        <seg>Sinopsis: Cuando su padre resulta gravemente herido, Emma regresa a su casa familiar en Italia.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121311Z" creationid="maria" creationdate="20230520T150529Z">
+        <seg>Sinopsis: Cuando su padre resulta gravemente herido, Emma regresa a su casa familiar en Italia.&lt;s0&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2421,8 +2421,8 @@ y</seg>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; While vacationing at a remote cabin, a young girl and her parents are taken hostage by four armed strangers who...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T150436Z" creationid="maria" creationdate="20230520T150436Z">
-        <seg>Sinopsis: Durante unas vacaciones en una remota cabaña, una joven y sus padres son tomados como rehenes por cuatro extraños armados que... [Más]</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121309Z" creationid="maria" creationdate="20230520T150436Z">
+        <seg>Sinopsis: Durante unas vacaciones en una remota cabaña, una joven y sus padres son tomados como rehenes por cuatro extraños armados que... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3888,8 +3888,8 @@ James Gunn
       <tuv lang="en-GB">
         <seg>Like many directors of his stature, Guillermo del Toro has almost as many &lt;a0&gt;dream projects that didn’t happen&lt;/a0&gt; as &lt;a1&gt;those that did&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T151809Z" creationid="elisamariamoratonmateo" creationdate="20230530T151809Z">
-        <seg>Como muchos directores de su talla, Guillermo del Toro tiene casi tantos muchos proyectos soñados que no se hicieron realidad&lt;/a0&gt; como&lt;a1&gt;los que sí.&lt;/a1&gt;.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121440Z" creationid="elisamariamoratonmateo" creationdate="20230530T151809Z">
+        <seg>Como muchos directores de su talla, Guillermo del Toro tiene casi tantos muchos proyectos soñados que no se hicieron realidad&lt;a0&gt;&lt;/a0&gt; como&lt;a1&gt;los que sí.&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4762,8 +4762,8 @@ Danny Trejo en Machete (2010)
       <tuv lang="en-GB">
         <seg>Some of the trends we’ve witnessed over the years include the dominance of reality television — both unscripted and competition programming — over traditional scripted drama and comedy; the ascendance of DVD subscription service Netflix to monster streaming giant with some of the most popular shows running, from &lt;e0&gt;Stranger Things&lt;/e0&gt; to &lt;e1&gt;Squid Game&lt;/e1&gt; and on; as well as the ebb and flow of cable networks like &lt;e2&gt;Game of Thrones&lt;/e2&gt; home HBO being gobbled up by Discovery.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T154224Z" creationid="Julia_Hurtado" creationdate="20230516T154224Z">
-        <seg>Algunas de las tendencias de las que hemos sido testigos a lo largo de los años incluyen el dominio de la telerrealidad -tanto la programación no guionizada como la de competición- sobre el drama y la comedia guionizados tradicionales; el ascenso del servicio de suscripción de DVD Netflix a gigante monstruoso del streaming con algunos de los programas más populares en marcha, desde Stranger Things a Squid Game y demás; así como el flujo y reflujo de las cadenas de cable como Juego de Tronos casa HBO siendo engullida por Discovery.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121448Z" creationid="Julia_Hurtado" creationdate="20230516T154224Z">
+        <seg>Algunas de las tendencias de las que hemos sido testigos a lo largo de los años incluyen el dominio de la telerrealidad -tanto la programación no guionizada como la de competición- sobre el drama y la comedia guionizados tradicionales; el ascenso del servicio de suscripción de DVD Netflix a gigante monstruoso del streaming con algunos de los programas más populares en marcha, desde Stranger Things a Squid Game y demás; así como el flujo y reflujo de las cadenas de cable como Juego de Tronos casa HBO siendo engullida por Discovery.&lt;e0&gt;&lt;/e0&gt;&lt;e1&gt;&lt;/e1&gt;&lt;e2&gt;&lt;/e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,8 +5484,8 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>This led to much speculation about who might direct the film, but this week, DC Comics writer Tom King &lt;a3&gt;revealed in an interview&lt;/a3&gt; that James Gunn himself will take the helm, and that led soon after to Warner Bros.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T155349Z" creationid="elisamariamoratonmateo" creationdate="20230530T155349Z">
-        <seg>Esto generó mucha especulación sobre quién podría dirigir la película, pero esta semana, el escritor de DC Comics, Tom King, reveló en una entrevista que el mismo James Gunn tomará el timón&lt;/a3&gt; y eso llevó poco después a que Warner Bros.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121444Z" creationid="elisamariamoratonmateo" creationdate="20230530T155349Z">
+        <seg>Esto generó mucha especulación sobre quién podría dirigir la película, pero esta semana, el escritor de DC Comics, Tom King, reveló en una entrevista que el mismo James Gunn tomará el timón&lt;a3&gt;&lt;/a3&gt; y eso llevó poco después a que Warner Bros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5524,8 +5524,8 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>This week, Tarantino announced that &lt;a3&gt;his next film will be called&lt;/a3&gt; &lt;e4&gt;The Movie Critic&lt;/e4&gt;, with additonal reports stating that the main character will be a woman and the setting will be Los Angeles in the late 1970s.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230530T154648Z" creationid="elisamariamoratonmateo" creationdate="20230530T154648Z">
-        <seg>Esta semana, Tarantino ha anunciado que su próxima película se llamará &lt;/a3&gt; &lt;e4&gt;The Movie Critic (El crítico del cine)&lt;/e4&gt;, con informes adicionales que afirman que el personaje principa será una mujer y que el escenario será Los Ángeles a finales de la década de 1970.</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121442Z" creationid="elisamariamoratonmateo" creationdate="20230530T154648Z">
+        <seg>Esta semana, Tarantino ha anunciado que su próxima película se llamará &lt;a3&gt;&lt;/a3&gt; &lt;e4&gt;The Movie Critic (El crítico del cine)&lt;/e4&gt;, con informes adicionales que afirman que el personaje principa será una mujer y que el escenario será Los Ángeles a finales de la década de 1970.</seg>
       </tuv>
     </tu>
     <tu>
