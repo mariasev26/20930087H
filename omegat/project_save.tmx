@@ -636,8 +636,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt; might feel like a mere retro roller coaster were it not for that slow drip of sorrow and trauma, the residue of Reagan-era anxiety about the nuclear family.–&lt;a1&gt;Emily Nussbaum, &lt;e2&gt;New Yorker&lt;/e2&gt;&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121551Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
-        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt;podría parecer una mera montaña rusa retro si no fuera por ese lento goteo de dolor y trauma, el residuo de la ansiedad de la era del presidente Reagan sobre la familia nuclear.Emily Nussbaum, New Yorker&lt;/a1&gt;</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121712Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>&lt;e0&gt;Stranger Things&lt;/e0&gt;&lt;a1&gt;podría parecer una mera montaña rusa retro si no fuera por ese lento goteo de dolor y trauma, el residuo de la ansiedad de la era del presidente Reagan sobre la familia nuclear.–&lt;e2&gt;Emily Nussbaum, New Yorker&lt;/e2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6006,16 +6006,16 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>–&lt;a0&gt;Marvin Kitman,&lt;e1&gt; Newsday&lt;/e1&gt;&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
-        <seg>&lt;a0&gt;Marvin Kitman,&lt;/e1&gt; Newsday&lt;/e1&gt;&lt;/a0&gt;</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121847Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>–&lt;a0&gt;Marvin Kitman, &lt;e1&gt; Newsday&lt;/e1&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>–&lt;a0&gt;Matthew Gilbert, &lt;e1&gt;Boston Globe&lt;/e1&gt;&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
-        <seg>-&lt;Matthew Gilbert, &lt;e1&gt;Boston Globe&lt;/e1&gt;&lt;/a0&gt;</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121809Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
+        <seg>-&lt;Matthew Gilbert, &lt;a0&gt;&lt;e1&gt;Boston Globe&lt;/e1&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
