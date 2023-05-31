@@ -2599,8 +2599,8 @@ Anne Hathaway
       <tuv lang="en-GB">
         <seg>All told, My Big Fat Greek Wedding stayed in theaters continuously for 308 days after its debut, and it not only earned Vardalos an Oscar nomination for Best Original Screenplay but also spawned a TV series, a 2016 sequel, and a third installment that is currently scheduled for release on September 8 of this year.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230525T094208Z" creationid="elisamariamoratonmateo" creationdate="20230521T182202Z">
-        <seg>En total, Mi gran boda gitana permaneció en los cines de forma ininterrumpida durante 308 días después de su estreno, y no solo le valió a Vardalos una nominación al Oscar al Mejor Guion Original, sino que también dio lugar a una serie de televisión, una secuela en 2016 y una tercera entrega cuyo estreno está previsto para el 8 de septiembre de este año.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T161310Z" creationid="elisamariamoratonmateo" creationdate="20230521T182202Z">
+        <seg>En total, "Mi gran boda griega" permaneció en los cines de forma ininterrumpida durante 308 días después de su estreno, y no solo le valió a Vardalos una nominación al Oscar al Mejor Guion Original, sino que también dio lugar a una serie de televisión, una secuela en 2016 y una tercera entrega cuyo estreno está previsto para el 8 de septiembre de este año.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4176,6 +4176,14 @@ James Gunn
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>My Big Fat Greek Wedding (2002) – 308 days 2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T161416Z" creationid="maria" creationdate="20230531T161416Z">
+        <seg>Mi gran boda griega (2002) – 308 días 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Netflix and Guillermo del Toro &lt;a4&gt;have begun negotiations&lt;/a4&gt; with three stars (Oscar Isaac, Andrew Garfield, and 2022’s scream queen Mia Goth) for his live-action adaptation of Mary Shelley’s genre-defining horror novel, &lt;e5&gt;Frankenstein&lt;/e5&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T122946Z" creationid="elisamariamoratonmateo" creationdate="20230530T152329Z">
@@ -5324,8 +5332,8 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>The romantic comedy, which was based on a one-woman stage production and written by its star, Nia Vardalos, opened on April 19, 2002 in very limited release before it was slowly discovered by audiences and subsequently booked by more theaters.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230531T161138Z" creationid="elisamariamoratonmateo" creationdate="20230521T181310Z">
-        <seg>LA PELÍCULA QUE TARDÓ MÁS EN DAR EL PISTOLETAZO 76%  "Mi gran boda griega" (2002)Esta comedia romántica, basada en una producción teatral de una sola mujer y escrita por su protagonista, Nia Vardalos, se estrenó el 19 de abril de 2002 en un número muy limitado de salas antes de que el público la descubriera poco a poco y, posteriormente, fuera reservada en más cines.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T161326Z" creationid="elisamariamoratonmateo" creationdate="20230521T181310Z">
+        <seg>LA PELÍCULA QUE ESTUVO  MÁS TIEMPO EN LOS CINES 76%  "Mi gran boda griega" (2002)Esta comedia romántica, basada en una producción teatral de una sola mujer y escrita por su protagonista, Nia Vardalos, se estrenó el 19 de abril de 2002 en un número muy limitado de salas antes de que el público la descubriera poco a poco y, posteriormente, fuera reservada en más cines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5696,6 +5704,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T182227Z" creationid="elisamariamoratonmateo" creationdate="20230521T182227Z">
         <seg>Top 5 de películas de estreno masivo con mayor duración en cines en los últimos 25 años
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Top 5 Wide Release Films with the Longest Theatrical Runs in the Last 25 Years 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T161505Z" creationid="maria" creationdate="20230531T161505Z">
+        <seg>Top 5 de películas que estuvieron mucho tiempo en los cines de los últimos 25 años 1.</seg>
       </tuv>
     </tu>
     <tu>
