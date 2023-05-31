@@ -5794,8 +5794,8 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>The Biggest and Best TV &amp; Streaming Series of the Last 25 Years &lt;&lt; Rotten Tomatoes – Movie and TV News</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144440Z" creationid="Julia_Hurtado" creationdate="20230516T144440Z">
-        <seg>Las mejores y más grandes series de TV y streaming de los últimos 25 años &lt;&lt; Rotten Tomatoes – Películas and noticias de televisión</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T220838Z" creationid="Julia_Hurtado" creationdate="20230516T144440Z">
+        <seg>Las mejores y más grandes series de TV y streaming de los últimos 25 años &lt;&lt; Rotten Tomatoes – Películas y noticias de televisión</seg>
       </tuv>
     </tu>
     <tu>
@@ -7042,6 +7042,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T105610Z" creationid="maria" creationdate="20230507T105610Z">
         <seg>nhttps://www.rottentomatoes.com/m/m3gan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>https://www.rottentomatoes.com/tv/my_big_fat_greek_life</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230531T181655Z" creationid="OmegaT Aligner" creationdate="20230531T181655Z">
+        <seg>MAYOR DURACIÓN EN SALAS</seg>
       </tuv>
     </tu>
     <tu>
