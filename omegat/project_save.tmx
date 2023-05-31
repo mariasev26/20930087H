@@ -794,6 +794,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;92%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Eternal Sunshine of the Spotless Mind&lt;/a5&gt; &lt;s6&gt;(2004)&lt;/s6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T182839Z" creationid="elisamariamoratonmateo" creationdate="20230531T182839Z">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;92%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;¡Olvídate de mí!&lt;/a5&gt; &lt;s6&gt;(2004)&lt;/s6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt; &lt;i1&gt; &lt;s2&gt;&lt;s3&gt;- -&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Friends, Season 10, Episode 17: "The Last One"&lt;/a5&gt; &lt;/s4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
@@ -3439,6 +3447,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>First Movie to Be Certified Fresh</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T182817Z" creationid="elisamariamoratonmateo" creationdate="20230531T182817Z">
+        <seg>Primera película con certificado reciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>First Streaming Series</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
@@ -3507,6 +3523,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152819Z" creationid="Julia_Hurtado" creationdate="20230516T152819Z">
         <seg>Novedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fresh and Rotten were a part of Rotten Tomatoes from the very beginning, but over time it started to make sense for us to add another layer of distinction for those films that were particularly well-received.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T182851Z" creationid="elisamariamoratonmateo" creationdate="20230531T182851Z">
+        <seg>Fresh y Rotten formaron parte de Rotten Tomatos desde el inicio, pero alrededor de los tiempos empezó a tener sentido para nosotros añadir otra capa de distinción para las películas que fueron especialmente bien recibidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,6 +3736,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152340Z" creationid="Julia_Hurtado" creationdate="20230516T152340Z">
         <seg>En cines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>In late 2003, we initiated the Certified Fresh program, which, as an early RT employee put it, has now essentially become the “Good Housekeeping Seal of Approval” for movies, but the very first film to earn the distinction was &lt;a0&gt;Michel Gondry’&lt;/a0&gt;s inventive, thought-provoking sci-fi romance &lt;a1&gt;&lt;e2&gt;&lt;s3&gt;Eternal Sunshine of the Spotless Mind&lt;/s3&gt;&lt;/e2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183144Z" creationid="elisamariamoratonmateo" creationdate="20230531T183144Z">
+        <seg>A finales de 2003, pusimos en marcha "Programa con Certificado reciente" que, como dijo un empleado de RT, ahora se ha convertido en el "sello de calidad de Good Housekkeping" para las películas. La primera película que obtuvo esta distinción fue creada por&lt;a0&gt;Michel Gondry&lt;/a0&gt;siendo esta un romance de ciencia ficción que invita a la reflexión de &lt;a1&gt;&lt;e2&gt;&lt;s3&gt;"Olvídate de mí"&lt;/s3&gt;&lt;/e2&gt;&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
