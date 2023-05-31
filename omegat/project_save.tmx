@@ -1308,8 +1308,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; No consensus yet.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230520T144443Z" creationid="maria" creationdate="20230516T082706Z">
-        <seg>&lt;s0&gt;Críticas generales:&lt;/s0&gt; Todavía no se ha llegado a un acuerdo .</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T122341Z" creationid="maria" creationdate="20230516T082706Z">
+        <seg>&lt;s0&gt;Críticas generales:&lt;/s0&gt; Todavía no se ha llegado a un acuerdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5934,7 +5934,7 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T122135Z" creationid="maria" creationdate="20230518T171659Z">
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T122239Z" creationid="maria" creationdate="20230518T171659Z">
         <seg>en-esp.</seg>
       </tuv>
     </tu>
