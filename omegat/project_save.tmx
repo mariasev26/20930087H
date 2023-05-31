@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -798,6 +798,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T182839Z" creationid="elisamariamoratonmateo" creationdate="20230531T182839Z">
         <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;92%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;¡Olvídate de mí!&lt;/a5&gt; &lt;s6&gt;(2004)&lt;/s6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;96%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Black Panther&lt;/a5&gt; &lt;s6&gt;(2018)&lt;/s6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183514Z" creationid="elisamariamoratonmateo" creationdate="20230531T183514Z">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;96%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Pantera Negra&lt;/a5&gt; &lt;s6&gt;(2018)&lt;/s6&gt; &lt;/s4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2735,6 +2743,14 @@ Anne Hathaway
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>At one point, &lt;a0&gt;&lt;e1&gt;Paddington 2&lt;/e1&gt;&lt;/a0&gt; became the best-reviewed movie on Rotten Tomatoes, with a perfect 100% Tomatometer score after hundreds of reviews, but that impressive record came to an end in 2021 with the film’s first Rotten review.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183546Z" creationid="elisamariamoratonmateo" creationdate="20230531T183546Z">
+        <seg>En un momento dado,&lt;a0&gt;&lt;e1&gt;Paddington 2&lt;/e1&gt;&lt;/a0&gt;se convirtió en la película más vista en Rotten Tomatoes, con una puntuación perfecta del 100% en Tomatómetro después de cientos de reseñas, pero ese impresionante récord llegó a su fin en 2021 con la primera reseña en Rotten. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>At the time of its release, &lt;a4&gt;Jim Carrey&lt;/a4&gt; had already shifted from his cartoonish goofball persona to a more serious phase of his career with films like &lt;a5&gt;&lt;e6&gt;The Truman Show&lt;/e6&gt;&lt;/a5&gt; and &lt;a7&gt;&lt;e8&gt;Man on the Moon&lt;/e8&gt;&lt;/a7&gt;, while &lt;a9&gt;Kate Winslet&lt;/a9&gt; hadn’t quite found the same kind of mainstream success she enjoyed with &lt;e10&gt;Titanic&lt;/e10&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183349Z" creationid="elisamariamoratonmateo" creationdate="20230531T183349Z">
@@ -3700,6 +3716,22 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Highest Audience Score with 500k+ Ratings</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183944Z" creationid="elisamariamoratonmateo" creationdate="20230531T183944Z">
+        <seg>Mejor puntuación de audiencia con más de 500.000 espectadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Highest Tomatometer Score With At Least 500 Reviews</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183458Z" creationid="elisamariamoratonmateo" creationdate="20230531T183458Z">
+        <seg>Puntuación más alta de tomatómetro con al menos 500 reseñas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Highest Tomatometer Score by Season</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
@@ -3928,6 +3960,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T184425Z" creationid="elisamariamoratonmateo" creationdate="20230521T184425Z">
         <seg>Podría decirse que es uno de los mejores papeles de su carrera, solo dañado por el breve tiempo que aparece en pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It’s none other than the cultural phenomenon &lt;a8&gt;&lt;s9&gt;&lt;e10&gt;Black Panther&lt;/e10&gt;&lt;/s9&gt;&lt;/a8&gt;, roaring with a 96% Tomatometer score after over 530 reviews have been tallied.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183821Z" creationid="elisamariamoratonmateo" creationdate="20230531T183821Z">
+        <seg>Se trata nada menos que del fenómeno cultural&lt;a8&gt;&lt;s9&gt;&lt;e10&gt;Pantera Negra&lt;/e10&gt;&lt;/s9&gt;&lt;/a8&gt;,con una puntuación de 96% en el tomatómetro tras más de 530 críticas. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4482,6 +4522,14 @@ QUENTIN TARANTINO ANUNCIA SU 10ª (¿Y ÚLTIMA?) PELÍCULA, JAMES GUNN DIRIGIRÁ
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121102Z" creationid="OmegaT Aligner" creationdate="20230504T191826Z">
         <seg>En el calendario de terror para 2023 aparecen los siguientes estrenos: &lt;a0&gt;&lt;e1&gt;Posesión infernal: El despertar&lt;/e1&gt;&lt;/a0&gt; (abril), el debut como director de Chris Stuckmann con &lt;e2&gt;Shelby Oaks&lt;/e2&gt;&lt;a3&gt; (julio), el regreso de Disney con la &lt; a3&gt;&lt;e4&gt;Mansión Encantada&lt;/e4&gt;&lt;/a3&gt; (agosto), más del universo &lt;a5&gt;&lt;e6&gt;El Conjuro&lt;/e6&gt;&lt;/a5&gt;&lt;a7&gt;&lt;e8&gt; con &lt;/e8&gt;&lt;/a7&gt;La Monja 2&lt;/ e8&gt; (septiembre) y &lt;e9&gt;El exorcista&lt;/e9&gt; de David Gordon Green (octubre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>On the other hand, this was only the second feature film from Gondry, who was best known for his imaginative music video work for artists like Björk, The Chemical Brothers, and The White Stripes, and working from a script he co-wrote with &lt;a11&gt;Charlie Kaufman&lt;/a11&gt;, he brought the same kind of playful sensibility and visual wizardry to &lt;e12&gt;Eternal Sunshine&lt;/e12&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183434Z" creationid="elisamariamoratonmateo" creationdate="20230531T183434Z">
+        <seg>Por otra parte, este era sólo el segundo largometraje de Gondry, quien era mejor conocido por sus imaginativos vídeos musicales para artistas como Björk, The Chemical Brothers y The White Stripes, y que, a partir de un guion que escribió junto con &lt;a11&gt;Charlie Kaufman&lt;/a11&gt;, Kaufman, aportó el mismo tipo de sensibilidad lúdica y magia visual a &lt;e12&gt;¡Olvídate de mí!&lt;/e12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5046,6 +5094,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Starring the late &lt;a11&gt;Chadwick Boseman&lt;/a11&gt; as King T’Challa and directed by &lt;a12&gt;Ryan Coogler&lt;/a12&gt;, the Marvel opus combined dazzling action, an ensemble cast, and contemporary social and ancestral themes, going on to gross over $1 billion worldwide and become the first superhero movie to be nominated for a Best Picture Oscar.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183911Z" creationid="elisamariamoratonmateo" creationdate="20230531T183911Z">
+        <seg>Protagonizado por&lt;a11&gt;Chadwick Boseman&lt;/a11&gt; como el rey T'Challa y dirigida por&lt;a12&gt;Ryan Coogler&lt;/a12&gt;, la obra de Marvel combinó acción deslumbrante, un reparto de lujo y temas sociales y ancestrales contemporáneos, llegando a recaudar más de mil millones de dólares en todo el mundo y convirtiéndose en la primera película de superhéroes nominada al Óscar a la mejor película.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Starring the late Chadwick Boseman as King T’Challa and directed by Ryan Coogler, the Marvel opus combined dazzling action, an ensemble cast, and contemporary social and ancestral themes, going on to gross over $1 billion worldwide and become the first superhero movie to be nominated for a Best Picture Oscar.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230530T180945Z" creationid="elisamariamoratonmateo" creationdate="20230520T141911Z">
@@ -5422,6 +5478,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230530T180812Z" creationid="elisamariamoratonmateo" creationdate="20230520T141100Z">
         <seg>La corona ahora pertenece al drama "No dejes rastro" de Debra Granik, seguido de cerca por grandes películas como Toy Story 2, de Pixar y el vertiginoso documental de "Man on Wire"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The crown now resides with Debra Granik’s low-key drama &lt;a2&gt;&lt;e3&gt;Leave No Trace&lt;/e3&gt;&lt;/a2&gt;, with mainstays like Pixar’s &lt;a4&gt;&lt;e5&gt;Toy Story 2&lt;/e5&gt;&lt;/a4&gt; and the vertigo-inducing documentary &lt;a6&gt;&lt;e7&gt;Man on Wire&lt;/e7&gt;&lt;/a6&gt; following close behind.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183750Z" creationid="elisamariamoratonmateo" creationdate="20230531T183750Z">
+        <seg>La corona ahora pertenece al drama &lt;a2&gt;&lt;e3&gt;No dejes rastro&lt;/e3&gt;&lt;/a2&gt;, de Debra Granik, seguido de cerca por grandes películas como &lt;a4&gt;&lt;e5&gt;Toy Story 2&lt;/e5&gt;&lt;/a4&gt; de Pixar y el vertiginoso documentla de&lt;a6&gt;&lt;e7&gt;Man on Wire&lt;/e7&gt;&lt;/a6&gt; síguenos.</seg>
       </tuv>
     </tu>
     <tu>
