@@ -6574,6 +6574,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>With that in mind, it’s somewhat fitting that the film that earned this distinction over the course of the last 25 years is also one remembered more for the the Oscar gaffe it’s most associated with: “&lt;a0&gt;Envelopegate&lt;/a0&gt;.” We are, of course, referring to 2016’s &lt;a1&gt;&lt;e2&gt;&lt;s3&gt;La La Land&lt;/s3&gt;&lt;/e2&gt;&lt;/a1&gt;, which was incorrectly announced as the winner of Best Picture over Barry Jenkins’ &lt;a4&gt;&lt;e5&gt;Moonlight&lt;/e5&gt;&lt;/a4&gt; due to a procedural error backstage.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T193808Z" creationid="elisamariamoratonmateo" creationdate="20230531T193808Z">
+        <seg>Teniendo eso en cuenta, es un poco apropiado que la película que ganó esta distinción en el transcurso de los últimos 25 años tambien sea recordada por la metedura de pata de los Oscars.&lt;a0&gt;"Envelopegate"&lt;/a0&gt;.Nos referimos, por supuesto, a La La Land, de 2016&lt;/s3&gt;&lt;/e2&gt;&lt;/a1&gt;, which was incorrectly announced as the winner of Best Picture over Barry Jenkins’ &lt;a4&gt;&lt;e5&gt;Moonlight&lt;/e5&gt;&lt;/a4&gt; due to a procedural error backstage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>With that in mind, it’s somewhat fitting that the film that earned this distinction over the course of the last 25 years is also one remembered more for the the Oscar gaffe it’s most associated with: “Envelopegate.” We are, of course, referring to 2016’s La La Land, which was incorrectly announced as the winner of Best Picture over Barry Jenkins’ Moonlight due to a procedural error backstage.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230531T173011Z" creationid="elisamariamoratonmateo" creationdate="20230521T182649Z">
@@ -6762,6 +6770,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
         <seg>&lt;a1&gt;Hal Boedeker, &lt;e2&gt;Orlando Sentinel&lt;/e2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Most Oscar Nominations” can be a rather dubious accolade unless it’s followed by an equally impressive list of Oscar wins.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T193515Z" creationid="elisamariamoratonmateo" creationdate="20230531T193515Z">
+        <seg>"Más nominaciones al Oscar” puede ser un galardón bastante dudoso a menos que vaya seguido de una lista igualmente impresionante de victorias en los Oscar..</seg>
       </tuv>
     </tu>
     <tu>
