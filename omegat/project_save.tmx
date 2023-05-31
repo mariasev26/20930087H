@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2887,6 +2887,14 @@ Anne Hathaway
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bird Box (2018) – 282,020,000 hours 4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173438Z" creationid="maria" creationdate="20230531T173438Z">
+        <seg>A ciegas (2018) – 282,020,000 hours 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Box Office</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T145415Z" creationid="Julia_Hurtado" creationdate="20230516T145415Z">
@@ -3249,6 +3257,14 @@ Denzel Washington y Barry Keoghan
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Don’t Look Up (2021) – 359,790,000 hours 3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173430Z" creationid="maria" creationdate="20230531T173430Z">
+        <seg>No mires arriba (2021) – 359,790,000 horas 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Drew Barrymore, Tom Hanks, Melissa McCarthy, and Justin Timberlake are also frequent hosts.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
@@ -3317,6 +3333,15 @@ Denzel Washington y Barry Keoghan
 4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183946Z" creationid="elisamariamoratonmateo" creationdate="20230521T183946Z">
+        <seg>Todo a la vez en todas partes (2022) – 7 victorias
+4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Everything Everywhere All at Once (2022) – 7 wins 4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173640Z" creationid="maria" creationdate="20230531T173640Z">
         <seg>Todo a la vez en todas partes (2022) – 7 victorias
 4.</seg>
       </tuv>
@@ -3504,10 +3529,27 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Glass Onion: A Knives Out Mystery (2022) – 279,740,000 hours 5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173526Z" creationid="maria" creationdate="20230531T173526Z">
+        <seg>Glass Onion: Puñales por la espalda (2022) – 279,740,000 horas 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gravity (2013) – 7 wins
 5.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T184007Z" creationid="elisamariamoratonmateo" creationdate="20230521T184007Z">
+        <seg>Gravedad (2013) – 7 victorias
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gravity (2013) – 7 wins 5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173638Z" creationid="maria" creationdate="20230531T173638Z">
         <seg>Gravedad (2013) – 7 victorias
 5.</seg>
       </tuv>
@@ -4652,6 +4694,14 @@ Danny Trejo en Machete (2010)
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Red Notice (2021) – 364,020,000 hours 2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173259Z" creationid="maria" creationdate="20230531T173259Z">
+        <seg>Alerta Roja (2021) – 364,020,000 horas 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Related News</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T220726Z" creationid="maria" creationdate="20230521T220726Z">
@@ -4782,6 +4832,15 @@ Danny Trejo en Machete (2010)
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shakespeare in Love (1998) – 7 wins FIRST STREAMING FILM NOMINATED FOR BEST PICTURE 96% Manchester by the Sea (2016) One of the early goals of streaming giant Netflix when it began creating original content was legitimacy within the industry.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173901Z" creationid="maria" creationdate="20230531T173634Z">
+        <seg>"Shakespeare enamorado" (1998)-  Siete victorias  PRIMERA PELÍCULA NOMINADA POR MEJOR película 96% Manchester frente al mar (2016)
+Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó a crear contenidos originales era la legitimidad dentro de la industria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Show with the Highest Nielsen Rating</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
@@ -4818,6 +4877,15 @@ Danny Trejo en Machete (2010)
 3.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183928Z" creationid="elisamariamoratonmateo" creationdate="20230521T183928Z">
+        <seg>¿Quién quiere ser millonario? (2008) – 8 victorias
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slumdog Millionaire (2008) – 8 wins 3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173642Z" creationid="maria" creationdate="20230531T173642Z">
         <seg>¿Quién quiere ser millonario? (2008) – 8 victorias
 3.</seg>
       </tuv>
@@ -5110,6 +5178,15 @@ Oscar Isaac, Mia Goth y Andrew Garfield
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The Curious Case of Benjamin Button (2008) – 13 5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173612Z" creationid="maria" creationdate="20230531T173612Z">
+        <seg>El curioso caso de Benjamin Button (2008) – 13
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The Diplomat: Season 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152958Z" creationid="Julia_Hurtado" creationdate="20230516T152958Z">
@@ -5136,10 +5213,28 @@ Oscar Isaac, Mia Goth y Andrew Garfield
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The Lord of the Rings: Return of the King (2003) – 11 Wins 2.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173644Z" creationid="maria" creationdate="20230531T173644Z">
+        <seg>El Señor de los Anillos: El Retorno del Rey (2003) – 11 victorias
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The Lord of the Rings: The Fellowship of the Ring (2001) – 13</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183414Z" creationid="elisamariamoratonmateo" creationdate="20230521T183414Z">
         <seg>El Señor de los Anillos: La Comunidad del Anillo (2001) – 13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Lord of the Rings: The Fellowship of the Ring (2001) – 13 MOST OSCAR WINS 93% The Lord of the Rings: The Return of the King (2003) The term “masterpiece” is a frequently misappropriated distinction, but it’s entirely warranted in the case of Peter Jackson’s The Lord of the Rings trilogy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173619Z" creationid="maria" creationdate="20230531T173619Z">
+        <seg>93% El Señor de los Anillos: El Retorno del Rey (2003)
+El término "obra maestra" es una distinción frecuentemente mal utilizada, pero está totalmente justificada en el caso de la trilogía de El Señor de los Anillos de Peter Jackson.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5188,6 +5283,15 @@ Oscar Isaac, Mia Goth y Andrew Garfield
 3.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183353Z" creationid="elisamariamoratonmateo" creationdate="20230521T183353Z">
+        <seg>La forma del agua (2017) – 13
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Shape of Water (2017) – 13 3.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173607Z" creationid="maria" creationdate="20230531T173607Z">
         <seg>La forma del agua (2017) – 13
 3.</seg>
       </tuv>
@@ -5700,10 +5804,28 @@ Oscar Isaac, Mia Goth y Andrew Garfield
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Top 5 Films with Most Oscar Nominations in the Last 25 Years 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173557Z" creationid="maria" creationdate="20230531T173557Z">
+        <seg>Las 5 películas con más nominaciones al Oscar en los últimos 25 años
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Top 5 Films with Most Oscar Wins in the Last 25 Years
 1.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183812Z" creationid="elisamariamoratonmateo" creationdate="20230521T183812Z">
+        <seg>Las 5 películas con más premios Oscar en los últimos 25 años
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Top 5 Films with Most Oscar Wins in the Last 25 Years 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173646Z" creationid="maria" creationdate="20230531T173646Z">
         <seg>Las 5 películas con más premios Oscar en los últimos 25 años
 1.</seg>
       </tuv>
@@ -5734,6 +5856,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T185147Z" creationid="elisamariamoratonmateo" creationdate="20230521T185147Z">
         <seg>Top de las 5 películas más vistas en Netflix
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Top 5 Most-Streamed Movies on Netflix 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T173246Z" creationid="maria" creationdate="20230531T173246Z">
+        <seg>LAS 5 PELÍCULAS MÁS VISTAS EN NETFLIX 1.</seg>
       </tuv>
     </tu>
     <tu>
