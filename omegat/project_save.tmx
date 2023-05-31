@@ -2739,8 +2739,8 @@ Anne Hathaway
       <tuv lang="en-GB">
         <seg>Avatar set multiple records on its way to earning $2.9 billion at the box office and even overcame a challenge from 2019’s Avengers: Endgame, which briefly held the title before a number of re-releases helped Avatar reclaim it.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150432Z" creationid="elisamariamoratonmateo" creationdate="20230520T150432Z">
-        <seg>Avatar batió múltiples récords en su camino hacia los 2.900 millones de dólares en taquilla e incluso superó el desafío de Avengers (Los Vengadores): Endgame, que ostentó brevemente el título antes de que una serie de reestrenos ayudaran a Avatar a recuperarlo.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T160348Z" creationid="elisamariamoratonmateo" creationdate="20230520T150432Z">
+        <seg>Avatar batió múltiples récords en su camino hacia los 2.900 millones de dólares en taquilla e incluso superó el desafío de "Los Vengadores: Endgame", que ostentó brevemente el título antes de que una serie de reestrenos ayudaran a Avatar a recuperarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5444,8 +5444,8 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="en-GB">
         <seg>There have been countless think pieces written about the film’s so-called “cultural significance,” but at the end of the day, it was a broadly appealing blockbuster that made boatloads of money and spawned a successful franchise, as its recent sequel Avatar: The Way of Water — which is still earning money in theaters, by the way — currently ranks third on this same list.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150736Z" creationid="elisamariamoratonmateo" creationdate="20230520T150736Z">
-        <seg>Se han escrito innumerables artículos de opinión sobre la llamada "importancia cultural" de la película, pero al fin y al cabo, fue un éxito en taquilla ampliamente atractivo que hizo montones de dinero y generó una existosa franquicia, como su reciente secuela Avatar. The Way of Water (La forma del Agua) - que todavía está ganado dinero en los cines, por cierto - actualmente ocupa el tercer lugar en esta misma lista.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T160441Z" creationid="elisamariamoratonmateo" creationdate="20230520T150736Z">
+        <seg>Se han escrito innumerables artículos de opinión sobre la llamada "importancia cultural" de la película, pero al fin y al cabo, fue un éxito en taquilla ampliamente atractivo que hizo montones de dinero y generó una existosa franquicia, como su reciente secuela "Avatar. La forma del Agua", que todavía está ganado dinero en los cines y que actualmente ocupa el tercer lugar en esta misma lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5636,6 +5636,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150807Z" creationid="elisamariamoratonmateo" creationdate="20230520T150807Z">
         <seg>Las 5 películas más taquilleras de los últimos 25 años
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Top 5 Highest-Grossing Films of the Last 25 Years 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230531T160542Z" creationid="maria" creationdate="20230531T160542Z">
+        <seg>Las cinco películas con mayor recaudación de los últimos 25 años </seg>
       </tuv>
     </tu>
     <tu>
