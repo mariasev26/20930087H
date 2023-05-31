@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4456,8 +4456,16 @@ QUENTIN TARANTINO ANUNCIA SU 10ª (¿Y ÚLTIMA?) PELÍCULA, JAMES GUNN DIRIGIRÁ
       <tuv lang="en-GB">
         <seg>On Dvd &amp; Streaming</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T152006Z" creationid="Julia_Hurtado" creationdate="20230516T152006Z">
-        <seg>En Dvd &amp; Streaming</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T183624Z" creationid="Julia_Hurtado" creationdate="20230516T152006Z">
+        <seg>En Dvd &amp; Streaming&lt;?
+
+/* BEGIN critical load order */ ?&gt;
+
+— ¶ —————————————————————
+
+&lt;?
+
+/* END critical load order */ ?&gt;</seg>
       </tuv>
     </tu>
     <tu>
