@@ -3780,6 +3780,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Highest-Grossing Film</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185000Z" creationid="elisamariamoratonmateo" creationdate="20230531T185000Z">
+        <seg>Películas más taquilleras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Home</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T144725Z" creationid="Julia_Hurtado" creationdate="20230516T144529Z">
@@ -5336,6 +5344,14 @@ Oscar Isaac, Mia Goth y Andrew Garfield
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>That film was &lt;a0&gt;James Cameron’&lt;/a0&gt;s epic romance &lt;a1&gt;&lt;e2&gt;Titanic&lt;/e2&gt;&lt;/a1&gt;, which opened in 1997 and currently sits comfortably at No. 4 on the all-time list with a worldwide gross of $2.26 billion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185124Z" creationid="elisamariamoratonmateo" creationdate="20230531T185124Z">
+        <seg>Se trata de la epopeya romántica de&lt;a0&gt;James Cameron’&lt;/a0&gt; &lt;a1&gt;&lt;e2&gt;Titanic&lt;/e2&gt;&lt;/a1&gt;,estrenada en 1997 y que actualmente ocupa el cuarto puesto de la lista con una recaudación mundial de 2.260 millones de dólares. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>That film was James Cameron’s epic romance Titanic, which opened in 1997 and currently sits comfortably at No. 4 on the all-time list with a worldwide gross of $2.26 billion.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230520T150101Z" creationid="elisamariamoratonmateo" creationdate="20230520T150101Z">
@@ -5698,6 +5714,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The next oldest movie in this esteemed group, however, is not only the top global earner of the last 25 years, but it’s the highest-grossing film of all time, and it’s another James Cameron joint: 2009’s &lt;a3&gt;&lt;s4&gt;&lt;e5&gt;Avatar&lt;/e5&gt;&lt;/s4&gt;&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185140Z" creationid="elisamariamoratonmateo" creationdate="20230531T185140Z">
+        <seg>Sin embargo, la siguiente película más antigua en este estimado grupo no solo es la que más ha recaudado en los últimos 25 años, sino también es la más taquillera de todos los tiempos, y es otra obra de James Cameron:  &lt;a3&gt;&lt;s4&gt;&lt;e5&gt;Avatar&lt;/e5&gt;&lt;/s4&gt;&lt;/a3&gt;.de 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The next oldest movie in this esteemed group, however, is not only the top global earner of the last 25 years, but it’s the highest-grossing film of all time, and it’s another James Cameron joint: 2009’s Avatar.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230531T160323Z" creationid="elisamariamoratonmateo" creationdate="20230520T150232Z">
@@ -6014,6 +6038,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230521T183803Z" creationid="elisamariamoratonmateo" creationdate="20230521T183803Z">
         <seg>Aunque la serie posterior adaptada de El Hobbit creó un poco de alboroto entre los fans, nada de ello desmerece los grandes momentos vividos en la Tierra Media con Frodo y sus amigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thus, validation for the film has had to come through other means, including a box office tally over $1 billion worldwide (the only R-rated movie to do so) and a whopping 11 Oscar nominations, including one for Best Picture, and a Best Actor win for &lt;a5&gt;Joaquin Phoenix&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T184942Z" creationid="elisamariamoratonmateo" creationdate="20230531T184942Z">
+        <seg>Así pues, la película ha tenido que ser validada por otros medios, como una recaudación de más de 1.000 millones de dólares en todo el mundo (la única película con calificación reciente que lo ha conseguido) y la friolera de 11 nominaciones a los Óscar, incluida una a la mejor película, y el premio al mejor actor para&lt;a5&gt;Joaquin Phoenix&lt;/a5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6378,6 +6410,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230531T173011Z" creationid="elisamariamoratonmateo" creationdate="20230521T182649Z">
         <seg>CON MÁS NOMINACIONES EN LOS ÓSCAR 91% La La Land (2016). El título de "Más nominaciones en los Óscar" puede no ser muy impresionante, a no ser de que además de este título tenga casi la misma cantidad de premios Óscar. Teniendo eso en cuenta, es un poco apropiado que la película que ganó esta distinción en el transcurso de los últimos 25 años también sea recordada por la metedura de pata de los Oscar. "Envelopegate". Nos referimos, por supuesto, a La La Land, de 2016, que fue anunciada erróneamente como ganadora a Mejor Película frente a "Moonlight", de Barry Jenkins, debido a un error de procedimiento entre bastidores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>With the rise in ticket prices over the last two decades and the popularization of 3D, IMAX, and other screen innovations, it’s probably no surprise that of the top 25 highest worldwide-grossing films, only one of them was released prior to 2000.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185014Z" creationid="elisamariamoratonmateo" creationdate="20230531T185014Z">
+        <seg>Con el aumento del precio de las entradas en las dos últimas décadas y la popularización del 3D, IMAX, y otras innovaciones de pantallas, probablemente no sorprenda que de las 25 películas más taquilleras del mundo, sólo una se estrenara antes del año 2000.</seg>
       </tuv>
     </tu>
     <tu>
