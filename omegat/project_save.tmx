@@ -802,6 +802,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;94%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;The Dark Knight&lt;/a5&gt; &lt;s6&gt;(2008)&lt;/s6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183954Z" creationid="elisamariamoratonmateo" creationdate="20230531T183954Z">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;94%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;El caballero oscuro&lt;/a5&gt; &lt;s6&gt;(2008)&lt;/s6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;96%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Black Panther&lt;/a5&gt; &lt;s6&gt;(2018)&lt;/s6&gt; &lt;/s4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T183514Z" creationid="elisamariamoratonmateo" creationdate="20230531T183514Z">
@@ -3796,6 +3804,14 @@ Las etiquetas para las películas de "Fresco" y "Podrido" formaron parte de Rott
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>In many ways, the modern era of superhero cinema can trace its roots back to 2008, the year when a pair of comic book movies took the world by storm.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T184006Z" creationid="elisamariamoratonmateo" creationdate="20230531T184006Z">
+        <seg>En muchos sentidos, la era moderna del cine de superhéroes se remonta al 2008, año en que un par de películas de cómics arrasaron en todo el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>In related news, Ben Affleck, who James Gunn had mentioned as a possible future DCU director, stated this week that &lt;a7&gt;he has no plans&lt;/a7&gt; to direct a DCU movie anytime soon.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T123906Z" creationid="elisamariamoratonmateo" creationdate="20230530T155619Z">
@@ -4578,6 +4594,14 @@ QUENTIN TARANTINO ANUNCIA SU 10ª (¿Y ÚLTIMA?) PELÍCULA, JAMES GUNN DIRIGIRÁ
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230530T181330Z" creationid="elisamariamoratonmateo" creationdate="20230520T142550Z">
         <seg>Una de ellas fue Iron Man, de Marvel, que por supuesto dio el pistoletazo de salida a la máquina de éxitos de taquilla que todos conocemos ahora como Universo Cinematográfico de Marvel, y la otra fue "El Caballero oscuro", de DC, el segundo capítulo de la célebre trilogía de películas de Batman de Christopher Nolan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>One of them was Marvel’s &lt;a0&gt;&lt;e1&gt;Iron Man&lt;/e1&gt;&lt;/a0&gt;, which of course kickstarted the blockbuster machine we all now know as the Marvel Cinematic Universe, and the other was DC’s &lt;a2&gt;&lt;s3&gt;&lt;e4&gt;The Dark Knight&lt;/e4&gt;&lt;/s3&gt;&lt;/a2&gt;, the second chapter in &lt;a5&gt;Christopher Nolan’&lt;/a5&gt;s celebrated trilogy of Batman movies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T184245Z" creationid="elisamariamoratonmateo" creationdate="20230531T184245Z">
+        <seg>Una de ellas fue&lt;a0&gt;&lt;e1&gt;Iron Man&lt;/e1&gt;de Marvel&lt;/a0&gt;,que por supuesto dio el pistoletazo de salida a la máquina de éxitos de taquilla que todos conocemos ahora como Universo Cinematográfico de Marvel, y la otra fue &lt;a2&gt;&lt;s3&gt;&lt;e4&gt;El Caballero oscuro, de DC&lt;/e4&gt;&lt;/s3&gt;&lt;/a2&gt;, el segundo capítulo de la célebre trilogía de películasde Batman de &lt;a5&gt;Christopher Nolan.&lt;/a5&gt;</seg>
       </tuv>
     </tu>
     <tu>
