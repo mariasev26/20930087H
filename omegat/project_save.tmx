@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1276,8 +1276,8 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Bereft of a single kernel of fear or excitement, this &lt;e1&gt;Children of the Corn&lt;/e1&gt; suggests the franchise is irrevocably lost in a maize of sub-mediocrity.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121422Z" creationid="maria" creationdate="20230521T220537Z">
-        <seg>Consenso de la crítica: Desprovista de un solo núcleo de miedo o emoción, esta Children of the Corn sugiere que la franquicia está irrevocablemente perdida en un maíz de sub-mediocridad.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T150816Z" creationid="maria" creationdate="20230521T220537Z">
+        <seg>Consenso de la crítica: Desprovista de un solo núcleo de miedo o emoción, Los niños del maíz sugiere que la franquicia está irrevocablemente perdida en un maíz de sub-mediocridad.&lt;s0&gt;&lt;/s0&gt;&lt;e1&gt;&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2357,8 +2357,8 @@ y&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Trapped in a bunker during World War I, a group of soldiers are faced with an ungodly presence that slowly...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121417Z" creationid="maria" creationdate="20230521T220413Z">
-        <seg>Sinopsis: Atrapados en un búnker durante la Primera Guerra Mundial, un grupo de soldados se enfrenta a una presencia impía que poco a poco... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
+      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T150656Z" creationid="maria" creationdate="20230521T220413Z">
+        <seg>Sinopsis: Atrapados en un búnker durante la Primera Guerra Mundial, un grupo de soldados se enfrenta a una presencia diabólica que poco a poco... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
