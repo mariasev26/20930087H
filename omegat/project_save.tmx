@@ -346,6 +346,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;a0&gt;&lt;e1&gt;My Big Fat Greek Wedding&lt;/e1&gt;&lt;/a0&gt; was the little film that could.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185652Z" creationid="elisamariamoratonmateo" creationdate="20230531T185652Z">
+        <seg>&lt;a0&gt;&lt;e1&gt;Mi gran boda griega&lt;/e1&gt;&lt;/a0&gt; era la película que podía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;a0&gt;&lt;e1&gt;Star Wars&lt;/e1&gt; Movies In Order: How to Watch the Saga Chronologically&lt;/a0&gt;&lt;br2&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121438Z" creationid="maria" creationdate="20230521T221233Z">
@@ -538,10 +546,26 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Avatar&lt;/e0&gt; (2009) – $2,923,796,026</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185503Z" creationid="elisamariamoratonmateo" creationdate="20230531T185503Z">
+        <seg>&lt;e0&gt;Avatar&lt;/e0&gt; (2009) – 2.923.796.026 dólares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;e0&gt;Avengers: Endgame&lt;/e0&gt; (2019) – $2,799,439,100</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185416Z" creationid="elisamariamoratonmateo" creationdate="20230531T185416Z">
-        <seg>&lt;e0&gt;Los Vengadores: Endgame&lt;/e0&gt; (2019) – $2,799,439,100</seg>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185454Z" creationid="elisamariamoratonmateo" creationdate="20230531T185416Z">
+        <seg>&lt;e0&gt;Los Vengadores: Endgame&lt;/e0&gt; (2019) – 2.799.439.100 dólares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Avengers: Infinity War&lt;/e0&gt; (2018) – $2,052,415,039</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185602Z" creationid="elisamariamoratonmateo" creationdate="20230531T185602Z">
+        <seg>&lt;e0&gt;Los Vengadores: Infinity War &lt;/e0&gt; (2018) – 2.052.415.039 dólares</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +646,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
         <seg>&lt;e0&gt;Squid Game&lt;/e0&gt;: Temporada 1 - 1.650.450.000&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;e0&gt;Star Wars: Episode VII – The Force Awakens&lt;/e0&gt; (2015) – $2,071,310,218</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185543Z" creationid="elisamariamoratonmateo" creationdate="20230531T185543Z">
+        <seg>&lt;e0&gt;Star War: Episodio VII – El despertar de la fuerza&lt;/e0&gt; (2015) – 2.071.310.218 dólares</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +846,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T123042Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
         <seg>&lt;e8&gt;Yellowjackets&lt;/e8&gt;, temporada 1 - 74 críticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;76%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;My Big Fat Greek Wedding&lt;/a5&gt; &lt;s6&gt;(2002)&lt;/s6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185617Z" creationid="elisamariamoratonmateo" creationdate="20230531T185617Z">
+        <seg>&lt;s0&gt; &lt;i1/&gt; &lt;s2&gt;&lt;s3&gt;76%&lt;/s3&gt;&lt;/s2&gt; &lt;/s0&gt; &lt;s4&gt; &lt;a5&gt;Mi gran boda griega&lt;/a5&gt; &lt;s6&gt;(2002)&lt;/s6&gt; &lt;/s4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4184,6 +4224,14 @@ James Gunn
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Longest Theatrical Run</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185607Z" creationid="elisamariamoratonmateo" creationdate="20230531T185607Z">
+        <seg>MAYOR DURACIÓN EN SALAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Love &amp; Death: Season 1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230516T153152Z" creationid="Julia_Hurtado" creationdate="20230516T153152Z">
@@ -5766,6 +5814,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230530T180043Z" creationid="elisamariamoratonmateo" creationdate="20230520T133535Z">
         <seg>El resultado fue una película brillante, divertida, una película en ocasiones desgarradora sobre relaciones, que se convirtió al instante en un clásico de culto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The romantic comedy, which was based on a one-woman stage production and written by its star, &lt;a2&gt;Nia Vardalos&lt;/a2&gt;, opened on April 19, 2002 in very limited release before it was slowly discovered by audiences and subsequently booked by more theaters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="elisamariamoratonmateo" changedate="20230531T185734Z" creationid="elisamariamoratonmateo" creationdate="20230531T185734Z">
+        <seg>sta comedia romántica, basada en una producción teatral de una sola mujer y escrita por su protagonista, Nia Vardalos, se estrenó el&lt;/a2&gt;, 19 de abril de 2002 en un número muy limitado de salas antes de que el público la descubriera poco a poco y, posteriormente, fuera reservada en más cines.</seg>
       </tuv>
     </tu>
     <tu>
