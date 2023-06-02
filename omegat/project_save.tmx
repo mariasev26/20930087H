@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1498,6 +1498,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;88758%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T104936Z" creationid="maria" creationdate="20230602T104936Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;88758%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;90276%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144520Z" creationid="maria" creationdate="20230520T144520Z">
@@ -1518,6 +1526,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T105145Z" creationid="maria" creationdate="20230507T105145Z">
         <seg>&lt;s0&gt;Puntuación &lt;/s0&gt;97580%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;97966%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T104823Z" creationid="maria" creationdate="20230602T104823Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;97966%</seg>
       </tuv>
     </tu>
     <tu>
@@ -1650,6 +1666,24 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Smart, self-aware, and all too timely, this slasher co-written by Kevin Williamson is &lt;e1&gt;Sick&lt;/e1&gt; in all the best ways.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T104946Z" creationid="maria" creationdate="20230602T104946Z">
+        <seg>Consenso de la crítica: Inteligente, autoconsciente y demasiado actual, este slasher coescrito por Kevin Williamson es Sick en todos los mejores sentidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Turbulent waters even for strong swimmers, &lt;e1&gt;Infinity Pool&lt;/e1&gt; provides a visceral all-inclusive retreat of Cronenbergian perversion for those wanting to escape commercial sundries.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T104848Z" creationid="maria" creationdate="20230602T104848Z">
+        <seg>87%
+#4
+Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuertes, Infinity Pool ofrece un visceral retiro todo incluido de perversión Cronenbergian para aquellos que quieran escapar de lo comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Unapologetically silly and all the more entertaining for it, &lt;e1&gt;M3GAN&lt;/e1&gt; is the rare horror-comedy that delivers chuckles as effortlessly as chills.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="kristina.assachyova" changedate="20230601T153504Z" creationid="maria" creationdate="20230507T105833Z">
@@ -1710,6 +1744,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T215442Z" creationid="maria" creationdate="20230521T215442Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Brad Anderson&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Brandon Cronenberg&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T104926Z" creationid="maria" creationdate="20230602T104926Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Brandon Cronenberg&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,6 +2072,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230517T115005Z" creationid="OmegaT Aligner" creationdate="20230517T115005Z">
         <seg>&lt;s0&gt;Más &lt;a1&gt;RT25&lt;/a1&gt; Contenido del Aniversario:&lt;/s0&gt;&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Alexander Skarsgård&lt;/a1&gt;, &lt;a2&gt;Mia Goth&lt;/a2&gt;, &lt;a3&gt;Cleopatra Coleman&lt;/a3&gt;, &lt;a4&gt;Thomas Kretschmann&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T104911Z" creationid="maria" creationdate="20230602T104911Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Alexander Skarsgård&lt;/a1&gt;, &lt;a2&gt;Mia Goth&lt;/a2&gt;, &lt;a3&gt;Cleopatra Coleman&lt;/a3&gt;, &lt;a4&gt;Thomas Kretschmann&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2743,6 +2793,14 @@ y&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121240Z" creationid="maria" creationdate="20230520T145840Z">
         <seg>Sinopsis: Cuando dos amigos distanciados se reencuentran, las cosas enterradas en lo más profundo están destinadas a salir a la superficie.&lt;s0&gt;&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; While staying at an isolated island resort, James (Alexander Skarsgård) and Em (Cleopatra Coleman) are enjoying a perfect vacation of...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T104904Z" creationid="maria" creationdate="20230602T104904Z">
+        <seg>Sinopsis: Mientras se alojan en un aislado resort isleño, James (Alexander Skarsgård) y Em (Cleopatra Coleman) disfrutan de unas perfectas vacaciones de... [Más]</seg>
       </tuv>
     </tu>
     <tu>
@@ -7160,8 +7218,8 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       <tuv lang="en-GB">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T144514Z" creationid="maria" creationdate="20230518T171659Z">
-        <seg>en-esp</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T104753Z" creationid="maria" creationdate="20230518T171659Z">
+        <seg>en-es</seg>
       </tuv>
     </tu>
     <tu>
@@ -7186,6 +7244,14 @@ El término "obra maestra" es una distinción frecuentemente mal utilizada, pero
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T191826Z" creationid="OmegaT Aligner" creationdate="20230504T191826Z">
         <seg>https://editorial.rottentomatoes.com/guide/mejores-peliculas-de-terror-de-2021-clasificadas/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>https://www.rottentomatoes.com/m/m3gan</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230507T105610Z" creationid="maria" creationdate="20230507T105610Z">
+        <seg>nhttps://www.rottentomatoes.com/m/m3gan</seg>
       </tuv>
     </tu>
     <tu>
