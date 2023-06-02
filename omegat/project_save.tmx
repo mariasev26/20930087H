@@ -1530,6 +1530,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;93092%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105343Z" creationid="maria" creationdate="20230602T105343Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;93092%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;95161%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230602T105100Z" creationid="maria" creationdate="20230602T105100Z">
@@ -1650,6 +1658,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Certain aspects of horror's most murderously meta franchise may be going stale, but a change of setting and some inventive set pieces help keep &lt;e1&gt;Scream VI&lt;/e1&gt; reasonably sharp.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105354Z" creationid="maria" creationdate="20230602T105354Z">
+        <seg>Consenso de la crítica: Ciertos aspectos de la franquicia de terror más meta asesina pueden estar pasando de moda, pero un cambio de escenario y algunas inventivas set pieces ayudan a mantener Scream VI razonablemente afilada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Conceptually strong but uneven in execution, &lt;e1&gt;There's Something Wrong with the Children&lt;/e1&gt; is a serviceable horror movie that could have been much more.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121325Z" creationid="maria" creationdate="20230521T214911Z">
@@ -1670,6 +1686,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121347Z" creationid="maria" creationdate="20230521T215521Z">
         <seg>Consenso de la crítica: ¡Dominus Crowe!&lt;s0&gt;&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; If its story's mysteries are ultimately less compelling than they might seem, &lt;e1&gt;Enys Men&lt;/e1&gt;'s retro aesthetic and intriguingly abstract visuals make this a chilly treat for horror fans.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105253Z" creationid="maria" creationdate="20230602T105253Z">
+        <seg>Consenso de la crítica: Si los misterios de su historia son en última instancia menos convincentes de lo que podría parecer, la estética retro de Enys Men y sus intrigantes efectos visuales abstractos la convierten en una fría delicia para los aficionados al terror.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,6 +2016,22 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T145359Z" creationid="maria" creationdate="20230520T145359Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Marcus Harben&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Mark Jenkin&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105317Z" creationid="maria" creationdate="20230602T105317Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Mark Jenkin&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Matt Bettinelli-Olpin&lt;/a1&gt;, &lt;a2&gt;Tyler Gillett&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105450Z" creationid="maria" creationdate="20230602T105450Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Matt Bettinelli-Olpin&lt;/a1&gt;, &lt;a2&gt;Tyler Gillett&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2332,10 +2372,26 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Mary Woodvine&lt;/a1&gt;, &lt;a2&gt;John Woodvine&lt;/a2&gt;, &lt;a3&gt;Edward Rowe&lt;/a3&gt;, &lt;a4&gt;Callum Mitchell&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105307Z" creationid="maria" creationdate="20230602T105307Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Mary Woodvine&lt;/a1&gt;, &lt;a2&gt;John Woodvine&lt;/a2&gt;, &lt;a3&gt;Edward Rowe&lt;/a3&gt;, &lt;a4&gt;Callum Mitchell&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;McKaley Miller&lt;/a1&gt;, &lt;a2&gt;Dermot Mulroney&lt;/a2&gt;, &lt;a3&gt;Anne Heche&lt;/a3&gt;, &lt;a4&gt;Brice Anthony Heller&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144715Z" creationid="maria" creationdate="20230520T144715Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;McKaley Miller&lt;/a1&gt;, &lt;a2&gt;Dermot Mulroney&lt;/a2&gt;, &lt;a3&gt;Anne Heche&lt;/a3&gt;, &lt;a4&gt;Brice Anthony Heller&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Melissa Barrera&lt;/a1&gt;, &lt;a2&gt;Jenna Ortega&lt;/a2&gt;, &lt;a3&gt;Courteney Cox&lt;/a3&gt;, &lt;a4&gt;Jasmin Savoy Brown&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105409Z" creationid="maria" creationdate="20230602T105409Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Melissa Barrera&lt;/a1&gt;, &lt;a2&gt;Jenna Ortega&lt;/a2&gt;, &lt;a3&gt;Courteney Cox&lt;/a3&gt;, &lt;a4&gt;Jasmin Savoy Brown&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2564,6 +2620,14 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; A wildlife volunteer on an uninhabited island off the British coast descends into a terrifying madness that challenges her grip...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105301Z" creationid="maria" creationdate="20230602T105301Z">
+        <seg>Sinopsis: Una voluntaria de vida salvaje en una isla deshabitada de la costa británica desciende a una locura aterradora que desafía... [Más]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; A year into living through a worldwide pandemic, a group of friends gather in the remote Tahoe Mountains, to stay...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121420Z" creationid="maria" creationdate="20230521T220450Z">
@@ -2680,6 +2744,14 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T145648Z" creationid="maria" creationdate="20230520T145421Z">
         <seg>Sinopsis: Followers es una inteligente película de terror de "metraje encontrado" ambientada en el mundo de los "influencers de las redes sociales".&lt;s0&gt;&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter....&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105402Z" creationid="maria" creationdate="20230602T105402Z">
+        <seg>Sinopsis: Tras los últimos asesinatos de Ghostface, los cuatro supervivientes dejan atrás Woodsboro y comienzan un nuevo capítulo....</seg>
       </tuv>
     </tu>
     <tu>
