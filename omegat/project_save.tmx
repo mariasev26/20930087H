@@ -442,6 +442,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;a0&gt;Evil Dead Rise&lt;/a0&gt; &lt;s1&gt;(2023)&lt;/s1&gt; &lt;/br2&gt;&lt;s3&gt;&lt;/s3&gt; &lt;s4&gt;84%&lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105050Z" creationid="maria" creationdate="20230602T105050Z">
+        <seg>&lt;a0&gt;Evil Dead: El despertar&lt;/a0&gt; &lt;s1&gt;(2023)&lt;/s1&gt; &lt;/br2&gt;&lt;s3&gt;&lt;/s3&gt; &lt;s4&gt;84%&lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;a0&gt;Huesera: The Bone Woman&lt;/a0&gt; &lt;s1&gt;(2022)&lt;/s1&gt; &lt;/br2&gt;&lt;s3&gt;&lt;/s3&gt; &lt;s4&gt;99%&lt;/s4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230507T104659Z" creationid="maria" creationdate="20230507T104659Z">
@@ -1482,6 +1490,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;82249%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105245Z" creationid="maria" creationdate="20230602T105245Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;82249%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;83065%</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144744Z" creationid="maria" creationdate="20230520T144744Z">
@@ -1510,6 +1526,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T144520Z" creationid="maria" creationdate="20230520T144520Z">
         <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;90276%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Adjusted Score: &lt;/s0&gt;95161%</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105100Z" creationid="maria" creationdate="20230602T105100Z">
+        <seg>&lt;s0&gt;Puntuación general: &lt;/s0&gt;95161%</seg>
       </tuv>
     </tu>
     <tu>
@@ -1654,6 +1678,14 @@ Uno de los primeros objetivos del bestiales del streaming Netflix cuando empezó
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T122341Z" creationid="maria" creationdate="20230516T082706Z">
         <seg>&lt;s0&gt;Críticas generales:&lt;/s0&gt; Todavía no se ha llegado a un acuerdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Critics Consensus:&lt;/s0&gt; Offering just about everything longtime fans could hope for while still managing to carry the franchise forward, &lt;e1&gt;Evil Dead Rise&lt;/e1&gt; is all kinds of groovy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105135Z" creationid="maria" creationdate="20230602T105135Z">
+        <seg>Consenso de la crítica: Evil Dead Rise ofrece todo lo que los fans de la franquicia podían esperar y, al mismo tiempo, se las arregla para llevarla adelante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1900,6 +1932,14 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;John Hyams&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105021Z" creationid="maria" creationdate="20230602T105021Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;John Hyams&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Jon Wright&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T150807Z" creationid="maria" creationdate="20230520T150807Z">
@@ -1928,6 +1968,14 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T150311Z" creationid="maria" creationdate="20230520T150311Z">
         <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Kyle Edward Ball&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Directed By:&lt;/s0&gt; &lt;a1&gt;Lee Cronin&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105206Z" creationid="maria" creationdate="20230602T105206Z">
+        <seg>&lt;s0&gt;Dirigida por:&lt;/s0&gt; &lt;a1&gt;Lee Cronin&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2180,6 +2228,14 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Gideon Adlon&lt;/a1&gt;, &lt;a2&gt;Dylan Sprayberry&lt;/a2&gt;, &lt;a3&gt;Bethlehem Million&lt;/a3&gt;, &lt;a4&gt;Jane Adams&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105011Z" creationid="maria" creationdate="20230602T105011Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Gideon Adlon&lt;/a1&gt;, &lt;a2&gt;Dylan Sprayberry&lt;/a2&gt;, &lt;a3&gt;Bethlehem Million&lt;/a3&gt;, &lt;a4&gt;Jane Adams&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Hannah John-Kamen&lt;/a1&gt;, &lt;a2&gt;Douglas Booth&lt;/a2&gt;, &lt;a3&gt;Colm Meaney&lt;/a3&gt;, &lt;a4&gt;Jamie-Lee O'Donnell&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230520T150751Z" creationid="maria" creationdate="20230520T150751Z">
@@ -2232,6 +2288,14 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230521T220033Z" creationid="maria" creationdate="20230521T220033Z">
         <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Lachlan Watson&lt;/a1&gt;, &lt;a2&gt;Michele Hicks&lt;/a2&gt;, &lt;a3&gt;Shunori Ramanathan&lt;/a3&gt;, &lt;a4&gt;Brendan Meyer&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Starring:&lt;/s0&gt; &lt;a1&gt;Lily Sullivan&lt;/a1&gt;, &lt;a2&gt;Alyssa Sutherland&lt;/a2&gt;, &lt;a3&gt;Morgan Davies&lt;/a3&gt;, &lt;a4&gt;Gabrielle Echols&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105155Z" creationid="maria" creationdate="20230602T105155Z">
+        <seg>&lt;s0&gt;Reparto:&lt;/s0&gt; &lt;a1&gt;Lily Sullivan&lt;/a1&gt;, &lt;a2&gt;Alyssa Sutherland&lt;/a2&gt;, &lt;a3&gt;Morgan Davies&lt;/a3&gt;, &lt;a4&gt;Gabrielle Echols&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2588,6 +2652,14 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; As the pandemic steadily brings the world to a halt, Parker and her best friend Miri decide to quarantine at...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105000Z" creationid="maria" creationdate="20230602T105000Z">
+        <seg>Sinopsis: Mientras la pandemia paraliza el mundo, Parker y su mejor amiga Miri deciden ponerse en cuarentena en... [Más]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; Candy is a late-night radio DJ with a program where people call to tell her real horror stories.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121411Z" creationid="maria" creationdate="20230521T220140Z">
@@ -2640,6 +2712,15 @@ Consenso de la crítica: Aguas turbulentas incluso para los nadadores más fuert
       </tuv>
       <tuv lang="es-ES" changeid="Julia_Hurtado" changedate="20230531T121404Z" creationid="maria" creationdate="20230521T215939Z">
         <seg>Sinopsis: En CONSECRATION, tras la sospechosa muerte de su hermano, un sacerdote, Grace (Jena Malone) acude al Convento del Monte Salvador... [Más]&lt;s0&gt;&lt;/s0&gt;&lt;a1&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Synopsis:&lt;/s0&gt; In the fifth Evil Dead film, a road-weary Beth pays an overdue visit to her older sister Ellie, who is...&lt;a1&gt; [More]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230602T105147Z" creationid="maria" creationdate="20230602T105147Z">
+        <seg>Sinopsis: En la quinta entrega de Evil Dead, Beth, cansada de la carretera, visita a su hermana mayor, Ellie, que... [Más]
+</seg>
       </tuv>
     </tu>
     <tu>
